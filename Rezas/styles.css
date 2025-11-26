@@ -1,0 +1,324 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    background: #fafafa;
+    min-height: 100vh;
+    padding: 0;
+    line-height: 1.6;
+    color: #1a1a1a;
+}
+
+/* === HEADER === */
+header {
+    background: #ffffff;
+    border-bottom: 1px solid #e5e5e5;
+    padding: 1.5rem 2rem;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+}
+
+header h1 {
+    font-size: 1.75rem;
+    font-weight: 700;
+    color: #1a1a1a;
+    letter-spacing: -0.02em;
+    margin: 0;
+}
+
+/* === CONTAINER === */
+#container {
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 0;
+}
+
+/* === ORIXÁ (Nível superior) === */
+.orixa {
+    margin-bottom: 0;
+    background: #ffffff;
+    border: none;
+    border-bottom: 1px solid #e5e5e5;
+    overflow: hidden;
+}
+
+.orixa-header {
+    background: #ffffff;
+    padding: 1.25rem 1.5rem;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #e5e5e5;
+    transition: background 0.15s ease;
+}
+
+.orixa-header:hover {
+    background: #f9f9f9;
+}
+
+.orixa-header h1 {
+    color: #1a1a1a;
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin: 0;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+}
+
+.orixa-header .chevron {
+    width: 20px;
+    height: 20px;
+    opacity: 0.4;
+    transition: transform 0.2s ease;
+}
+
+.orixa.collapsed .orixa-header .chevron {
+    transform: rotate(-90deg);
+}
+
+.orixa-content {
+    padding: 0;
+    max-height: 50000px;
+    overflow: hidden;
+    transition: max-height 0.3s ease, padding 0.3s ease;
+}
+
+.orixa.collapsed .orixa-content {
+    max-height: 0;
+}
+
+/* === SECTION (Seções dentro do Orixá) === */
+section {
+    margin: 0;
+    //background: #ffffff;
+    border-bottom: 1px solid #e5e5e5;
+    overflow: hidden;
+}
+
+section:last-child {
+    border-bottom: none;
+}
+
+section h2 {
+    text-align: left;
+    color: #404040;
+    font-size: 1.125rem;
+    margin: 0;
+    font-weight: 600;
+    padding: 1rem 1.5rem;
+    //background: #fafafa;
+    border-bottom: 1px solid #e5e5e5;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    transition: background 0.15s ease;
+}
+
+section h2:hover {
+    background: #f5f5f5;
+}
+
+section h2 .chevron {
+    width: 18px;
+    height: 18px;
+    opacity: 0.4;
+    transition: transform 0.2s ease;
+}
+
+section.collapsed h2 .chevron {
+    transform: rotate(-90deg);
+}
+
+.section-content {
+    padding: 2rem;
+    max-height: 10000px;
+    overflow: hidden;
+    transition: max-height 0.3s ease, padding 0.3s ease;
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+section.collapsed .section-content {
+    max-height: 0;
+    padding: 0 2rem;
+}
+
+/* === BLOCOS (Cantos individuais) === */
+.block {
+    margin-bottom: 0.75rem;
+    background: #fafafa;
+    overflow: hidden;
+    border: 1px solid #e5e5e5;
+}
+
+.block:hover {
+    background: #f5f5f5;
+}
+
+.block-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 1.25rem;
+    cursor: pointer;
+}
+
+.block-content {
+    flex: 1;
+}
+
+.yo-text {
+    font-weight: 600;
+    font-size: 0.95rem;
+    color: #1a1a1a;
+    margin-bottom: 0.4rem;
+    letter-spacing: -0.01em;
+}
+
+.trans-text {
+    font-style: italic;
+    font-size: 0.875rem;
+    color: #737373;
+    letter-spacing: -0.01em;
+}
+
+.sing-text {
+    color: #737373;
+    font-weight: 500;
+    margin-right: 0.3rem;
+}
+
+.toggle-btn {
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 0.25rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: opacity 0.15s ease;
+    opacity: 0.3;
+}
+
+.toggle-btn:hover {
+    opacity: 0.6;
+}
+
+.toggle-btn .chevron {
+    width: 18px;
+    height: 18px;
+    transition: transform 0.2s ease;
+}
+
+.block.expanded .toggle-btn .chevron {
+    transform: rotate(180deg);
+}
+
+.pt-text {
+    max-height: 0;
+    overflow: hidden;
+    opacity: 0;
+    transition: all 0.2s ease;
+    padding: 0 1.25rem;
+    color: #404040;
+    font-size: 0.9rem;
+}
+
+.block.expanded .pt-text {
+    max-height: 500px;
+    opacity: 1;
+    padding: 0 1.25rem 1rem 1.25rem;
+    border-top: 1px solid #e5e5e5;
+}
+
+.note-text {
+    display: block;
+    font-size: 0.8rem;
+    color: #737373;
+    font-style: italic;
+    margin-top: 0.75rem;
+    padding: 0.75rem;
+    background: #f5f5f5;
+    border-left: 2px solid #d4d4d4;
+}
+
+/* === BLOCKQUOTE (Transliteração completa) === */
+blockquote {
+    margin-top: 2rem;
+    padding: 1.5rem;
+    background: #fafafa;
+    border-left: 3px solid #737373;
+}
+
+blockquote h3 {
+    color: #404040;
+    font-size: 1rem;
+    font-weight: 600;
+    margin-bottom: 1rem;
+    text-align: left;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+}
+
+.quotetrans-text {
+    font-style: italic;
+    color: #737373;
+    padding: 0.5rem 0;
+    margin: 0.25rem 0;
+    font-size: 0.875rem;
+    letter-spacing: -0.01em;
+}
+
+/* === LOADING === */
+.loading {
+    text-align: center;
+    padding: 3rem;
+    color: #737373;
+    font-size: 1rem;
+}
+
+.error {
+    text-align: center;
+    padding: 2rem;
+    color: #dc2626;
+    background: #fef2f2;
+    border: 1px solid #fecaca;
+    margin: 2rem;
+}
+
+@media (max-width: 768px) {
+    header {
+        padding: 1.25rem 1rem;
+    }
+    
+    header h1 {
+        font-size: 1.5rem;
+    }
+    
+    .orixa-header h1 {
+        font-size: 1.25rem;
+    }
+    
+    section h2 {
+        font-size: 1rem;
+    }
+    
+    .section-content {
+        padding: 1.5rem 1rem;
+    }
+    
+    section.collapsed .section-content {
+        padding: 0 1rem;
+    }
+    
+    .block-header {
+        padding: 0.875rem 1rem;
+    }
+}

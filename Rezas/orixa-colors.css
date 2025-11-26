@@ -1,0 +1,218 @@
+/* === CORES DOS ORIXÁS === */
+/* Adicione a classe correspondente no elemento .orixa no HTML */
+
+/* Bará - Vermelho escuro */
+.orixa-bara .orixa-header {
+    background: linear-gradient(135deg, rgba(130, 31, 34, 0.08) 0%, rgba(130, 31, 34, 0.12) 100%);
+    border-bottom: 1px solid rgba(130, 31, 34, 0.15);
+}
+
+.orixa-bara .orixa-header:hover {
+    background: linear-gradient(135deg, rgba(130, 31, 34, 0.12) 0%, rgba(130, 31, 34, 0.16) 100%);
+}
+
+.orixa-bara .orixa-header h1 {
+    color: rgb(100, 24, 26);
+}
+
+.orixa-bara .orixa-content {
+    background: linear-gradient(180deg, rgba(130, 31, 34, 0.02) 0%, rgba(130, 31, 34, 0.01) 100%);
+}
+
+/* Ogun - Verde escuro */
+.orixa-ogun .orixa-header {
+    background: linear-gradient(135deg, rgba(16, 56, 49, 0.08) 0%, rgba(16, 56, 49, 0.12) 100%);
+    border-bottom: 1px solid rgba(16, 56, 49, 0.15);
+}
+
+.orixa-ogun .orixa-header:hover {
+    background: linear-gradient(135deg, rgba(16, 56, 49, 0.12) 0%, rgba(16, 56, 49, 0.16) 100%);
+}
+
+.orixa-ogun .orixa-header h1 {
+    color: rgb(12, 43, 38);
+}
+
+.orixa-ogun .orixa-content {
+    background: linear-gradient(180deg, rgba(16, 56, 49, 0.02) 0%, rgba(16, 56, 49, 0.01) 100%);
+}
+
+/* Oya - Marrom */
+.orixa-oya .orixa-header {
+    background: linear-gradient(135deg, rgba(60, 33, 21, 0.08) 0%, rgba(60, 33, 21, 0.12) 100%);
+    border-bottom: 1px solid rgba(60, 33, 21, 0.15);
+}
+
+.orixa-oya .orixa-header:hover {
+    background: linear-gradient(135deg, rgba(60, 33, 21, 0.12) 0%, rgba(60, 33, 21, 0.16) 100%);
+}
+
+.orixa-oya .orixa-header h1 {
+    color: rgb(60, 33, 21);
+}
+
+.orixa-oya .orixa-content {
+    background: linear-gradient(180deg, rgba(60, 33, 21, 0.02) 0%, rgba(60, 33, 21, 0.01) 100%);
+}
+
+/* Xangô - Vermelho tijolo */
+.orixa-xango .orixa-header {
+    background: linear-gradient(135deg, rgba(85, 28, 28, 0.08) 0%, rgba(85, 28, 28, 0.12) 100%);
+    border-bottom: 1px solid rgba(85, 28, 28, 0.15);
+}
+
+.orixa-xango .orixa-header:hover {
+    background: linear-gradient(135deg, rgba(85, 28, 28, 0.12) 0%, rgba(85, 28, 28, 0.16) 100%);
+}
+
+.orixa-xango .orixa-header h1 {
+    color: rgb(85, 28, 28);
+}
+
+.orixa-xango .orixa-content {
+    background: linear-gradient(180deg, rgba(85, 28, 28, 0.02) 0%, rgba(85, 28, 28, 0.01) 100%);
+}
+
+/* Odé - Azul escuro */
+.orixa-ode .orixa-header {
+    background: linear-gradient(135deg, rgba(26, 65, 118, 0.08) 0%, rgba(26, 65, 118, 0.12) 100%);
+    border-bottom: 1px solid rgba(26, 65, 118, 0.15);
+}
+
+.orixa-ode .orixa-header:hover {
+    background: linear-gradient(135deg, rgba(26, 65, 118, 0.12) 0%, rgba(26, 65, 118, 0.16) 100%);
+}
+
+.orixa-ode .orixa-header h1 {
+    color: rgb(20, 50, 90);
+}
+
+.orixa-ode .orixa-content {
+    background: linear-gradient(180deg, rgba(26, 65, 118, 0.02) 0%, rgba(26, 65, 118, 0.01) 100%);
+}
+
+/* Ossain - Verde */
+.orixa-ossain .orixa-header {
+    background: linear-gradient(135deg, rgba(18, 91, 43, 0.08) 0%, rgba(18, 91, 43, 0.12) 100%);
+    border-bottom: 1px solid rgba(18, 91, 43, 0.15);
+}
+
+.orixa-ossain .orixa-header:hover {
+    background: linear-gradient(135deg, rgba(18, 91, 43, 0.12) 0%, rgba(18, 91, 43, 0.16) 100%);
+}
+
+.orixa-ossain .orixa-header h1 {
+    color: rgb(14, 70, 33);
+}
+
+.orixa-ossain .orixa-content {
+    background: linear-gradient(180deg, rgba(18, 91, 43, 0.02) 0%, rgba(18, 91, 43, 0.01) 100%);
+}
+
+/* Xapanã - Roxo escuro */
+.orixa-xapana .orixa-header {
+    background: linear-gradient(135deg, rgba(70, 21, 37, 0.08) 0%, rgba(70, 21, 37, 0.12) 100%);
+    border-bottom: 1px solid rgba(70, 21, 37, 0.15);
+}
+
+.orixa-xapana .orixa-header:hover {
+    background: linear-gradient(135deg, rgba(70, 21, 37, 0.12) 0%, rgba(70, 21, 37, 0.16) 100%);
+}
+
+.orixa-xapana .orixa-header h1 {
+    color: rgb(70, 21, 37);
+}
+
+.orixa-xapana .orixa-content {
+    background: linear-gradient(180deg, rgba(70, 21, 37, 0.02) 0%, rgba(70, 21, 37, 0.01) 100%);
+}
+
+/* Obá - Rosa escuro */
+.orixa-oba .orixa-header {
+    background: linear-gradient(135deg, rgba(159, 65, 122, 0.08) 0%, rgba(159, 65, 122, 0.12) 100%);
+    border-bottom: 1px solid rgba(159, 65, 122, 0.15);
+}
+
+.orixa-oba .orixa-header:hover {
+    background: linear-gradient(135deg, rgba(159, 65, 122, 0.12) 0%, rgba(159, 65, 122, 0.16) 100%);
+}
+
+.orixa-oba .orixa-header h1 {
+    color: rgb(120, 50, 92);
+}
+
+.orixa-oba .orixa-content {
+    background: linear-gradient(180deg, rgba(159, 65, 122, 0.02) 0%, rgba(159, 65, 122, 0.01) 100%);
+}
+
+/* Ibeji - Laranja */
+.orixa-ibeji .orixa-header {
+    background: linear-gradient(135deg, rgba(130, 68, 22, 0.08) 0%, rgba(130, 68, 22, 0.12) 100%);
+    border-bottom: 1px solid rgba(130, 68, 22, 0.15);
+}
+
+.orixa-ibeji .orixa-header:hover {
+    background: linear-gradient(135deg, rgba(130, 68, 22, 0.12) 0%, rgba(130, 68, 22, 0.16) 100%);
+}
+
+.orixa-ibeji .orixa-header h1 {
+    color: rgb(100, 52, 17);
+}
+
+.orixa-ibeji .orixa-content {
+    background: linear-gradient(180deg, rgba(130, 68, 22, 0.02) 0%, rgba(130, 68, 22, 0.01) 100%);
+}
+
+/* Oxum - Dourado */
+.orixa-oxum .orixa-header {
+    background: linear-gradient(135deg, rgba(137, 97, 18, 0.08) 0%, rgba(137, 97, 18, 0.12) 100%);
+    border-bottom: 1px solid rgba(137, 97, 18, 0.15);
+}
+
+.orixa-oxum .orixa-header:hover {
+    background: linear-gradient(135deg, rgba(137, 97, 18, 0.12) 0%, rgba(137, 97, 18, 0.16) 100%);
+}
+
+.orixa-oxum .orixa-header h1 {
+    color: rgb(105, 75, 14);
+}
+
+.orixa-oxum .orixa-content {
+    background: linear-gradient(180deg, rgba(137, 97, 18, 0.02) 0%, rgba(137, 97, 18, 0.01) 100%);
+}
+
+/* Yemoja - Azul ciano */
+.orixa-yemoja .orixa-header {
+    background: linear-gradient(135deg, rgba(40, 123, 128, 0.08) 0%, rgba(40, 123, 128, 0.12) 100%);
+    border-bottom: 1px solid rgba(40, 123, 128, 0.15);
+}
+
+.orixa-yemoja .orixa-header:hover {
+    background: linear-gradient(135deg, rgba(40, 123, 128, 0.12) 0%, rgba(40, 123, 128, 0.16) 100%);
+}
+
+.orixa-yemoja .orixa-header h1 {
+    color: rgb(30, 95, 99);
+}
+
+.orixa-yemoja .orixa-content {
+    background: linear-gradient(180deg, rgba(40, 123, 128, 0.02) 0%, rgba(40, 123, 128, 0.01) 100%);
+}
+
+/* Oxalá - Cinza azulado */
+.orixa-oxala .orixa-header {
+    background: linear-gradient(135deg, rgba(84, 109, 112, 0.08) 0%, rgba(84, 109, 112, 0.12) 100%);
+    border-bottom: 1px solid rgba(84, 109, 112, 0.15);
+}
+
+.orixa-oxala .orixa-header:hover {
+    background: linear-gradient(135deg, rgba(84, 109, 112, 0.12) 0%, rgba(84, 109, 112, 0.16) 100%);
+}
+
+.orixa-oxala .orixa-header h1 {
+    color: rgb(65, 85, 87);
+}
+
+.orixa-oxala .orixa-content {
+    background: linear-gradient(180deg, rgba(84, 109, 112, 0.02) 0%, rgba(84, 109, 112, 0.01) 100%);
+}

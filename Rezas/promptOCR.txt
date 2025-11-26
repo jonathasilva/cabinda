@@ -1,0 +1,96 @@
+﻿Quero que você faça OCR de uma página de rezas e produza um JSON em um formato específico.
+AS IMAGENS ESTÃO EM SEQUENCIA. RESPEITAR A SEQUENCIA DAS PAGINAS POIS TEM PAGINAS QUE PASSAM DE UMA IMAGEM PARA OUTRA!
+Quando ouver um titulo branco no centro da pagina antes dos demais textos e entre parenteses esse é o titulo!
+Quando haver (Segunda Versão) ou (Outra Versão): Iniciar um novo objeto com "titulo" : "titulo(segunda versao)"
+
+### Contexto visual da página
+
+Na imagem ou texto que vou enviar, os elementos aparecem assim:
+
+- Texto branco GRANDE = texto em yorubá.
+- Texto AMARELO = transliteração em português (como se canta).
+- Texto branco menor = tradução em português.
+
+Cada “canto” é um conjunto de 3 textos na ordem:
+1) yorubá  
+2) transliteração  
+3) tradução em português  
+
+Cada conjunto desses vira um objeto dentro de "cantos".
+
+### Estrutura do JSON que você deve gerar
+
+Use sempre este formato, com um único orixá por arquivo:
+
+{
+  "<ORIXA_AQUI>": [
+    {
+      "id": "[preencher]",
+      "titulo": "[preencher]",
+      "cantos": [
+        {
+          "sing": "...",
+          "yoruba": "...",
+          "transliteracao": "...",
+          "traducao": "...",
+          "notetexts": []
+        }
+        // próximos cantos...
+      ]
+    }
+  ]
+}
+
+Regras importantes:
+
+1. Eu vou informar o nome do orixá em texto, por exemplo: `bara`.  
+   Use esse valor exatamente como chave de topo no JSON, assim:
+   {
+     "bara": [ ... ]
+   }
+
+2. SEMPRE coloque:
+   "id": "[preencher]"
+   "titulo": "[preencher]"
+   Não tente descobrir nem inferir id ou título a partir do texto.  
+   Esses campos são apenas placeholders para eu editar depois.
+
+3. Para cada canto, preencha:
+   - "yoruba": exatamente o texto em yorubá (do texto branco grande).
+   - "transliteracao": exatamente o texto amarelo, sem corrigir, sem normalizar.
+   - "traducao": exatamente a tradução em português (texto branco pequeno).
+
+4. Campo "sing":
+   - Se a linha do yorubá vier marcada com algo como "P", "R" ou outra letra que indica quem canta (por exemplo, “P:” para ponto, “R:” para resposta), use só a letra em "sing", sem dois pontos.
+     Exemplo:
+       Linha original: "P: Àgbà dó dí burúkú"
+       JSON:
+         "sing": "P",
+         "yoruba": "Àgbà dó dí burúkú"
+   - Se não houver marca nenhuma, use:
+         "sing": "none"
+
+5. Campo "notetexts":
+   - Se eu não disser nada, use sempre um array vazio:
+         "notetexts": []
+   - Só preencha notas se eu der instruções explícitas em texto (por exemplo: “adicione esta observação em notetexts: ...”).
+
+### Regras de OCR
+
+- Foque em máxima fidelidade ao texto.  
+- NÃO corrija ortografia do yorubá.  
+- NÃO troque nem remova acentos e sinais diacríticos (ẹ, ṣ, ọ, à, è, ò, ã, etc).  
+- NÃO reescreva nem “melhore” o português da tradução, apenas transcreva exatamente o que aparece.  
+- Mantenha a ordem original dos cantos.
+
+Se algum trecho estiver ilegível, escreva exatamente:
+"[ilegível]"
+no lugar da parte que não conseguir ler.
+
+### Saída
+
+- Devolva SOMENTE o JSON, sem explicações, sem comentários, sem texto extra.
+- O JSON deve ser válido, com aspas duplas em todas as chaves e valores string.
+- Não coloque vírgula sobrando no final de arrays ou objetos.
+
+Agora vou informar o nome do orixá e o conteúdo da página (imagem ou texto OCR cru). Use o nome do orixá como chave de topo e siga todas as instruções acima para gerar o JSON.

@@ -1,0 +1,196 @@
+﻿<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Orientações básicas sobre o idioma Yorubá</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        /* Base layout */
+        :root
+        {
+            --bg: #f5f1ed;
+            --paper: #ffffff;
+            --ink: #3b2a2a;
+            --accent: #a32035;
+            --muted: #6b5a5a;
+            --radius: 14px;
+        }
+        *
+        {
+            box-sizing: border-box;
+        }
+        body
+        {
+            margin: 0;
+            font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+            background: radial-gradient(circle at top, #fff 0, var(--bg) 55%);
+            color: var(--ink);
+            line-height: 1.65;
+            padding: 2.5rem 1rem 4rem;
+        }
+        .page
+        {
+            max-width: 900px;
+            margin: 0 auto;
+            background: var(--paper);
+            border-radius: var(--radius);
+            box-shadow: 0 20px 45px rgba(0,0,0,0.08);
+            border: 1px solid rgba(163,32,53,0.08);
+            overflow: hidden;
+        }
+        header
+        {
+            background: linear-gradient(120deg, #a32035 0%, #c63750 45%, #f5b5c4 120%);
+            color: #fff;
+            padding: 1.6rem 2rem 1.4rem;
+        }
+        header h1
+        {
+            margin: 0;
+            font-size: 1.6rem;
+            letter-spacing: -0.01em;
+        }
+        header p
+        {
+            margin: .25rem 0 0;
+            opacity: .9;
+        }
+        main
+        {
+            padding: 2rem;
+        }
+        h2
+        {
+            margin-top: 1.8rem;
+            color: var(--accent);
+            font-size: 1.25rem;
+        }
+        h3
+        {
+            margin-top: 1.1rem;
+            color: #523;
+        }
+        .card
+        {
+            background: rgba(163,32,53,0.03);
+            border: 1px solid rgba(163,32,53,0.08);
+            border-radius: 10px;
+            padding: 1rem 1rem 1rem 1.1rem;
+            margin-top: 1rem;
+        }
+        .muted
+        {
+            color: var(--muted);
+            font-size: .93rem;
+        }
+        code
+        {
+            background: rgba(0,0,0,0.035);
+            padding: .12rem .45rem;
+            border-radius: .35rem;
+            font-family: ui-monospace, SFMono-Regular, SFMono-Regular, SFMono-Regular, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+            font-size: .9rem;
+        }
+        ul
+        {
+            padding-left: 1.1rem;
+        }
+        li
+        {
+            margin-bottom: .3rem;
+        }
+        footer
+        {
+            border-top: 1px solid rgba(0,0,0,0.035);
+            padding: 1.25rem 2rem 1.75rem;
+            font-size: .85rem;
+            color: #917a7a;
+            background: #fffdfd;
+        }
+        @media (max-width: 620px)
+        {
+            main,
+            header,
+            footer
+            {
+                padding-left: 1.1rem;
+                padding-right: 1.1rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="page">
+        <header>
+            <h1>Orientações básicas sobre o idioma Yorubá</h1>
+            <p>Resumo introdutório baseado no material do PDF.</p>
+        </header>
+        <main>
+            <section>
+                <h2>Alfabeto</h2>
+                <p>
+                    A B D E Ẹ F G GB H I J K L M N O Ọ P R S Ṣ T U W Y
+                </p>
+            </section>
+
+            <section>
+                <h2>Vogais</h2>
+                <h3>Vogais simples (7)</h3>
+                <p>A, E, Ẹ, I, O, Ọ, U</p>
+
+                <h3>Vogais nasais</h3>
+                <p>
+                    Formadas com o acréscimo da letra <code>N</code>: <strong>AN, ẸN, IN, ỌN, UN</strong>.
+                </p>
+            </section>
+
+            <section>
+                <h2>Pronúncia</h2>
+
+                <div class="card">
+                    <h3>Letras com ponto embaixo</h3>
+                    <p><strong>Ọ</strong> – som aberto, como em “bola”.</p>
+                    <p><strong>O</strong> – som aberto, como em “bolo”.</p>
+                    <p><strong>Ẹ</strong> – som aberto, como em “dela”.</p>
+                    <p><strong>E</strong> – som fechado, como em “dele”.</p>
+                    <p><strong>Ṣ</strong> – som de <em>x</em> ou <em>ch</em>, como em “xadrez” ou “chuva”.</p>
+                    <p><strong>S</strong> – som de <em>s</em>, como em “saúde”.</p>
+                </div>
+
+                <div class="card">
+                    <h3>Outras letras</h3>
+                    <p><strong>H</strong> – não é mudo; som aproximado de <em>rr</em>.</p>
+                    <p><strong>G</strong> – sempre som de “g” duro, como em “gostar”.</p>
+                    <p><strong>J</strong> – som de “dj”, como em “adjetivo”.</p>
+                    <p><strong>R</strong> – som brando, como em “arisco”.</p>
+                    <p><strong>W</strong> – tem som de “u”.</p>
+                    <p><strong>N</strong> – pode nasalizar as vogais e, quando seguido de consoante formando gerúndio, tem som gutural, aproximado de “un”.</p>
+                </div>
+
+                <div class="card">
+                    <h3>Consoantes duplas e especiais</h3>
+                    <p><strong>P</strong> – na grafia yorubá representa o som de <code>kp</code> pronunciados ao mesmo tempo.</p>
+                    <p><strong>GB</strong> – as duas letras são pronunciadas ao mesmo tempo.</p>
+                    <p class="muted">
+                        Observação: nas combinações <code>KP</code> e <code>GB</code>, o K e o G entram bem pouco, só para diferenciar de outras letras.
+                    </p>
+                </div>
+
+                <p class="muted">
+                    Também existe a questão da tonalidade das vogais, mas o documento original não detalha aqui.
+                </p>
+            </section>
+
+            <section>
+                <h2>Fonte</h2>
+                <p class="muted">
+                    Trechos do PDF “Idioma Yorubá”. Autor indicado: <strong>@siddeode</strong>.
+                </p>
+            </section>
+        </main>
+        <footer>
+            <p>HTML gerado a partir do conteúdo da página em PDF para estudo de pronúncia e escrita do Yorubá.</p>
+        </footer>
+    </div>
+</body>
+</html>
