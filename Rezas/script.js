@@ -45,9 +45,44 @@ function setupOrixaToggles()
 
         if (header)
         {
-            header.addEventListener('click', () =>
+            header.addEventListener('click', (e) =>
             {
-                orixa.classList.toggle(Classes.COLLAPSED);
+                if (e.ctrlKey || e.metaKey)
+                {
+                    const sections = getElements(Selectors.SECTION);
+                    const allCollapsed = Array.from(sections).every(section => section.classList.contains(Classes.COLLAPSED));
+                    sections.forEach(section =>
+                    {
+                        if (allCollapsed)
+                        {
+                            section.classList.remove(Classes.COLLAPSED);
+                        }
+                        else
+                        {
+                            section.classList.add(Classes.COLLAPSED);
+                        }
+                    });
+
+                    if (orixa.classList.contains(Classes.COLLAPSED))
+                    {
+                        orixa.classList.remove(Classes.COLLAPSED);
+                    }
+                }
+                else
+                {
+                    orixa.classList.toggle(Classes.COLLAPSED);
+
+                    if (orixa.classList.contains(Classes.COLLAPSED))
+                    {
+                        // Collapse all sections inside the orixa when collapsing the orixa
+                        const sections = getElements(Selectors.SECTION);
+                        sections.forEach(section =>
+                        {
+                            section.classList.add(Classes.COLLAPSED);
+                        });
+                    }
+                }
+
             });
         }
     });
@@ -64,8 +99,10 @@ function setupSectionToggles()
 
         if (header)
         {
-            header.addEventListener('click', () =>
+            header.addEventListener('click', (e) =>
             {
+
+
                 section.classList.toggle(Classes.COLLAPSED);
             });
         }
@@ -82,7 +119,7 @@ function setupBlockToggles()
         const header = getElement(block, Selectors.BLOCK_HEADER);
         const toggleBtn = getElement(block, Selectors.TOGGLE_BTN);
 
-        const toggleExpand = () =>
+        const toggleExpand = (e) =>
         {
             block.classList.toggle(Classes.EXPANDED);
         };
@@ -144,6 +181,58 @@ window.collapseAllSections = () =>
     {
         section.classList.add(Classes.COLLAPSED);
     });
+};
+
+window.expandAllSectionsInOrixa = (orixaId) =>
+{
+    const orixa = document.getElementById(orixaId);
+    if (orixa)
+    {
+        const sections = getElements.call(orixa, Selectors.SECTION);
+        sections.forEach(section =>
+        {
+            section.classList.remove(Classes.COLLAPSED);
+        });
+    }
+};
+
+window.collapseAllSectionsInOrixa = (orixaId) =>
+{
+    const orixa = document.getElementById(orixaId);
+    if (orixa)
+    {
+        const sections = getElements.call(orixa, Selectors.SECTION);
+        sections.forEach(section =>
+        {
+            section.classList.add(Classes.COLLAPSED);
+        });
+    }
+};
+
+window.expandAllBLocksInSection = (sectionId) =>
+{
+    const section = document.getElementById(sectionId);
+    if (section)
+    {
+        const blocks = getElements.call(section, Selectors.BLOCK);
+        blocks.forEach(block =>
+        {
+            block.classList.add(Classes.EXPANDED);
+        });
+    }
+};
+
+window.collapseAllBlocksInSection = (sectionId) =>
+{
+    const section = document.getElementById(sectionId);
+    if (section)
+    {
+        const blocks = getElements.call(section, Selectors.BLOCK);
+        blocks.forEach(block =>
+        {
+            block.classList.remove(Classes.EXPANDED);
+        });
+    }
 };
 
 window.expandAllOrixas = () =>

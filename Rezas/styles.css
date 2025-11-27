@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;500;600;700&display=swap');
 
 * {
     margin: 0;
@@ -7,12 +7,12 @@
 }
 
 body {
-    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    font-family: 'Source Sans 3', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
     background: #fafafa;
     min-height: 100vh;
     padding: 0;
-    line-height: 1.6;
-    color: #1a1a1a;
+    line-height: 1.5;
+    color: #262626;
 }
 
 /* === HEADER === */
@@ -96,7 +96,6 @@ header h1 {
 /* === SECTION (Seções dentro do Orixá) === */
 section {
     margin: 0;
-    //background: #ffffff;
     border-bottom: 1px solid #e5e5e5;
     overflow: hidden;
 }
@@ -112,7 +111,6 @@ section h2 {
     margin: 0;
     font-weight: 600;
     padding: 1rem 1.5rem;
-    //background: #fafafa;
     border-bottom: 1px solid #e5e5e5;
     cursor: pointer;
     display: flex;
@@ -152,7 +150,7 @@ section.collapsed .section-content {
 
 /* === BLOCOS (Cantos individuais) === */
 .block {
-    margin-bottom: 0.75rem;
+    margin-bottom: 0.35rem;
     background: #fafafa;
     overflow: hidden;
     border: 1px solid #e5e5e5;
@@ -166,7 +164,7 @@ section.collapsed .section-content {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 1rem 1.25rem;
+    padding: 0.65rem 1rem;
     cursor: pointer;
 }
 
@@ -176,17 +174,19 @@ section.collapsed .section-content {
 
 .yo-text {
     font-weight: 600;
-    font-size: 0.95rem;
-    color: #1a1a1a;
-    margin-bottom: 0.4rem;
+    font-size: 1rem;
+    color: #262626;
+    margin-bottom: 0.25rem;
     letter-spacing: -0.01em;
+    line-height: 1.4;
 }
 
 .trans-text {
     font-style: italic;
-    font-size: 0.875rem;
+    font-size: 0.9rem;
     color: #737373;
     letter-spacing: -0.01em;
+    line-height: 1.4;
 }
 
 .sing-text {
@@ -226,15 +226,16 @@ section.collapsed .section-content {
     overflow: hidden;
     opacity: 0;
     transition: all 0.2s ease;
-    padding: 0 1.25rem;
+    padding: 0 1rem;
     color: #404040;
-    font-size: 0.9rem;
+    font-size: 0.95rem;
+    line-height: 1.5;
 }
 
 .block.expanded .pt-text {
     max-height: 500px;
     opacity: 1;
-    padding: 0 1.25rem 1rem 1.25rem;
+    padding: 0.65rem 1rem 0.75rem 1rem;
     border-top: 1px solid #e5e5e5;
 }
 

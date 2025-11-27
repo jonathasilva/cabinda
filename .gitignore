@@ -1,0 +1,20 @@
+# Node modules
+node_modules/
+
+# Backup files
+*.bak
+
+# VS Code settings
+.vscode/
+
+# PHP
+vendor/
+composer.phar
+composer.lock
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log

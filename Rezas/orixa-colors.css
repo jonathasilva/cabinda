@@ -74,20 +74,20 @@
 }
 
 /* Odé - Azul escuro */
-.orixa-ode .orixa-header {
+.orixa-ode-ati-otin .orixa-header {
     background: linear-gradient(135deg, rgba(26, 65, 118, 0.08) 0%, rgba(26, 65, 118, 0.12) 100%);
     border-bottom: 1px solid rgba(26, 65, 118, 0.15);
 }
 
-.orixa-ode .orixa-header:hover {
+.orixa-ode-ati-otin .orixa-header:hover {
     background: linear-gradient(135deg, rgba(26, 65, 118, 0.12) 0%, rgba(26, 65, 118, 0.16) 100%);
 }
 
-.orixa-ode .orixa-header h1 {
+.orixa-ode-ati-otin .orixa-header h1 {
     color: rgb(20, 50, 90);
 }
 
-.orixa-ode .orixa-content {
+.orixa-ode-ati-otin .orixa-content {
     background: linear-gradient(180deg, rgba(26, 65, 118, 0.02) 0%, rgba(26, 65, 118, 0.01) 100%);
 }
 

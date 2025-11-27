@@ -43,8 +43,8 @@ for (const chave in data.rezas)
 {
     data.rezas[chave] = data.rezas[chave].map(item =>
     {
-        //Corrige o Titulo removendo parenteses, e espacos desnecessarios
-        item.titulo = item.titulo.replace(/[()]/g, "").trim();
+        //Corrige o Titulo removendo parenteses, colchetes e chaves, e espacos desnecessarios
+        item.titulo = item.titulo.replace(/[()\[\]{}]/g, "").trim();
         item.id = gerarId(item.titulo);
         return item;
     });

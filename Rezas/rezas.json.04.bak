@@ -1821,7 +1821,7 @@
             },
             {
                 "id": "oguede-exc-kabinda",
-                "titulo": "Óguédé [Exc. Kabinda]",
+                "titulo": "Óguédé Exc. Kabinda",
                 "cantos": [
                     {
                         "sing": "none",
@@ -1848,7 +1848,7 @@
             },
             {
                 "id": "darrum-rufar",
-                "titulo": "Darrum [Rufar]",
+                "titulo": "Darrum Rufar",
                 "cantos": [
                     {
                         "sing": "none",
@@ -1916,7 +1916,7 @@
             },
             {
                 "id": "adarrum-orinago",
-                "titulo": "Adarrum [Orinago]",
+                "titulo": "Adarrum Orinago",
                 "cantos": [
                     {
                         "sing": "none",
@@ -1988,10 +1988,661 @@
                         "notetexts": []
                     }
                 ]
+            },
+            {
+                "id": "jeje",
+                "titulo": "Jeje",
+                "cantos": [
+                    {
+                        "sing": "P",
+                        "yoruba": "SÒGBÒ ndé",
+                        "transliteracao": "Sogbo ndê",
+                        "traducao": "Sogbo está chegando",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "A kà lù ọlọ́run ndé àyè-àyè, a kà lù ọlọ́run ndé",
+                        "transliteracao": "A ka lu ólórun ndê aie aie a ka lu ólórun ndê",
+                        "traducao": "Ele está vindo com força, dos céus, viva, viva, ele está vindo com força, dos céus, ele está chegando",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "none",
+                        "yoruba": "Báyìí amáa kófẹ, SÒGBÒ Báyìí amáa kófẹ, Báyìí amáa kófẹ, SÒGBÒ Báyìí amáa kófẹ o",
+                        "transliteracao": "Báyí amá kófé Sogbo báyí amá kófé báyí amá kófé Sogbo báyí ó mókófé o",
+                        "traducao": "Assim, sempre cheio de vigor, Sogbo é assim, sempre cheio de vida e vigor, assim, sempre cheio de vigor, Sogbo é assim, sempre cheio de vida e vigor",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Sogbo ilá ìyè",
+                        "transliteracao": "Sogbo ilá iye",
+                        "traducao": "Para Sogbo, quiabo é vida",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Popo láíláí, Sogbo ilá ìyè, popo láíláí",
+                        "transliteracao": "Popo láíláí Sogbo ilá iye popo láíláí",
+                        "traducao": "É força eterna nos músculos, para Sogbo, quiabo é vida, é força eterna nos músculos",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "none",
+                        "yoruba": "Ṣàngó pa yi, o ya popo, Aganjú Kábíyèsílé, Ṣàngó pa yi",
+                        "transliteracao": "Xangô pa yi o ia popo Aganjú Kábíyecílê Xangô pa yi",
+                        "traducao": "Xangô é muito resistente, sua musculatura é toda definida, que Aganjú tenha vida longa, Xangô é muito resistente",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "A gbá Ikú o",
+                        "transliteracao": "A gbá ikú o",
+                        "traducao": "Aquele que nos livra da morte",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Gbá, gbá",
+                        "transliteracao": "Gbá gbá",
+                        "traducao": "Livre-nos, livre-nos",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "A Gbá Ikú o",
+                        "transliteracao": "A gbá ikú o",
+                        "traducao": "Aquele que nos livra da morte",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "A mọ̀ sẹ́ pé",
+                        "transliteracao": "A mó sé pé",
+                        "traducao": "Sabe como atrasa-la",
+                        "notetexts": []
+                    }
+                ]
             }
         ],
-        "ode": [],
-        "ossain": [],
+        "ode-ati-otin": [
+            {
+                "id": "adarrum",
+                "titulo": "Adarrum",
+                "cantos": [
+                    {
+                        "sing": "none",
+                        "yoruba": "Ọ̀sán npa èrè pé, o mọ̀, oòrùn má èrè pé",
+                        "transliteracao": "Ósãn npa erepê omó orun má erepê",
+                        "traducao": "A tarde não é vantajosa para recompensas, ele sabe que sem o sol terá mais vantagem (Um grande caçador sabe caçar ao por do sol, pois a noite é mais serena, tranquila, um caçador treinado consegue escutar o \"pulmão da mata\", a respiração dos animais e é ai que ele se conecta com o ambiente e sem concorrência consegue ter a melhor caça, assim como os animais que saem a noite pra caçar e sempre alcançam o sucesso).",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Mínẹ̀rọ̀ mínẹ̀rọ̀ ọdẹ mínẹ̀rọ̀ mínẹ̀rọ̀ ọdẹ",
+                        "transliteracao": "Mínéró mínéró ódé mínéró mínéró ódé",
+                        "traducao": "Respire com calma, respire com calma Caçador (Odé), respire com calma, respire com calma Caçador",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Ọ̀sán npa, mínẹ̀rọ̀, mínẹ̀rọ̀ ọdẹ",
+                        "transliteracao": "Ósãn npa mínéró mínéró ódé",
+                        "traducao": "A tarde lhe incomoda, lhe aflinge, respire com calma, tenha calma e respire Caçador",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Ọdẹ ò mata / Ọdẹ o mọtá",
+                        "transliteracao": "Ódé o mata / ódé o mótá",
+                        "traducao": "Odé não atirou ainda / Odé capturou os inimigos",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Onígbó rò Ọdẹ / Ọ̀tìn bọ̀ rò Ọdẹ",
+                        "transliteracao": "Onígbôro Ódé / Otinbóro Ódé",
+                        "traducao": "Odé conhece a floresta e sabe vagar por ela / Otín retornou por Odé (Duas formas de cantar, na pergunta e resposta do lado esquerdo se dá continuidade no que se estava cantando antes, \"Odé ainda não atirou\" por que sabe o tempo certo de fazer isso e também sabe como se mover estando dentro da floresta. Na segunda forma, como dito anteriormente (pra quem adquiriu o documento \"Egbé Odé, Rezas e Contos dos caçadores) diz que ÒTÌN retornou para Ajudar ERINLẸ̀, seu futuro par romântico, segundo algumas crenças. Foi com a ajuda dela que venceram a batalha).",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "none",
+                        "yoruba": "Ọdẹ Ajagùnnà gbà mi o, Ajagùnnà, Ọdẹ Ajagùnnà gbà mi o, Ajagùnnà, ọmọ mọdẹ mọtìn aká rere, Ọdẹ Ajagùnnà gbà mi o",
+                        "transliteracao": "Ódé Ajagunãn gbamio adjagunãn Ódé adjagunãn gbamio adjagunãn ómó módé motin aka rere Ódé adjagunãn gbamio",
+                        "traducao": "Caçador estratégista, me salve, Caçador, Caçador estratégista, me salve, Caçador, o filho sabe que é Odé e Otin que lhe dão a sorte, Caçador estratégista, me salve (Essa cantiga é Originária de ÒRÌṢÀ AJAGÙNNÀ (ÒGÌYÁN), a palavra \"Ajagunan\" como vimos antes também significa Caçador/Guerreiro estratégista ou aquele que luta por algo com grande estratégia).",
+                        "notetexts": []
+                    }
+                ]
+            },
+            {
+                "id": "ajagunna-segunda-versao",
+                "titulo": "Ajagùnnà Segunda Versão",
+                "cantos": [
+                    {
+                        "sing": "none",
+                        "yoruba": "Ajagùnnà gbà mi o, Ajagùnnà, Ajagùnnà gbà mi o, Ajagùnnà, Ẹlẹ́mọ̀ṣọ́, Bàbá Olórogun, Ajagùnnà gbà mi o",
+                        "transliteracao": "Adjagunãn gbamio adjagunãn adjagunãn gbamio adjagunãn Élémóxó Baba Olôrogun adjagunãn gbamio",
+                        "traducao": "Ajagunan, me salve, oh Ajagunan, Ajagunan, me salve, oh Ajagunan, Aquele que se veste bem, o pai que está à frente da guerra, Ajagunan, me salve (1- Aqui é a versão mais próxima da cantiga original, cantada pelas comunidades Yorubanas que cultuam AJAGÙNNÀ 2- no lugar de OLÓROGUN, destacar os títulos e feitos de tal ÒRÌṢÀ a cada repetição, por exemplo: Bàbá ànílékè [Pai da fartura, abundância], Ìpèsí àpèjẹ [aquele que nos provém o banquete], Bàbá Olórọdẹ [Pai que está a frente da Caça/Caçador chefe).",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "none",
+                        "yoruba": "Ọdẹ tìbò un a bá dìlé, Ọdẹ tìbò un a bá dìlé a bá dìlé, a bá dìlé, Ọdẹ tìbò un a bá dìlé",
+                        "transliteracao": "Ódé tibóun a bádilê Ódé tibóun a bádilê a bádilê a bádilê Ódé tibóun a bádilê",
+                        "traducao": "Odé foi ao encontro de casa e lá ficou, Odé foi ao encontro de casa, retornou, ele foi ao encontro de casa, ele foi ao encontro de casa, Odé foi ao encontro de casa e por lá ficou",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "none",
+                        "yoruba": "Ọdẹ pa mi laró",
+                        "transliteracao": "Ódé pa mi larô",
+                        "traducao": "Pinte-me de Azul Odé",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "none",
+                        "yoruba": "Ọdẹ pa mi laró sà fọmọdẹ",
+                        "transliteracao": "Ódé pa mi larô sà fómódé",
+                        "traducao": "Pinte-me de Azul Odé, escolha-me como seu filho caçador (Através do costume da iniciação de alguns ÒRÌṢÀ em solo Yorubá, no culto tradicional, o Iniciado tem o corpo pintado pelo sacerdote e assim segue o ritual, com o corpo pintado até o fim. Na maioria dos cultos se usa a cor branca, porém, iniciados de Orixá ÈṢÙ por exemplo, dependendo da região, podem usar metade preta, metade vermelha. Devotos de ÒṢÓÒSÌ ou outros ÒRÌṢÀ da Caça usam a cor azul).",
+                        "notetexts": []
+                    }
+                ]
+            },
+            {
+                "id": "jeje",
+                "titulo": "Jeje",
+                "cantos": [
+                    {
+                        "sing": "none",
+                        "yoruba": "Lòkè lòkè lòkè, lòkè a bá èlò",
+                        "transliteracao": "Loke loke loke loke a bá elo",
+                        "traducao": "No alto, no alto, no alto, no alto irá encontrar seus instrumentos (Arco e flecha, lança, entre outros).",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Lòkè",
+                        "transliteracao": "Loke",
+                        "traducao": "No alto",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "A bá èlò",
+                        "transliteracao": "A bá elo",
+                        "traducao": "Encontrará seus instrumentos",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "AVEREKETE, AVEREKETE Yára",
+                        "transliteracao": "Averekete Averekete iára",
+                        "traducao": "Averekete, Averekete, rápido",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Gbogbo, Averekete, Averekete yára, gbogbo",
+                        "transliteracao": "Gbogbo Averekete Averekete iára gbogbo",
+                        "traducao": "Todos, Averekete, Averekete, seja rápido, todos",
+                        "notetexts": [
+                            "(Aqui saudamos Averekete, Vodun da Caça e da pesca, contam os antigos que assim deve se iniciar o \"Jeje\", saudando o Vodun, também falamos todos pois invocamos toda sua força e qualquer força caçadora, provedora de bem estar para sua comunidade. Nota-se que o \"Jeje\" de outros ÒRÌṢÀ também tem citação a Vodun's)."
+                        ]
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Ọdẹ gbere mi",
+                        "transliteracao": "Ódé gbere mi",
+                        "traducao": "Me de a Sorte Caçador",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Ọdẹ n'ẹran wò",
+                        "transliteracao": "Ódé néran wo",
+                        "traducao": "Quem cuida da carne é o Caçador",
+                        "notetexts": [
+                            "(GBERE MI ou PERE MI, ambos estão corretos e tem significado semilar, se o Orukó/Digina de ỌDẸ for GBEREMI, significa: Odé me trouxe a sorte ou Odé me abençoou)."
+                        ]
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Otì, Òtìn Ọdẹ sà pata mi, amaa Ọdẹ",
+                        "transliteracao": "Oti Otin Ódé sapata mi ama Ódé",
+                        "traducao": "Juntos, Otin e Odé disparam e me mostram a direção, é coisa de caçador",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Otì Òtìn Ọdẹ sápata mi amaa Ọdẹ, otì Òtìn Ọdẹ",
+                        "transliteracao": "Oti Otin Ódé sapata mi ama Ódé Oti Ótin Ódé",
+                        "traducao": "Juntos, Otin e Odé disparam e me mostram a direção, é coisa de caçador, juntos, Otin e Odé",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Kọlọbẹ Kọlọbẹ",
+                        "transliteracao": "Kólóbé kólóbé",
+                        "traducao": "Vamos saudar a faca, vamos saudar a faca",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Òbẹ, Òbẹ, Òbẹ o sí",
+                        "transliteracao": "Óbé Óbé Óbé ocí",
+                        "traducao": "A Faca, a Faca, a Faca, exatamente assim",
+                        "notetexts": []
+                    }
+                ]
+            },
+            {
+                "id": "jeje-segunda-versao",
+                "titulo": "Jeje Segunda Versão",
+                "cantos": [
+                    {
+                        "sing": "P",
+                        "yoruba": "Kọ lọ béè kọ lọ béè",
+                        "transliteracao": "Kólóbéé kólóbéé",
+                        "traducao": "Vamos saudar sua partida assim",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Ọdẹ, Ọdẹ, Ọdẹ Òtìn",
+                        "transliteracao": "Ódé Ódé Ódé Otin",
+                        "traducao": "Odé, Odé, Odé e Otin",
+                        "notetexts": [
+                            "(Sua partida seria a partida deles para caçar, ir buscar a prosperidade e trazer para nossa casa)."
+                        ]
+                    }
+                ]
+            }
+        ],
+        "ossain": [
+            {
+                "id": "adarrum",
+                "titulo": "Adarrum",
+                "cantos": [
+                    {
+                        "sing": "none",
+                        "yoruba": "Ọ̀sán npa èrè pé, o mọ̀, oòrùn má èrè pé",
+                        "transliteracao": "Ósãn npa erepê omó orun má erepê",
+                        "traducao": "A tarde não é vantajosa para recompensas, ele sabe que sem o sol terá mais vantagem",
+                        "notetexts": [
+                            "(Um grande caçador sabe caçar ao por do sol, pois a noite é mais serena, tranquila, um caçador treinado consegue escutar o \"pulmão da mata\", a respiração dos animais e é ai que ele se conecta com o ambiente e sem concorrência consegue ter a melhor caça, assim como os animais que saem a noite pra caçar e sempre alcançam o sucesso)."
+                        ]
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Mínẹ̀rò mínẹ̀rò ọdẹ mínẹ̀rò mínẹ̀rò ọdẹ",
+                        "transliteracao": "Mínéró mínéró ódé mínéró mínéró ódé",
+                        "traducao": "Respire com calma, respire com calma Caçador (Odé), respire com calma, respire com calma Caçador",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Ọ̀sán npa, mínẹ̀rò, mínẹ̀rò ọdẹ",
+                        "transliteracao": "Ósãn npa mínéró mínéró ódé",
+                        "traducao": "A tarde lhe incomoda, lhe aflinge, respire com calma, tenha calma e respire Caçador",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Ọdẹ ò mata / Ọdẹ o mọ̀tá",
+                        "transliteracao": "Ódé o mata / ódé o mótá",
+                        "traducao": "Odé não atirou ainda / Odé capturou os inimigos",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Onígbó rò Ọdẹ / Òtìn bọ̀ rò Ọdẹ",
+                        "transliteracao": "Onígbôro Ódé / Otinbóro Ódé",
+                        "traducao": "Odé conhece a floresta e sabe vagar por ela / Otín retornou por Odé",
+                        "notetexts": [
+                            "(Duas formas de cantar, na pergunta e resposta do lado esquerdo se dá continuidade no que se estava cantando antes, \"Odé ainda não atirou\" por que sabe o tempo certo de fazer isso e também sabe como se mover estando dentro da floresta. Na segunda forma, como dito anteriormente (pra quem adquiriu o documento \"Egbé Odé, Rezas e Contos dos caçadores) diz que ÒTÌN retornou para Ajudar ERINLẸ̀, seu futuro par romântico, segundo algumas crenças. Foi com a ajuda dela que venceram a batalha)."
+                        ]
+                    },
+                    {
+                        "sing": "none",
+                        "yoruba": "Ọdẹ Ajagùnnà gbà mi o, Ajagùnnà, Ọdẹ Ajagùnnà gbà mi o, Ajagùnnà, ọmọ mọdẹ mọ̀tìn aká rere, Ọdẹ Ajagùnnà gbà mi o",
+                        "transliteracao": "Ódé Ajagunãn gbamio adjagunãn Ódé adjagunãn gbamio adjagunãn ómó módé motin aka rere Ódé adjagunãn gbamio",
+                        "traducao": "Caçador estrategista, me salve, Caçador, Caçador estrategista, me salve, Caçador, o filho sabe que é Odé e Otin que lhe dão a sorte, Caçador estrategista, me salve",
+                        "notetexts": [
+                            "(Essa cantiga é Originária de ÒRÌṢÀ AJAGÙNNÀ (ÒGÌYÁN), a palavra \"Ajagunan\" como vimos antes também significa Caçador/Guerreiro estrategista ou aquele que luta por algo com grande estratégia)."
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "segunda-versao",
+                "titulo": "Adarrum (Segunda Versão)",
+                "cantos": [
+                    {
+                        "sing": "none",
+                        "yoruba": "Ajagùnnà gbà mi o, Ajagùnnà, Ajagùnnà gbà mi o, Ajagùnnà, Ẹlémọ̀ṣọ́, Bàbá Olórogun, Ajagùnnà gbà mi o",
+                        "transliteracao": "Adjagunãn gbamio adjagunãn adjagunãn gbamio adjagunãn Élémóxó Baba Olôrogun adjagunãn gbamio",
+                        "traducao": "Ajagunan, me salve, oh Ajagunan, Ajagunan, me salve, oh Ajagunan, Aquele que se veste bem, o pai que está à frente da guerra, Ajagunan, me salve",
+                        "notetexts": [
+                            "(1- Aqui é a versão mais próxima da cantiga original, cantada pelas comunidades Yorubanas que cultuam AJAGÙNNÀ",
+                            "2- no lugar de OLÓROGUN, destacar os títulos e feitos de tal ÒRÌṢÀ a cada repetição, por exemplo: Bàbá ànílékè [Pai da fartura, abundância], Ìpèsí àpèjè [aquele que nos provém o banquete], Bàbá Olórọdẹ [Pai que está a frente da Caça/Caçador chefe)."
+                        ]
+                    },
+                    {
+                        "sing": "none",
+                        "yoruba": "Ọdẹ tìbọ̀ un a bá dìlé, Ọdẹ tìbọ̀ un a bá dìlé a bá dìlé, a bá dìlé, Ọdẹ tìbọ̀ un a bá dìlé",
+                        "transliteracao": "Ódé tibóun a bádilê Ódé tibóun a bádilê a bádilê a bádilê Ódé tibóun a bádilê",
+                        "traducao": "Odé foi ao encontro de casa e lá ficou, Odé foi ao encontro de casa, retornou, ele foi ao encontro de casa, ele foi ao encontro de casa, Odé foi ao encontro de casa e por lá ficou",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "none",
+                        "yoruba": "Ọdẹ pa mi laró",
+                        "transliteracao": "Ódé pa mi larô",
+                        "traducao": "Pinte-me de Azul Odé",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "none",
+                        "yoruba": "Ọdẹ pa mi laró sà fọmọdẹ",
+                        "transliteracao": "Ódé pa mi larô sà fómódé",
+                        "traducao": "Pinte-me de Azul Odé, escolha-me como seu filho caçador",
+                        "notetexts": [
+                            "(Através do costume da iniciação de alguns ÒRÌṢÀ em solo Yorubá, no culto tradicional, o Iniciado tem o corpo pintado pelo sacerdote e assim segue o ritual, com o corpo pintado até o fim. Na maioria dos cultos se usa a cor branca, porém, iniciados de Orixá ÈṢÙ por exemplo, dependendo da região, podem usar metade preta, metade vermelha. Devotos de ÒṢÓÒSÌ ou outros ÒRÌṢÀ da Caça usam a cor azul)."
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "preencher",
+                "titulo": "preencher",
+                "cantos": [
+                    {
+                        "sing": "none",
+                        "yoruba": "O ní pòpò okun ẹlẹ́ṣin, ẹlẹ́ṣin o kúta",
+                        "transliteracao": "Oni popo ocun elésin elesin o kuta",
+                        "traducao": "Aquele que está determinado a domar a força do cavalo, também sabe domar a sua investida (coice)",
+                        "notetexts": [
+                            "(É uma frase figurativa que diz que quando a pessoa está determinada a algo, ela deve conhecer e saber lidar com as situações perigosas. Há uma cantiga de ÒṢÓÒSÌ que diz que ele é o pai cavaleiro, e que não deixa o cavalo me derrubar, não invista sobre mim, ou seja, que o meu objetivo seja claro, mas que as dificuldades também)."
+                        ]
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Ọdẹ suun ma láìyà sé sùn mọlẹ̀, Ọdẹ suun ma láìyà sé sùn mọlẹ̀",
+                        "transliteracao": "Ódé sun maláya sésun mólé Ódé sun maláya sésun mólé",
+                        "traducao": "Odé é extremamente corajoso, é divindade que ao mirar é certeiro (2x)",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Ó Daran dá orò rò kù dẹ, Ọdẹ suun ma láìyà sé sùn mọlẹ̀",
+                        "transliteracao": "Ô darandá ororo kudé Ódé sun maláya sésun mólé",
+                        "traducao": "Ele anda sozinho, costuma vagar e sobreviver da caça, Odé é extremamente corajoso, é divindade que ao mirar é certeiro",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "none",
+                        "yoruba": "Ọdẹ ọmọ ti dé, ti dé o",
+                        "transliteracao": "Ódé ómó tidê tidê o",
+                        "traducao": "Odé é o filho que chegou, é o filho que chegou",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Diga là ire, là ire pé, diga là ire, là ire pé diga là",
+                        "transliteracao": "Digala ire la irepê digala ire la irepê digala",
+                        "traducao": "É quem transforma o Iniciado, na riqueza e na sorte por completo, é quem transforma o Iniciado, na riqueza e na sorte por completo",
+                        "notetexts": [
+                            "(IGA = Membro, aqui entendido como seus filhos, devotos, quem invoca e presta louvor ao Caçador)"
+                        ]
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Eee a yé, diga là ire, là ire pé",
+                        "transliteracao": "Eee a yê digala ire la irepê",
+                        "traducao": "Clamamos por aquele que encanta o Iniciado (filho/devoto) na riqueza e na sorte por completo",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "none",
+                        "yoruba": "Ọdẹ ire yín, Ọdẹ ire wa, yára wò, yára òkè Ọlọ́bẹ ìṣe kárí ré o",
+                        "transliteracao": "Ódé ire yin Ódé ire wa yára uo yára oke Ólóbé kárírê o",
+                        "traducao": "Odé é benção, louvado seja, Odé é a nossa benção, é quem rapidamente nos atende, quem rapidamente vem do alto, só precisamos do Senhor da Faca para ter o que há de bom",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Kọni ọmọdé kò ní jà bí",
+                        "transliteracao": "Kóni ómódê koní djabí",
+                        "traducao": "",
+                        "notetexts": []
+                    }
+                ]
+            },
+            {
+                "id": "aguere",
+                "titulo": "Aguéré",
+                "cantos": [
+                    {
+                        "sing": "none",
+                        "yoruba": "Yára o, yára Ọdẹ",
+                        "transliteracao": "Yára o yára Ódé",
+                        "traducao": "Rápido, seja rápido Odé (Odé é veloz)",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "none",
+                        "yoruba": "Ara sọ̀sọ, wá Ọdẹ",
+                        "transliteracao": "Ara sósso uá Ódé",
+                        "traducao": "Ao corpo, desça e se junto, venha Odé",
+                        "notetexts": [
+                            "(Se uniar ao corpo no sentido de trazer a mesma sorte, a mesma benção que ỌDẸ tem, sorte para o povo YORÙBÁ está mais relacionado a uma benção de bons caminhos vinda de Olódùmare, de ÒRÌṢÀ, por estar louvando a vida corretamente até mesmo no bom caráter do dia a dia, não algo tão aleatório)"
+                        ]
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Ké ká relé, ké ká relé",
+                        "transliteracao": "Kê kárelê kê kárelê",
+                        "traducao": "Chame (grite) para que a gente vá para casa, chame para que a gente vá para casa",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Ayànsẹ́ ká relé",
+                        "transliteracao": "Ayancé ká relê",
+                        "traducao": "Tome a própria decisão sobre voltar pra casa",
+                        "notetexts": []
+                    }
+                ]
+            },
+            {
+                "id": "segunda-versao",
+                "titulo": "Aguéré (Segunda Versão)",
+                "cantos": [
+                    {
+                        "sing": "P",
+                        "yoruba": "Ké ká relé Ọdẹ ká relé",
+                        "transliteracao": "Kê kárelê Ódé kárelê",
+                        "traducao": "Chame (grite) para que a gente vá para casa, Caçador, vamos para casa",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Ọdẹ kí Ọdẹ ká relé",
+                        "transliteracao": "Ódé ki Ódé ká relê",
+                        "traducao": "Os Caçadores se saúdam enquanto vão para casa",
+                        "notetexts": [
+                            "(Essa é a versão cantada pela comunidade Yorubá para louvar os Orixás Caçadores"
+                        ]
+                    },
+                    {
+                        "sing": "none",
+                        "yoruba": "Èṣun là, Èṣun lò, oro kún là ìyè awo",
+                        "transliteracao": "Éssun la Éssun lo orocun la iye auo",
+                        "traducao": "Mostre onde há riquezas, mostre como usá-la, estimule com riqueza a vida do Iniciado",
+                        "notetexts": [
+                            "(AWO é mistério, mas também pode significar o Iniciado/devoto)."
+                        ]
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Èrè wá kòkè Ọdẹ",
+                        "transliteracao": "Ere uá koke Ódé",
+                        "traducao": "A recompensa vem daquele que está no topo, o Caçador",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Kòkè wá kòkè Ọdẹ òkè",
+                        "transliteracao": "Koke uá koke Ódé oke",
+                        "traducao": "No topo, nós vamos ao topo pois o caçador está no topo",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "none",
+                        "yoruba": "Pẹlẹ́ bẹ́ẹ̀ni tòbẹ o, Pẹlẹ́ bẹ́ẹ̀ni tòbẹ, ká ká ká o kun wa Ọdẹ nílẹ̀, Pẹlẹ́ bẹ́ẹ̀ni tòbẹ",
+                        "transliteracao": "Pélé béni tóbé o pélé béni tóbé ka ka ka ocun ua Ódé nilé pélé béni tóbé",
+                        "traducao": "Nós agradecemos por poder usar a faca, nós agradecemos por poder usar a faca, nós colhemos em abundância, esfolamos os animais pois temos o Caçador (na nossa terra) ,nós agradecemos por poder usar a faca!",
+                        "notetexts": []
+                    }
+                ]
+            },
+            {
+                "id": "segunda-versao",
+                "titulo": "Aguéré (Terceira versão)",
+                "cantos": [
+                    {
+                        "sing": "none",
+                        "yoruba": "Pẹlẹbẹ ni tòbẹ o, pẹlẹbẹ ni tòbẹ, kà kà kọ́mọ kú á á sùn pẹlẹbẹ, pẹlẹbẹ ni tòbẹ o",
+                        "transliteracao": "Pélébé ni tóbé o pélébé ni tóbé kaka kómókú aasun pélébé pélébé ni tóbé",
+                        "traducao": "É da faca ser plana, é da faca ser plana, em vez do filho morrer ele só vai dormir plano, é da faca ser plana",
+                        "notetexts": [
+                            "(Essa versão é a mais próxima da cantiga \"original\", cantada pela comunidade Yorubá para Orixá Ossayin originalmente)."
+                        ]
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Ẹ e Ajọ̀wẹ̀",
+                        "transliteracao": "Ée adjówe",
+                        "traducao": "(Saúdem) Aquele que desperta o trabalho comunitário",
+                        "notetexts": [
+                            "(Aquele que incentiva o compartilhamento entre os seus)"
+                        ]
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Ajọ̀wẹ̀",
+                        "transliteracao": "Adjówe",
+                        "traducao": "Aquele que desperta o trabalho comunitário",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Ajọ̀wẹ̀ logun",
+                        "transliteracao": "Adjówe logun",
+                        "traducao": "Aquele que desperta o trabalho comunitário indo a luta (incentivando)",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Ajọ̀wẹ̀ lọ",
+                        "transliteracao": "Adjówe ló",
+                        "traducao": "Aquele que desperta o trabalho comunitário, vá",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Ọdẹ gbere mi Ọdẹ gbere mi",
+                        "transliteracao": "Ódé gbere mi Ódé gbere mi",
+                        "traducao": "Seja bondoso comigo Caçador, seja bondoso comigo Caçador",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Yé Ọdẹ, gbere mi",
+                        "transliteracao": "Yê Ódé gbere mi",
+                        "traducao": "Por favor, seja generoso comigo Caçador",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "none",
+                        "yoruba": "Bámọ́ra, bámọdẹ, bámọ́ mára ki ajá ọdẹ",
+                        "transliteracao": "Bãmóra bãmódé bãmó mara kadjá ódé",
+                        "traducao": "Faremos juntos, ajude seu filho caçador, unidos, rápidos e com a ajuda do cachorro caçador",
+                        "notetexts": [
+                            "(Caçadores Yorubás costumas usar cachorros para fazer a análise do território, colocam neles coleiras com sinos para que o caçador saiba onde há perigos ou a caça)."
+                        ]
+                    },
+                    {
+                        "sing": "none",
+                        "yoruba": "Olóògùn bẹ̀wò",
+                        "transliteracao": "Oloogun béwo",
+                        "traducao": "Conhecedor da medicina, ajude a quem precisa",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Òtìn yè àyè",
+                        "transliteracao": "Otin ye a ye",
+                        "traducao": "Otin vive, nós vivemos (Otin é vida)",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Yè àyè",
+                        "transliteracao": "Ye a ye",
+                        "traducao": "(Otin) vive, nós vivemos",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Òtìn awo rò",
+                        "transliteracao": "Otin auoro",
+                        "traducao": "O mistério de Otin é o pensamento (Imaginação, Intuição)",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Awo rò",
+                        "transliteracao": "Auoro",
+                        "traducao": "Seu mistério é o pensamento",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Òtìn abèṣù",
+                        "transliteracao": "Otin abexu",
+                        "traducao": "Otin necessita de Exú",
+                        "notetexts": [
+                            "(ÈṢÙ é ÒRÌṢÀ de todas as comunicações, como ÒTÌN rege a intuição, meditação, o ORÍ INÚ [Orí interior ou Cabeça interior, nosso EU espiritual] ela precisa do auxílio de ÈṢÙ para se comunicar através disso, em algumas crenças, exemplo, na nação Ijexá, ÒTÌN seria a irmã mais nova de ÈṢÙ)."
+                        ]
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Awo rò",
+                        "transliteracao": "Auoro",
+                        "traducao": "Seu mistério é o pensamento",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "none",
+                        "yoruba": "[ilegível]",
+                        "transliteracao": "",
+                        "traducao": "Saúdem de longe a criança que falhou em ter nascido",
+                        "notetexts": [
+                            "(Segundo o ITÀN, ÒTÌN teria nascido gêmea de ỌDẸ, porém, YEMỌJÁ que seria sua mãe, a trancafiou em um jarro no fundo do mar por ter visto após uma consulta com um Babalawo que ÒTÌN seria 3x mais perversa que ÈṢÙ, seu filho primogênito, por isso foi uma \"falha\" de certa forma)."
+                        ]
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Òtìn!",
+                        "transliteracao": "",
+                        "traducao": "",
+                        "notetexts": []
+                    }
+                ]
+            }
+        ],
         "xapana": [],
         "oba": [],
         "ibeji": [],
@@ -2025,7 +2676,7 @@
                 "b": 28,
                 "hex": "#551C1C"
             },
-            "ode": {
+            "ode-ati-otin": {
                 "r": 26,
                 "g": 65,
                 "b": 118,

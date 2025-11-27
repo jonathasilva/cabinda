@@ -18,6 +18,8 @@ Cada “canto” é um conjunto de 3 textos na ordem:
 
 Cada conjunto desses vira um objeto dentro de "cantos".
 
+Em notas: Todo texto adicional da tradução
+
 ### Estrutura do JSON que você deve gerar
 
 Use sempre este formato, com um único orixá por arquivo:
