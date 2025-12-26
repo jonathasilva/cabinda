@@ -4,12 +4,11 @@ declare(strict_types=1);
 
 namespace Astroinfo\App;
 
-final class PlanetPosition
+final class HousePosition
 {
-    public string $Planet;
-    public string $Sign;
+    public int $House;
 
-    public int $SignZodiacPosition;
+    public string $Sign;
 
     public int $Degree;
     public int $Minute;
@@ -23,59 +22,52 @@ final class PlanetPosition
 
     public string $PositionTotal;
 
-    public int $House;
-
-    public string $Motion;
-    public string $Speed;
-
-    private array $Signs = [
-        'Aries' => 0,
-        'Taurus' => 30,
-        'Gemini' => 60,
-        'Cancer' => 90,
-        'Leo' => 120,
-        'Virgo' => 150,
-        'Libra' => 180,
-        'Scorpio' => 210,
-        'Sagittarius' => 240,
-        'Capricorn' => 270,
-        'Aquarius' => 300,
-        'Pisces' => 330,
-    ];
+    public ?string $AngleLabel;
 
     public function __construct(
-        string $planet,
+        int $house,
         string $sign,
         int $degree,
         int $minute,
         int $second,
-        int $house,
-        string $motion,
-        string $speed
+        ?string $angleLabel = null
     )
     {
-        $this->Planet = $planet;
+        $this->House = $house;
         $this->Sign = $sign;
 
         $this->Degree = $degree;
         $this->Minute = $minute;
         $this->Second = $second;
 
-        //Degreeº Minute'Second''
+        // Degreeº Minute'Second''
         $this->Position = sprintf('%dº %d\' %d\'\'', $degree, $minute, $second);
 
-        $this->House = $house;
-
-        $this->Motion = $motion;
-        $this->Speed = $speed;
+        $this->AngleLabel = $angleLabel;
 
         $this->calculateTotalPosition();
-        $this->setSignZodiacPosition();
     }
 
     private function calculateTotalPosition(): void
     {
-        $baseDegree = $this->Signs[$this->Sign] ?? 0;
+        // Each sign has 30 degrees
+        $signs =
+            [
+                'Aries'       => 0,
+                'Taurus'      => 30,
+                'Gemini'      => 60,
+                'Cancer'      => 90,
+                'Leo'         => 120,
+                'Virgo'       => 150,
+                'Libra'       => 180,
+                'Scorpio'     => 210,
+                'Sagittarius' => 240,
+                'Capricorn'   => 270,
+                'Aquarius'    => 300,
+                'Pisces'      => 330,
+            ];
+
+        $baseDegree = $signs[$this->Sign] ?? 0;
 
         $this->DegreeTotal = $baseDegree + $this->Degree;
         $this->MinuteTotal = $this->Minute;
@@ -87,10 +79,5 @@ final class PlanetPosition
             $this->MinuteTotal,
             $this->SecondTotal
         );
-    }
-
-    private function setSignZodiacPosition(): void
-    {
-        $this->SignZodiacPosition = $this->Signs[$this->Sign] ?? throw new \InvalidArgumentException("Invalid sign: $this->Sign");
     }
 }

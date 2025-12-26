@@ -4,12 +4,16 @@ declare(strict_types=1);
 error_reporting(E_ALL & ~E_DEPRECATED & ~E_USER_DEPRECATED);
 require_once __DIR__ . '/vendor/autoload.php';
 
+use Astroinfo\App\Aspects\AspectCalculator;
 use Astroinfo\App\ChartFormRequest;
+use Astroinfo\App\Parser\ElementsParser;
+use Astroinfo\App\Parser\HousePositionsParser;
 use Astroinfo\App\Parser\PlanetPositionsParser;
 use Astroinfo\App\URL\TraditionalChartParams;
 use Astroinfo\App\Parser\TraditionalChartParser;
 
 header('Content-Type: text/html; charset=utf-8');
+//header('Content-Type: application/json; charset=utf-8');
 
 $form = new ChartFormRequest();
 
@@ -31,11 +35,33 @@ $parser = new TraditionalChartParser();
 try
 {
     $blocks = $parser->parseFromParams($params);
+
+    $planetshtml = $blocks[0]['html'];
+    $housesHtml = $blocks[1]['html'] . $blocks[2]['html'];
+    $elementsHtml = $blocks[3]['html'];
+
     $planetparser = new PlanetPositionsParser();
+    $houseParser = new HousePositionsParser();
+    $elementsParser = new ElementsParser();
 
-    $positions = $planetparser->parseFromVypocetPlanetHtml($blocks[0]['html']);
+    $positions = $planetparser->parseFromVypocetPlanetHtml($planetshtml);
+    $houses = $houseParser->parseFromHousesHtml($housesHtml);
+    $elements = $elementsParser->parseFromElementsHtml($elementsHtml);
 
-    dd($positions);
+    $calculator = new AspectCalculator();
+    $aspects = $calculator->calculate($positions, $houses);
+
+    $planetaryHours = $parser->parsePlanetaryHoursFromParams($params);
+    $extra = $parser->parseDodecatemoriaAndAntisciaFromParams($params);
+
+    dd($planetaryHours, $extra);
+
+    echo json_encode([
+        'positions' => $positions,
+        'houses' => $houses,
+        'elements' => $elements,
+        'aspects' => $aspects,
+    ], JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT);
 }
 catch (Throwable $e)
 {
