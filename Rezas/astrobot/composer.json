@@ -1,0 +1,20 @@
+{
+    "name": "astroinfo/app",
+    "description": "AstroInfo - Astrological calculations and parsers",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Astroinfo\\App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jonatha",
+            "email": "jonathahenrique@gmail.com"
+        }
+    ],
+    "require": {
+        "imangazaliev/didom": "^2.0"
+    }
+}

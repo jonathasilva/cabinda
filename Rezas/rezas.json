@@ -44,9 +44,9 @@
                         "sing": "P",
                         "yoruba": "Ẹ ìmò júbà Èṣù",
                         "transliteracao": "É imó júba Exú",
-                        "traducao": "Saibam reverenciar a Exu",
+                        "traducao": "Saibam reverenciar a Exύ",
                         "notetexts": [
-                            "Usar outros epítetos de Exu para repetir"
+                            "(Usar outros epítetos de Exu para repetir)"
                         ]
                     },
                     {
@@ -55,7 +55,10 @@
                         "transliteracao": "Bara",
                         "traducao": "Bara",
                         "notetexts": [
-                            "Descrito como \"Aquele que age rapidamente\" ou \"O Rei do Corpo\""
+                            "(Descrito no Livro de Baba King: Exú e a Ordem do Universo como \"Aquele que age rapidamente. Porém pode se entender também como \"O Rei do Corpo\" em outras obras literárias.",
+                            "Percebam também a \"forma de cantar ou fonética\" as vezes não batem totalmente como deveria ser segundo a escríta, isso acontece pois no Português nós temos um sistema diferente de entonação das sílabas para as palavras, portanto, em 90% das vezes sim, o dicionário vai estar correto, porém em outras, há de se ter uma interpretação aproximada.",
+                            "Dou o exemplo da palavra \"ÌMÒ\" em Yorubá, o mais correto seria \"IMÓ\", mas quando o acento é uma crase (apontado para a esquerda) mesmo ele tendo o ponto abaixo da vogal a palavra acaba se aproximando de \"MO\", porém falado com a boca mais aberta e a vogal fica mais \"curta\".",
+                            "Um sistema que muitas escolas de Yorubá utilizam para fazer essa diferenciação é o \"DÓ-RÉ-MI\", que é ótimo, mais ainda sim, podem haver divergências, por exemplo, de um dicionário para a boca de um nativo)."
                         ]
                     },
                     {
@@ -76,9 +79,9 @@
                         "sing": "none",
                         "yoruba": "A ma ṣère o nìbà, Èṣù àgbà ná dà, a ma ṣère o nìbà, Èṣù àgbà ná dà",
                         "transliteracao": "A ma xere o niba Exu agba ná da a ma xere o niba Exu agba ná da",
-                        "traducao": "Nós criamos uma estátua para louvar Exu, o Ancião, o primeiro a quem se oferta algo.",
+                        "traducao": "Nós criamos uma estátua para louvar Exu, o Ancião, o primeiro a quem se oferta algo, nós criamos uma estátua para louvar Exu, o Ancião, ο primeiro a quem se oferta algo",
                         "notetexts": [
-                            "Exu é conhecido pelas estátuas de madeira. Um ritual sem louvor a Exu não é um ritual"
+                            "(Exu é conhecido por ter suas incontáveis personalidades representadas em estátuas de madeira. Um ritual que não se louva Exu, não é um ritual)."
                         ]
                     },
                     {
@@ -100,7 +103,7 @@
                         "transliteracao": "Exu ua djé mi sêete mi re",
                         "traducao": "Exu, venha comer comigo, feche os meus lábios e se alimente",
                         "notetexts": [
-                            "Referência a Exu como aquele que primeiro come e ensina a fazer oferenda (Ebo) antes de pedir"
+                            "(ÈȘÙ é um ÒRÌȘÀ que gosta de ser louvado, isso é uma das poucas coisas que temos certeza absoluta sobre ele. Em um ORÍKÌ muito famoso de ÈŞU, existe uma frase que diz: Exu é aquele que não come e impede quem está comendo de engolir o alimento, não só pela questão de ÈȘÙ ser o primeiro em tudo, mas de também para que a gente aprenda a primeiro fazer EBO [oferenda] ou agradecer para depois pedir qualquer coisa)."
                         ]
                     },
                     {
@@ -146,73 +149,12 @@
                 "cantos": [
                     {
                         "sing": "none",
-                        "yoruba": "Ẹlẹ́gbára èlè o, Ẹlẹ́gbára èlè o, mo jí Bàrà, ẹlẹ́gbá epo",
-                        "transliteracao": "Élẹ́gbára élé o Élẹ́gbára élé o modjí Bara élégbá epo",
-                        "traducao": "Cuidado! Ele é Elegbára. Cuidado! Ele é Elegbára. Eu invoco a Exu, o Poderoso, Senhor do Dende\n(Ao invocar Exu para uma ocasião, devemos ter cuidado, devemos ter o mínimo de noção sobre o nosso desejo, pois como diz o ditado: \"Quando Exu sorri, você não sabe se ele está rindo COM você ou DE você\").",
-                        "notetexts": []
-                    },
-                    {
-                        "sing": "P",
-                        "yoruba": "Ẹlẹ́gbára, a mọta ìṣe",
-                        "transliteracao": "Élẹ́gbára a móta ixe",
-                        "traducao": "Elegbára, aquele que molda o caráter",
-                        "notetexts": []
-                    },
-                    {
-                        "sing": "R",
-                        "yoruba": "Alùfàà n, Bàrà ògò, kèẹ̀kèẹ̀ lúfàà n",
-                        "transliteracao": "Alufââ Bara ogo kéékéé lufâân",
-                        "traducao": "Ele é quem me bate, sem receios, (Exu) é o fiscalizador, que a qualquer momento pode me castigar",
-                        "notetexts": []
-                    },
-                    {
-                        "sing": "P",
-                        "yoruba": "Pàpà ògọ",
-                        "transliteracao": "Papa ógó",
-                        "traducao": "Violentamente, com o Ogó (pequeno bastão que Exu carrega consigo)",
-                        "notetexts": []
-                    },
-                    {
-                        "sing": "R",
-                        "yoruba": "Kèẹ̀kèẹ̀ lúfàà n",
-                        "transliteracao": "Kéké lúfâân",
-                        "traducao": "A qualquer momento ele poderá me castigar\n(Exu é o ÒRÌṢÀ fiscalizador, aquele que nos faz andar na linha, para ele, a prosperidade só vem se acompanhada de ÌWÀ RERE [bom caráter, boa conduta].\nTambém é importante dizer que com Exu [na verdade com todos ÒRÌṢÀ] não existe essa de \"ai meu paizinho, santinho, pipipi-pópópó\". A visão do ocidente os transformou em Amor puro, como se tudo fosse lindo, como se fosse só pedir perdão e tudo se resolve, sendo que na verdade a vida das pessoas às vezes vira de cabeça pra baixo e não sabem o motivo.\nTodos somos capazes de errar, mas não de mentir para ÒRÌṢÀ).",
-                        "notetexts": []
-                    },
-                    {
-                        "sing": "P",
-                        "yoruba": "Bàrà rán mújẹ kún lọ̀dàn, Bàrà rán mújẹ kún lọ̀dàn, Bàbá rùdé, Bàrà rán mújẹ kún lọ̀dàn, Bàrà múrẹ̀ rú",
-                        "transliteracao": "Bara rân múdjé kún lódân Bara rân múdjé kún lódân Babá rudê Bara rân múdjé kún lódãn Bara múré rú",
-                        "traducao": "Bara novamente está comendo tudo o que aparece pela frente, Bara novamente está comendo tudo o que aparece pela frente, seu Pai se intrometeu pois Bara novamente está comendo tudo o que aparece pela frente, Bará germinou de si mesmo após isso",
-                        "notetexts": []
-                    },
-                    {
-                        "sing": "R",
-                        "yoruba": "Jẹ kún lọ̀dàn",
-                        "transliteracao": "Djé kún lódân",
-                        "traducao": "Novamente está comendo tudo o que aparece pela frente\n(Essa cantiga faz referência a um ÌTÀN, contado de geração em geração entre os nativos Yorubás do culto de ÈṢÙ. Nesse episódio, ÈṢÙ era filho de Ọ̀RÚNMÌLÀ, quando nasceu, começou a comer tudo o que havia na superfície da terra pois estava com uma fome insaciável, a ponto de engolir todas as pedras, árvores, animais e até mesmo sua mãe. Seu pai, Ọ̀RÚNMÌLÀ, foi o único que permaneceu, sacou uma espada e começou a bater em ÈṢÙ, o mesmo, ao invés de morrer, se multiplicava de cada pedaço seu que caía no chão, fazendo com que de um, nascem múltiplas personalidades de ÈṢÙ, mas ainda sim ele era apenas um único ser. No final da história, ambos fazem um acordo e ÈṢÙ devolve as coisas ao seu devido lugar.\nEsse conto também explica o motivo de termos ÈṢÙ independente de qual ÒRÌṢÀ seja iniciado em nossa cabeça [de forma resumida, pois na matriz do culto, em terras Yorubás, podem haver outros casos]).",
-                        "notetexts": []
-                    },
-                    {
-                        "sing": "none",
-                        "yoruba": "Pàpà yà le",
-                        "transliteracao": "Papa ya le",
-                        "traducao": "Homem que usa da violência, homem forte",
-                        "notetexts": []
-                    },
-                    {
-                        "sing": "none",
-                        "yoruba": "Èṣù dé yìn, mo júbà, Èṣù wá jó, mo júbà yìn",
-                        "transliteracao": "Exu dê yin mo djúba Exu uá djô mo djúba yin",
-                        "traducao": "A vinda de Exu é aclamada, eu o respeito, venha dançar Exu, eu lhe respeito e reverencio",
-                        "notetexts": []
-                    },
-                    {
-                        "sing": "none",
                         "yoruba": "Àyè àyè o ni Bàrà o, àyè àyè o ni Bàrà, a máa sẹ́ ló ogun o, a máa sẹ́ ló ogun jà, àyè ayè o ni Bàrà",
                         "transliteracao": "Aie aie oniBara o aie aie oniBara a máa célô ogun o a máa célô ogun dja aie aie oniBara",
-                        "traducao": "Viva, viva Bará, viva, viva Bará, aquele que sempre se mantém tranquilo perante a batalha, aquele que sempre se mantém tranquilo perante a discussões calorosas, viva, viva Bará\n(Aye aye oni Bara ou Aye aye Elegbára, ambos estão corretos)",
-                        "notetexts": []
+                        "traducao": "Viva, viva Bará, viva, viva Bará, aquele que sempre se mantém tranquilo perante a batalha, aquele que sempre se mantém tranquilo perante a discussões calorosas, viva, viva Bará",
+                        "notetexts": [
+                            "(Aye aye oni Bara ou Aye aye Elegbára, ambos estão corretos)"
+                        ]
                     },
                     {
                         "sing": "P",
@@ -246,7 +188,82 @@
                         "sing": "none",
                         "yoruba": "Ìbà r'Àgbó, Aláròyé, Èṣù Lònà, Ìbà r'Àgbó, Aláròyé, Èṣù Lònà, bọmọdé nkọrin kọ júbà r'Àgbó ìbà r'Àgbó, Bàrà ẹlẹ́gbá Èṣù Lònà",
                         "transliteracao": "Iba ragbô Alároyê Exu lónã Iba ragbô Alároyê Exu lónã bómódê ncórin có djúbara gbô iba ragbô Bara élégbá Exu lónã",
-                        "traducao": "Saudações a ti Agbô (Exu), o Comunicador, Exu, que está no caminho, saudações a ti Agbô, o Comunicador, Exu, que está no caminho, quando a criança canta é para saudar Agbô, saudações a ti Agbô, Bara, o Poderoso, Exu, que está no caminho\n(Sei que provavelmente ninguém canta desta forma, mas essa cantiga é cantada não só no Batuke, mas em outras \"cultos de Orixá\" ao redor do mundo, sua origem é de Terras Yorubás, por tanto, da para se ter o resgaste e \"adaptação\" do que já cantamos por aqui. E lembrando sempre, esse documento tem como objetivo o resgate e o \"DESAPORTUGUESAMENTO\" de identidade atual do Batuke).",
+                        "traducao": "Saudações a ti Agbô (Exu), o Comunicador, Exu, que está no caminho, saudações a ti Agbô, o Comunicador, Exu, que está no caminho, quando a criança canta é para saudar Agbô, saudações a ti Agbô, Bara, o Poderoso, Exu, que está no caminho",
+                        "notetexts": [
+                            "(Sei que provavelmente ninguém canta desta forma, mas essa cantiga é cantada não só no Batuke, mas em outras \"cultos de Orixá\" ao redor do mundo, sua origem é de Terras Yorubás, por tanto, da para se ter o resgaste e \"adaptação\" do que já cantamos por aqui. E lembrando sempre, esse documento tem como objetivo o resgate e o \"DESAPORTUGUESAMENTO\" de identidade atual do Batuke)."
+                        ]
+                    },
+                    {
+                        "sing": "none",
+                        "yoruba": "Ẹlẹ́gbára èlè o, Ẹlẹ́gbára èlè o, mo jí Bàrà, ẹlẹ́gbá epo",
+                        "transliteracao": "Élẹ́gbára élé o Élẹ́gbára élé o modjí Bara élégbá epo",
+                        "traducao": "Cuidado! Ele é Elegbára. Cuidado! Ele é Elegbára. Eu invoco a Exu, o Poderoso, Senhor do Dende",
+                        "notetexts": [
+                            "(Ao invocar Exu para uma ocasião, devemos ter cuidado, devemos ter o mínimo de noção sobre o nosso desejo, pois como diz o ditado: \"Quando Exu sorri, você não sabe se ele está rindo COM você ou DE você\")."
+                        ]
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Ẹlẹ́gbára, a mọta ìṣe",
+                        "transliteracao": "Élẹ́gbára a móta ixe",
+                        "traducao": "Elegbára, aquele que molda o caráter",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Alùfàà n, Bàrà ògò, kèẹ̀kèẹ̀ lúfàà n",
+                        "transliteracao": "Alufââ Bara ogo kéékéé lufâân",
+                        "traducao": "Ele é quem me bate, sem receios, (Exu) é o fiscalizador, que a qualquer momento pode me castigar",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Pàpà ògọ",
+                        "transliteracao": "Papa ógó",
+                        "traducao": "Violentamente, com o Ogó (pequeno bastão que Exu carrega consigo)",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Kèẹ̀kèẹ̀ lúfàà n",
+                        "transliteracao": "Kéké lúfâân",
+                        "traducao": "A qualquer momento ele poderá me castigar",
+                        "notetexts": [
+                            "(Exu é o ÒRÌŞÀ fiscalizador, aquele que nos faz andar na linha, para ele, a prosperidade só vem se acompanhada de ÌWÀ RERE [bom caráter, boa conduta].",
+                            "Também é importante dizer que com Exu [na verdade com todos ÒRÌŞÀ] não existe essa de \"ai meu paizinho, santinho, pipipi-pópópó\".",
+                            "A visão do ocidente os transformou em Amor puro, como se tudo fosse lindo, como se fosse só pedir perdão e tudo se resolve, sendo que na verdade a vida das pessoas às vezes vira de cabeça pra baixo e não sabem o motivo.",
+                            "Todos somos capazes de errar, mas não de mentir para ÒRÌŞÀ)."
+                        ]
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Bàrà rán mújẹ kún lọ̀dàn, Bàrà rán mújẹ kún lọ̀dàn, Bàbá rùdé, Bàrà rán mújẹ kún lọ̀dàn, Bàrà múrẹ̀ rú",
+                        "transliteracao": "Bara rân múdjé kún lódân Bara rân múdjé kún lódân Babá rudê Bara rân múdjé kún lódãn Bara múré rú",
+                        "traducao": "Bara novamente está comendo tudo o que aparece pela frente, Bara novamente está comendo tudo o que aparece pela frente, seu Pai se intrometeu pois Bara novamente está comendo tudo o que aparece pela frente, Bará germinou de si mesmo após isso",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Jẹ kún lọ̀dàn",
+                        "transliteracao": "Djé kún lódân",
+                        "traducao": "Novamente está comendo tudo o que aparece pela frente",
+                        "notetexts": [
+                            "(Essa cantiga faz referência a um ÌTÀN, contado de geração em geração entre os nativos Yorubás do culto de ÈȘÙ. Nesse episódio, ÈŞÙ era filho de ORÚNMÌLÀ, quando nasceu, começou a comer tudo o que havia na superfície da terra pois estava com uma fome insaciável, a ponto de engolir todas as pedras, árvores, animais e até mesmo sua mãe. Seu pai, ORÚNMÌLÀ, foi o único que permaneceu, sacou uma espada e começou a bater em ÈȘÙ, o mesmo, ao invés de morrer, se multiplicava de cada pedaço seu que caía no chão, fazendo com que de um, nascecem múltiplas personalidades de ÈȘÙ, mas ainda sim ele era apenas um único ser. No final da história, ambos fazem um acordo e ÈȘÙ devolve as coisas ao seu devido lugar.",
+                            "Esse conto também explica o motivo de termos  independente de qual ÒRÌŞÀ seja iniciado em nossa cabeça  de forma resumida, pois na matriz do culto, em terras Yorubás, podem haver outros casos])."
+                        ]
+                    },
+                    {
+                        "sing": "none",
+                        "yoruba": "Pàpà yà le",
+                        "transliteracao": "Papa ya le",
+                        "traducao": "Homem que usa da violência, homem forte",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "none",
+                        "yoruba": "Èṣù dé yìn, mo júbà, Èṣù wá jó, mo júbà yìn",
+                        "transliteracao": "Exu dê yin mo djúba Exu vá djô mo djúba yin",
+                        "traducao": "A vinda de Exu é aclamada, eu o respeito, venha dançar Exu, eu lhe respeito e reverencio",
                         "notetexts": []
                     }
                 ]
@@ -273,8 +290,10 @@
                         "sing": "R",
                         "yoruba": "Èṣù jálànà sí ẹbọ",
                         "transliteracao": "Exú djálânâ cí ébó",
-                        "traducao": "Exu, abra os caminhos, aceite as oferendas\n(Abra o caminho em direção de suas oferendas)",
-                        "notetexts": []
+                        "traducao": "Exu, abra os caminhos, aceite as oferendas",
+                        "notetexts": [
+                            "(Abra o caminho em direção de suas oferendas)"
+                        ]
                     }
                 ]
             },
@@ -286,15 +305,19 @@
                         "sing": "none",
                         "yoruba": "Èṣù Ajèlú, Èṣù Ajèlú ajẹun b'ọ, Èṣù Ajèlú ajẹun b'ọ, o wà nílé o",
                         "transliteracao": "Exu adjelú Exu adjelú adjéun bó Exu adjelú adjéun bó o ua nilêo",
-                        "traducao": "Exu Ajelú, Exu Ajelú, eu como e compartilho com você, Exu Ajelú, eu como e compartilho com você, você está em casa\n(Quem compartilha seu alimento com ÈṢÙ e faz da sua casa a morada de ÈṢÙ, tem consigo a prosperidade).",
-                        "notetexts": []
+                        "traducao": "Exu Ajelú, Exu Ajelú, eu como e compartilho com você, Exu Ajelú, eu como e compartilho com você, você está em casa",
+                        "notetexts": [
+                            "(Quem compartilha seu alimento com ÈȘÙ e faz da sua casa a morada de ÈŞÙ, tem consigo a prosperidade)."
+                        ]
                     },
                     {
                         "sing": "none",
                         "yoruba": "Bàrà, Bàrà ẹkùn fà yán, Bàrà, Bàrà, èlè o",
                         "transliteracao": "Bara Bara ékun fâian Bara Bara élé o",
-                        "traducao": "Bara, Bara, o Leopardo, que seduz, que atrai olhares, Bara, Bara, tenham cuidado com ele\n(Por que cantamos essa cantiga também para Oxum? Essa cantiga tem um duplo sentido, pois BARA não necessariamente é o Orixá Exú, em um outro entendimento seria sobre o Corpo, \"Se o corpo\" mais precisamente, então ficaria próximo a: Se o corpo for como o de um Leopardo, que encanta, se o corpo for assim, tenha cuidado\", e Oxum é assim, calma, estrategista, sedutora e feroz).",
-                        "notetexts": []
+                        "traducao": "Bara, Bara, o Leopardo, que seduz, que atrai olhares, Bara, Bara, tenham cuidado com ele",
+                        "notetexts": [
+                            "(Por que cantamos essa cantiga também para Oxum? Essa cantiga tem um duplo sentido, pois BARA não necessariamente é o Orixá Exú, em um outro entendimento seria sobre o Corpo, \"Se o corpo\" mais precisamente, então ficaria próximo a: Se o corpo for como o de um Leopardo, que encanta, se o corpo for assim, tenha cuidado\", e Oxum é assim, calma, estrategista, sedutora e feroz)."
+                        ]
                     },
                     {
                         "sing": "none",
@@ -334,8 +357,12 @@
                         "sing": "none",
                         "yoruba": "Adágé Adágé àyè, Èṣù bí lọ́nà, Adágé Adágé àyè, Èṣù bí lọ́nà",
                         "transliteracao": "Adáguê Adáguê aie Exu bí lónã Adáguê Adáguê aie Exu bí lónã",
-                        "traducao": "Viva Adágue, Exu que cria caminhos, Viva Adágue, Exu que cria caminhos\n(Em Yorubá, ÀYÈ tem diversos significados, como o fato de estar vivo, a vida, oportunidade, também dá sentido de lugar, espaço, de tempo, etc. Exú é a própria vida, de várias formas, seja no espaço, no movimento, no tempo, isso é Exú.\nAssim como a palavra Ọ̀NÀ não tem sentido somente de rua ou caminho, tem sentido de criar, uma forma de fazer alguma coisa, com a acentuação um pouco modificada também vira Obra de Arte ou Arte.\nObs.: coloquei uma interpretação mais simples do que a da última revisão, porém, quem ainda tem a última revisão e prestou atenção nos detalhes, vai saber decifrar).",
-                        "notetexts": []
+                        "traducao": "Viva Adágue, Exu que cria caminhos, Viva Adágue, Exu que cria caminhos",
+                        "notetexts": [
+                            "(Em Yorubá, ÀYÈ tem diversos significados, como o fato de estar vivo, a vida, oportunidade, também dá sentido de lugar, espaço, de tempo, etc. Exú é a própria vida, de várias formas, seja no espaço, no movimento, no tempo, isso é Exύ.",
+                            "Assim como a palavra ONÀ não tem sentido somente de rua ou caminho, tem sentido de criar, uma forma de fazer alguma coisa, com a acentuação um pouco modificada também vira Obra de Arte ou Arte.",
+                            "Obs.: coloquei uma interpretação mais simples do que a da última revisão, porém, quem ainda tem a última revisão e prestou atenção nos detalhes, vai saber decifrar)."
+                        ]
                     }
                 ]
             },
@@ -354,14 +381,16 @@
                         "sing": "R",
                         "yoruba": "Alàlú pa jé ma",
                         "transliteracao": "Alalú pa djé ma",
-                        "traducao": "Lalú (Exu) é quem pode permitir isso (que pode fazer a invocação)\n(PAWÓ, na cultura Afro-Brasileira é mais que Bater Palmas, é um ato de invocação, de confirmação, por isso LÀLÚ é quem faria este ato).",
-                        "notetexts": []
+                        "traducao": "Lalú (Exu) é quem pode permitir isso (que pode fazer a invocação)",
+                        "notetexts": [
+                            "(PAWÓ, na cultura Afro-Brasileira é mais que Bater Palmas, é um ato de invocação, de confirmação, por isso LÀLÚ é quem faria este ato)."
+                        ]
                     }
                 ]
             },
             {
                 "id": "dairiri-segunda-versao",
-                "titulo": "Dairiri (Segunda Versão)",
+                "titulo": "Dairiri Segunda Versão",
                 "cantos": [
                     {
                         "sing": "P",
@@ -373,9 +402,11 @@
                     {
                         "sing": "R",
                         "yoruba": "Alàlú pa jé ma",
-                        "transliteracao": "Alalú pa jẹ ma",
-                        "traducao": "Lalú (Exu) é quem pode permitir isso (que pode fazer a invocação)\n(O \"segredo\" citado aqui é explicado dentro da Nação Ijexá, onde o ṢIRÉ se inicia com a quartinha de ÈṢÙ no meio do salão com um ÀLÀ por cima, quando essa cantiga é entoada, alguém da casa é responsável por pegar a quartinha e \"despacha-lá\" em frente a casa. Apartir desse momento, a vinda dos ÒRÌṢÀ [Àwọn Òrìṣà = os Orixás] a terra ao toque do tambor é permitida por ÈṢÙ, pois ele já foi avisado. Em outras palavras, nós esfriamos a terra para acalmar ÈṢÙ e os ancestrais, simbolizando que os ÒRÌṢÀ são bem vindos ao ṢIRÉ, por isso ambas as versões fazem sentido)",
-                        "notetexts": []
+                        "transliteracao": "Alalú pa je ma",
+                        "traducao": "Lalú (Exu) é quem pode permitir isso (que pode fazer a invocação)",
+                        "notetexts": [
+                            "(O \"segredo\" citado aqui é explicado dentro da Nação ljexá, onde o ŞIRÉ se inicia com a quartinha de ÈŞÙ no meio do salão com um ÀLÀ por cima, quando essa cantiga é entoada, alguém da casa é responsável por pegar a quartinha e \"despacha-lá\" em frente a casa. Apartir desse momento, a vinda dos ÒRÌŞÀ [Àwọn Òrìṣà = os Orixás] a terra ao toque do tambor é permitida por ÈŞÙ, pois ele já foi avisado. Em outras palavras, nós esfriamos a terra para acalmar ÈŞÜ e os ancestrais, simbolizando que os ÒRÌŞÀ são bem vindos ao ȘIRÉ, por isso ambas as versões fazem sentido)"
+                        ]
                     }
                 ]
             },
@@ -401,8 +432,12 @@
                         "sing": "none",
                         "yoruba": "Odù ma dó kè rè kè rè kè rè, dó koro koro koro, dó kè rè kè rè kè rè bodù ẹlẹ́gbá",
                         "transliteracao": "Odu ma dô kere kere kere dô koro koro koro dô kere kere kere bodu élégbá",
-                        "traducao": "Odu é quem nos dá a solução, para colher as recompensas, quem dá a solução para colhermos estímulo (vontade), quem dá a solução para colhermos a recompensa, como os Odu's de Elégbá\n(Se refete ao fato de que podemos colher bons ensinamentos se lermos e estudarmos sobre os ODÙ que falam sobre ÈṢÙ, pois desses ÌTÀN conseguimos notar a forma com que ÈṢÙ lida com os problemas e trazer muitas dessas soluções para nossa vida.\nLEMBRETE IMPORTANTE: pode ser cantado VODUN ELÉGBA, pois as cantigas em Jeje, em sua maioria, são oriundas do FON, mesmo que foneticamente falando, sem ser o nome das divindades, o idioma predominante é sim o Yorubá. Mas ai é aquela questão, vai envolver questões históricas mais profundas que dariam um livro de várias páginas, se no Yorubá já é complexo encontrar traduções razoáveis, em FON (Fongbe) é mais complexo ainda).",
-                        "notetexts": []
+                        "traducao": "Odu é quem nos dá a solução, para colher as recompensas, quem dá a solução para colhermos estímulo (vontade), quem dá a solução para colhermos a recompensa, como os Odu's de Elégbá",
+                        "notetexts": [
+                            "(Se refete ao fato de que podemos colher bons ensinamentos se lermos e estudarmos sobre os ODÙ que falam sobre ÈȘÙ, pois desses ÌTÀN conseguimos notar a forma com que ÈȘÙ lida com os problemas e trazer muitas dessas soluções para nossa vida.",
+                            "LEMBRETE IMPORTANTE: pode ser cantado VODUN ELÉGBA, pois as cantigas em Jeje, em sua maioria, são oriundas do FON, mesmo que foneticamente falando, sem ser o nome das divindades, o idioma predominante é sim o Yorubá.",
+                            "Mas ai é aquela questão, vai envolver questões históricas mais profundas que dariam um livro de várias páginas, se no Yorubá já é complexo encontrar traduções razoáveis, em FON (Fongbe) é mais complexo ainda)."
+                        ]
                     },
                     {
                         "sing": "none",
@@ -422,8 +457,10 @@
                         "sing": "R",
                         "yoruba": "Bàrà ní àjò kè rè kè, mo dúpé o",
                         "transliteracao": "Bara ní adjo kere ké mo dúpé o",
-                        "traducao": "Bara, que colheu recompensas em suas jornadas, eu lhe agradeço\n(Por mais que o termo \"Kereke\" tenha dado dor de cabeça, acho que agora desvendamos de fato).",
-                        "notetexts": []
+                        "traducao": "Bara, que colheu recompensas em suas jornadas, eu lhe agradeço",
+                        "notetexts": [
+                            "(Por mais que o termo \"Kereke\" tenha dado dor de cabeça, acho que agora desvendamos de fato)."
+                        ]
                     },
                     {
                         "sing": "P",
@@ -443,8 +480,11 @@
                         "sing": "none",
                         "yoruba": "Àgbà ẹ̀mí jó, àgbà, a kàpèjọ, àgbà kọ sùù Légbá, àgbà ẹ̀mí jó",
                         "transliteracao": "Agba émí djô agba a kapedjó agba kó suu légba agba émí djô",
-                        "traducao": "O \"espírito\" do mais antigo dança, o mais antigo é quem entra nesse encontro, o mais antigo é quem saúda Légba profundamente, o \"espírito\" do mais antigo dança\n(Se referindo a \"Dança de par\" do Jeje, quando falamos do Ẹ̀MÍ nesse caso, estamos falando daquilo que está dentro de nós, daquilo que preenche o nosso corpo por dentro além das células visíveis. Algo além do espírito, como um DNA ancestral, que carrega lembranças, e quando os mais velhos ou os com mais tempo dentro daquele culto dançam para Légba, isso desperta, fazendo com haja uma troca de energias entre os que alí estão dançando e louvando LÉGBÁ.\n[A tradução do documento anterior ainda faz sentido, de uma forma mais \"informal\"].",
-                        "notetexts": []
+                        "traducao": "O \"espírito\" do mais antigo dança, o mais antigo é quem entra nesse encontro, o mais antigo é quem saúda Légba profundamente, o \"espírito\" do mais antigo dança",
+                        "notetexts": [
+                            "(Se referindo a \"Dança de par\" do Jeje, quando falamos do ÈMÍ nesse caso, estamos falando daquilo que está dentro de nós, daquilo que preenche o nosso corpo por dentro além das células visíveis. Algo além do espírito, como um DNA ancestral, que carrega lembranças, e quando os mais velhos ou os com mais tempo dentro daquele culto dançam para Légba, isso desperta, fazendo com haja uma troca de energias entre os que alí estão dançando e louvando LÉGBÁ.",
+                            "[A tradução do documento anterior ainda faz sentido, de uma forma mais \"informal\"]."
+                        ]
                     },
                     {
                         "sing": "P",
@@ -457,8 +497,10 @@
                         "sing": "R",
                         "yoruba": "Àkàrà jan",
                         "transliteracao": "Akara djan",
-                        "traducao": "\"Bola de fogo\" que se agita\n(Não é uma tradução literal, mas como ÈṢÙ é a bola de fogo no centro da terra, o fogo vivo, se faz comparação com o bolinho ÀKÀRÀ (Acarajé), que também é quente. O fogo como também sabemos é um elemento agitado, intenso, que dependendo da temperatura não se consegue acalma-lo).",
-                        "notetexts": []
+                        "traducao": "\"Bola de fogo\" que se agita",
+                        "notetexts": [
+                            "(Não é uma tradução literal, mas como ÈṢÙ é a bola de fogo no centro da terra, o fogo vivo, se faz comparação com o bolinho ÀKARÀ (Acarajé), que também é quente. O fogo como também sabemos é um elemento agitado, intenso, que dependendo da temperatura não se consegue acalma-lo)."
+                        ]
                     },
                     {
                         "sing": "P",
@@ -493,7 +535,9 @@
                         "yoruba": "\"Vodun\" (Ògún)",
                         "transliteracao": "Vodun (Ogún)",
                         "traducao": "Vodun (Ogún)",
-                        "notetexts": []
+                        "notetexts": [
+                            "ODE"
+                        ]
                     }
                 ]
             }
@@ -1555,8 +1599,10 @@
                         "sing": "none",
                         "yoruba": "Şàngó lùgbé o ma igbó, lùgbé o ma igbó, àbá Ọya Godó ma igbó, àbá Ọya Godó ma igbó",
                         "transliteracao": "Xangô lugbé o ma igbô lugbé o ma igbô abá Óya Godô ma igbô abá Óya Godô ma igbô",
-                        "traducao": "Xangô foi banido, para a floresta, foi banido, para a floresta, por sugestão de Oya, Xangô (Godo) foi para a floresta, por sugestão de Oya, Xangô foi para a floresta (Nas primeiras narrativas vemos um pouco da história de SÀNGÓ que havia se enforcado (ou não) na floresta, seu povo procurou e só encontrou a corda arrebentada pendurada na árvore).",
-                        "notetexts": []
+                        "traducao": "Xangô foi banido, para a floresta, foi banido, para a floresta, por sugestão de Oya, Xangô (Godo) foi para a floresta, por sugestão de Oya, Xangô foi para a floresta",
+                        "notetexts": [
+                            "(Nas primeiras narrativas vemos um pouco da história de ȘÀNGÓ que havia se enforcado (ou não) na floresta, seu povo procurou e só encontrou a corda arrebentada pendurada na árvore)."
+                        ]
                     },
                     {
                         "sing": "P",
@@ -1569,15 +1615,19 @@
                         "sing": "R",
                         "yoruba": "Èké jàn gbélé jàn",
                         "transliteracao": "Ekê djan gbêlê djan",
-                        "traducao": "A mentira tomou sua morada, tomou (Teve que reinvindicar o trono, foi expulso).",
-                        "notetexts": []
+                        "traducao": "A mentira tomou sua morada, tomou",
+                        "notetexts": [
+                            "(Teve que reinvindicar o trono, foi expulso)."
+                        ]
                     },
                     {
                         "sing": "P",
                         "yoruba": "Aganjú gbẹ̀ wa o",
                         "transliteracao": "Agandjú gbé ua o",
-                        "traducao": "Aganjú, semeará para nós (O próximo a assumir o trono depois de SÀNGÓ seria DÀDÁ AJAKÁ, mas muitos não queriam que ele re-assumisse o trono pois não tinha pulso firme, por isso pediam por AGANJÚ. Depois de DÀDÁ, AGANJÚ assumiu).",
-                        "notetexts": []
+                        "traducao": "Aganjú, semeará para nós",
+                        "notetexts": [
+                            "(O próximo a assumir o trono depois de ȘÀNGÓ seria DÀDÁ AJAKÁ, mas muitos não queriam que ele re-assumisse o trono pois não tinha pulso firme, por isso pediam por AGANJÚ. Depois de DÀDÁ, AGANJÚ assumiu)."
+                        ]
                     },
                     {
                         "sing": "R",
@@ -1590,8 +1640,10 @@
                         "sing": "P",
                         "yoruba": "Oní Dàdá",
                         "transliteracao": "Oní Dadá",
-                        "traducao": "Senhor Dadá (Ou aquele que nasceu com choro ensurdecedor e cabelo encaracolado, em forma de Dread natural, se referindo a condição que seus devotos nascem e herdam de AJAKÁ).",
-                        "notetexts": []
+                        "traducao": "Senhor Dadá",
+                        "notetexts": [
+                            "(Ou aquele que nasceu com choro ensurdecedor e cabelo encaracolado, em forma de Dread natural, se referindo a condição que seus devotos nascem e herdam de AJAKÁ)."
+                        ]
                     },
                     {
                         "sing": "R",
@@ -1617,8 +1669,10 @@
                         "sing": "none",
                         "yoruba": "Olúwo gùn ma bò igbó èlẹ̀fàá Òrìṣà, Olúwo gùn ma bò igbó èlẹ́fà nù ẹbọ",
                         "transliteracao": "Olúuo gun ma bo igbô éléfaá Orixa Olúuo gun ma bo igbô éléfa nu ébó",
-                        "traducao": "Senhor que ascendeu aos céus em meio a floresta, Orixa extremamente forte (de grande destreza), Senhor que ascendeu aos céus, em meio a floresta, Senhor do Temporais que se alimenta por oferendas (Oluwo é um título que ṢÀNGÓ recebe dentro do Culto ÒGBÓNI, uma sociedade privada dos Yorubás. ẸLÉFÀ, para ṢÀNGÓ, pode der somente o Senhor que tem controle das Chuvas, aquele que recebe oferendas de seus devotos para que os mesmos não sofram com enchentes e temporais que levam suas casas embora).",
-                        "notetexts": []
+                        "traducao": "Senhor que ascendeu aos céus em meio a floresta, Orixa extremamente forte (de grande destreza), Senhor que ascendeu aos céus, em meio a floresta, Senhor do Temporais que se alimenta por oferendas",
+                        "notetexts": [
+                            "(Oluwo é um título que ṢÀNGÓ recebe dentro do Culto ÒGBÓNI, uma sociedade privada dos Yorubás. ẸLÉFÀ, para ṢÀNGÓ, pode der somente o Senhor que tem controle das Chuvas, aquele que recebe oferendas de seus devotos para que os mesmos não sofram com enchentes e temporais que levam suas casas embora)."
+                        ]
                     },
                     {
                         "sing": "none",
@@ -1631,15 +1685,19 @@
                         "sing": "none",
                         "yoruba": "Òdodo sí èmi rèmi, Agodó ma ni sé ọlá, òdodo mọ̀ èrẹ̀ mi Ṣàngó, Alàdó ma ni sé ọlá",
                         "transliteracao": "Ododo cí emi remi Agodô ma ni cé ólá ododo mó éré mi Xangô Alado ma ni cé ólá",
-                        "traducao": "Justiça para mim, que estou aqui, Agodô é a própria honra, a verdade reconhece que meu exemplo é Xangô, Aladô é a própria honra (Como sempre digo, não é porque cita tal nome ou qualidade de ÒRÌṢÀ que essa cantiga seja exclusivamente dele, se em uma casa a cantiga é pra Aganjú e na outra é pra Xangô, se DEVE respeitar ambas as casas, se formos entrar em mérito de nomes de qualidades o Batuke se perde, principalmente em Xangô, que muitas de suas qualidades são apenas seus epítetos e não quer dizer que um dê duas piruetas e o outro dê seis).",
-                        "notetexts": []
+                        "traducao": "Justiça para mim, que estou aqui, Agodô é a própria honra, a verdade reconhece que meu exemplo é Xangô, Aladô é a própria honra",
+                        "notetexts": [
+                            "(Como sempre digo, não é porque cita tal nome ou qualidade de ÒRÌṢÀ que essa cantiga seja exclusivamente dele, se em uma casa a cantiga é pra Aganjú e na outra é pra Xangô, se DEVE respeitar ambas as casas, se formos entrar em mérito de nomes de qualidades o Batuke se perde, principalmente em Xangô, que muitas de suas qualidades são apenas seus epítetos e não quer dizer que um dê duas piruetas e o outro dê seis)."
+                        ]
                     },
                     {
                         "sing": "P",
                         "yoruba": "A kútá o",
                         "transliteracao": "A cútá o",
-                        "traducao": "Destruidor de inimigos (Também pode ser \"JÀKÚTA O\", aquele que luta com pedras nas mãos, que também é um nome próprio de um guerreiro de ÒYÓ).",
-                        "notetexts": []
+                        "traducao": "Destruidor de inimigos",
+                        "notetexts": [
+                            "(Também pode ser \"JÀKÚTA O\", aquele que luta com pedras nas mãos, que também é um nome próprio de um guerreiro de ÒYÓ)."
+                        ]
                     },
                     {
                         "sing": "R",
@@ -1659,8 +1717,10 @@
                         "sing": "R",
                         "yoruba": "Bàbá Okere",
                         "transliteracao": "Babá Okere",
-                        "traducao": "Nosso Pai Okere (Um dos nomes de AGANJÚ)",
-                        "notetexts": []
+                        "traducao": "Nosso Pai Okere",
+                        "notetexts": [
+                            "(Um dos nomes de AGANJÚ)"
+                        ]
                     },
                     {
                         "sing": "P",
@@ -1673,8 +1733,10 @@
                         "sing": "R",
                         "yoruba": "Okere ké, ìbọ mọ̀rẹ́, Okere ké",
                         "transliteracao": "Okere kê ibó móré Okere kê",
-                        "traducao": "Okere nos chama, a adoração reconhece seus aliados, Okere nos chama (O fato de AGANJÚ saber quem faz suas preces com verdade e não só nos momentos de dificuldade, de saber quem o chama por realmente adorá-lo ou por um momento só).",
-                        "notetexts": []
+                        "traducao": "Okere nos chama, a adoração reconhece seus aliados, Okere nos chama",
+                        "notetexts": [
+                            "(O fato de AGANJÚ saber quem faz suas preces com verdade e não só nos momentos de dificuldade, de saber quem o chama por realmente adorá-lo ou por um momento só)."
+                        ]
                     },
                     {
                         "sing": "P",
@@ -1687,8 +1749,10 @@
                         "sing": "R",
                         "yoruba": "A ṣorò, ṣorò ni Godó",
                         "transliteracao": "Xoro xoro ni Godô",
-                        "traducao": "Nós fazemos culto a Godô (Xangô) (Pode-se usar outros nomes, epítetos, sobre nomes de ṢÀNGÓ e sua família nessa cantiga).",
-                        "notetexts": []
+                        "traducao": "Nós fazemos culto a Godô (Xangô)",
+                        "notetexts": [
+                            "(Pode-se usar outros nomes, epítetos, sobre nomes de ṢÀNGÓ e sua família nessa cantiga)."
+                        ]
                     },
                     {
                         "sing": "P",
@@ -1701,8 +1765,10 @@
                         "sing": "R",
                         "yoruba": "Ará, a kun bẹ́rí, ará",
                         "transliteracao": "Ará a cun bérí ará",
-                        "traducao": "É familiar, nos unimos para a saudação militar, é familiar (É um tipo de saudação que os devotos de ṢÀNGÓ fazem em devoção a ele, levantando uma das mãos com o punho cerrado).",
-                        "notetexts": []
+                        "traducao": "É familiar, nos unimos para a saudação militar, é familiar",
+                        "notetexts": [
+                            "(É um tipo de saudação que os devotos de ṢÀNGÓ fazem em devoção a ele, levantando uma das mãos com o punho cerrado)."
+                        ]
                     },
                     {
                         "sing": "P",
@@ -1729,8 +1795,10 @@
                         "sing": "R",
                         "yoruba": "Ará Ọba dilé, sára yà à kà fọmọ jé",
                         "transliteracao": "Ará Óba dilê sára ia a ka fómó djé",
-                        "traducao": "A família do Rei trança o cabelo em casa, evite pentear o cabelo da forma que seus filhos fazem (São as tranças \"Suku\", um tipo de penteado usado pela família de ṢÀNGÓ e ỌYA).",
-                        "notetexts": []
+                        "traducao": "A família do Rei trança o cabelo em casa, evite pentear o cabelo da forma que seus filhos fazem",
+                        "notetexts": [
+                            "(São as tranças \"Suku\", um tipo de penteado usado pela família de ṢÀNGÓ e ỌYA)."
+                        ]
                     },
                     {
                         "sing": "P",
@@ -1743,8 +1811,10 @@
                         "sing": "R",
                         "yoruba": "Alàdó, o nìpè, Alàdó",
                         "transliteracao": "Aladô o nipe Aladô",
-                        "traducao": "Aladô, é como ele é chamado, Aladô (ÀLÀDÓ: Aquele que racha o pilão).",
-                        "notetexts": []
+                        "traducao": "Aladô, é como ele é chamado, Aladô",
+                        "notetexts": [
+                            "(ÀLÀDÓ: Aquele que racha o pilão)."
+                        ]
                     },
                     {
                         "sing": "P",
@@ -1764,8 +1834,10 @@
                         "sing": "none",
                         "yoruba": "A lù bàtá o, Kábíyèsí lù ndé o",
                         "transliteracao": "A lu batá o Kábíyecí lundê o",
-                        "traducao": "Nós tocamos Batá, pois nossa Majestade chegará com força (1: Chegará de forma potente, todos saberão que chegou. 2: BÀTÁ é o estilo de tambor que ṢÀNGÓ gosta).",
-                        "notetexts": []
+                        "traducao": "Nós tocamos Batá, pois nossa Majestade chegará com força",
+                        "notetexts": [
+                            "(1: Chegará de forma potente, todos saberão que chegou. 2: BÀTÁ é o estilo de tambor que ṢÀNGÓ gosta)."
+                        ]
                     },
                     {
                         "sing": "P",
@@ -1778,8 +1850,10 @@
                         "sing": "R",
                         "yoruba": "Àna re ká lulú n dé",
                         "transliteracao": "Ana re ká lulúndê",
-                        "traducao": "(Chamem por) Aquela que pode fazer ele parar de perfurar o solo (Cantiga explicada no meu perfil do Instagram, se refere a YEMỌJÁ, ÒRÌṢÀ que AGANJÚ quando em terra, era devoto, e é quem o acalma).",
-                        "notetexts": []
+                        "traducao": "(Chamem por) Aquela que pode fazer ele parar de perfurar o solo",
+                        "notetexts": [
+                            "(Cantiga explicada no meu perfil do Instagram, se refere a YEMỌJÁ, ÒRÌṢÀ que AGANJÚ quando em terra, era devoto, e é quem o acalma)."
+                        ]
                     },
                     {
                         "sing": "P",
@@ -1826,8 +1900,10 @@
                         "sing": "R",
                         "yoruba": "Láíláí mo júbà àyè, mo júbà, láíláí mo júbà àyè",
                         "transliteracao": "Láíláí mo djúba aye mo djúba láíláí mo djúba aye",
-                        "traducao": "Eternamente eu saúdo a vida, para sempre eu saúdo, eternamente eu saúdo a vida (Explicar o ṢAWORO no início da cantiga é bem complicado, é uma palavra que leva a milhares de sentidos e interpretações, mas resumindo, \"Xaoro\" é um uma pulseira ou tornozeleira que se usa em alguns cultos de ÒRÌṢÀ, é usada pelos iniciados e por ABÍKÚ's. Quando se divide a palavra outros sentidos surgem, como o de \"Fazer Segredo\", ou se iniciar no segredo, se mudar a acentuação pode virar \"Praticar o Sacerdócio\", ou Iniciar um Sacerdote [Alguém iniciou, no passado] e por ai vai. No candomblé essa cantiga também é cantada e basicamente cada um interpreta de uma forma).",
-                        "notetexts": []
+                        "traducao": "Eternamente eu saúdo a vida, para sempre eu saúdo, eternamente eu saúdo a vida",
+                        "notetexts": [
+                            "(Explicar o SAWORO no início da cantiga é bem complicado, é uma palavra que leva a milhares de sentidos e interpretações, mas resumindo, \"Xaoro\" é um uma pulseira ou tornozeleira que se usa em alguns cultos de ÒRÌŞÀ, é usada pelos iniciados e por ABĺKÚ's. Quando se divide a palavra outros sentidos surgem, como o de \"Fazer Segredo\", ou se iniciar no segredo, se mudar a acentuação pode virar \"Praticar o Sacerdócio\", ou Iniciar um Sacerdote [Alguém iniciou, no passado] e por ai vai. No candomblé essa cantiga também é cantada e basicamente cada um interpreta de uma forma)."
+                        ]
                     }
                 ]
             },
@@ -1866,8 +1942,10 @@
                         "sing": "none",
                         "yoruba": "Gululu, Gululu, Kábíyèsí ládé",
                         "transliteracao": "Gululu Gululu Kábíyecí ládê",
-                        "traducao": "Gululu, Gululu, nossa Majestade Coroada (Gululu é o Ancestral de Waldemar de Xangô Kamuka, quem o fez).",
-                        "notetexts": []
+                        "traducao": "Gululu, Gululu, nossa Majestade Coroada",
+                        "notetexts": [
+                            "(Gululu é o Ancestral de Waldemar de Xangó Kamuka, quem o fez)."
+                        ]
                     }
                 ]
             },
@@ -1982,8 +2060,10 @@
                         "sing": "none",
                         "yoruba": "Kálulúndé, Kalulúndé, Ogodó Kábíyèsí làyè, Ogodó Kábíyèsí làyè",
                         "transliteracao": "Kálulúndê Kálulúndê Ogodô Cábíyecí laie Ogodô Kábíyecí laie",
-                        "traducao": "Kálulúndê (Aquele que perfura solo), Kálulúndê, a Xangô, nossa Majestade, vida longa na terra, a Xangô, nossa Majestade, vida longa na terra (ṢÀNGÓ tem vida ou, ṢÀNGÓ está na terra).",
-                        "notetexts": []
+                        "traducao": "Kálulúndê (Aquele que perfura solo), Kálulúndê, a Xangô, nossa Majestade, vida longa na terra, a Xangô, nossa Majestade, vida longa na terra",
+                        "notetexts": [
+                            "(SÀNGÓ tem vida ou, SÀNGÓ está na terra)."
+                        ]
                     },
                     {
                         "sing": "none",
@@ -1996,8 +2076,10 @@
                         "sing": "P",
                         "yoruba": "Eré kún dé o",
                         "transliteracao": "Erê cún dê o",
-                        "traducao": "A \"dança\" já se completou (Da o sentido de \"O Ritual já se completou\". Da mesma forma que usamos ṢIRÉ para festa, dança para o ÒRÌṢÀ, aqui usamos somente o substantivo ERÉ, que é a mesma coisa que IRÉ).",
-                        "notetexts": []
+                        "traducao": "A \"dança\" já se completou",
+                        "notetexts": [
+                            "(Da o sentido de \"O Ritual já se completou\". Da mesma forma que usamos ȘIRÉ para festa, dança para o ÒRÌŞÀ, aqui usamos somente o substantivo ERÉ, que é a mesma coisa que IRÉ)."
+                        ]
                     }
                 ]
             },
