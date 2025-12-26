@@ -17,7 +17,7 @@
                 <p>Preencha os dados do mapa. Trânsito é opcional.</p>
             </header>
 
-            <form class="form" action="calculate.php" method="post" novalidate>
+            <form class="form" action="calculate.php" method="get" novalidate>
                 <fieldset class="fieldset">
                     <legend>Dados do mapa</legend>
 

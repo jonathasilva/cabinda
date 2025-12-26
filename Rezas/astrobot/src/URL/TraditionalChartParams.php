@@ -1,6 +1,6 @@
 <?php
 
-namespace Astroinfo\App\AstroSeek;
+namespace Astroinfo\App\URL;
 
 final class TraditionalChartParams
 {

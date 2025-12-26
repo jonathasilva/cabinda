@@ -23,11 +23,11 @@ final class ChartFormRequest
 
     public function __construct()
     {
-        $this->MapDate = $this->postString('map_date');
-        $this->MapTime = $this->postString('map_time');
+        $this->MapDate = $this->getString('map_date');
+        $this->MapTime = $this->getString('map_time');
 
-        $this->TransitDate = $this->postString('transit_date');
-        $this->TransitTime = $this->postString('transit_time');
+        $this->TransitDate = $this->getString('transit_date');
+        $this->TransitTime = $this->getString('transit_time');
     }
 
     public function isValid(): bool
@@ -70,9 +70,9 @@ final class ChartFormRequest
         return $this->Errors;
     }
 
-    private function postString(string $key): string
+    private function getString(string $key): string
     {
-        $value = filter_input(INPUT_POST, $key, FILTER_UNSAFE_RAW);
+        $value = filter_input(INPUT_GET, $key, FILTER_UNSAFE_RAW);
         if (!is_string($value))
         {
             return '';
