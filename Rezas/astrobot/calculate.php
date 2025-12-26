@@ -6,14 +6,16 @@ require_once __DIR__ . '/vendor/autoload.php';
 
 use Astroinfo\App\Aspects\AspectCalculator;
 use Astroinfo\App\ChartFormRequest;
+use Astroinfo\App\ImportantDegrees;
 use Astroinfo\App\Parser\ElementsParser;
 use Astroinfo\App\Parser\HousePositionsParser;
 use Astroinfo\App\Parser\PlanetPositionsParser;
 use Astroinfo\App\URL\TraditionalChartParams;
 use Astroinfo\App\Parser\TraditionalChartParser;
+use Astroinfo\App\PlanetPosition;
 
-header('Content-Type: text/html; charset=utf-8');
-//header('Content-Type: application/json; charset=utf-8');
+//header('Content-Type: text/html; charset=utf-8');
+header('Content-Type: application/json; charset=utf-8');
 
 $form = new ChartFormRequest();
 
@@ -48,19 +50,47 @@ try
     $houses = $houseParser->parseFromHousesHtml($housesHtml);
     $elements = $elementsParser->parseFromElementsHtml($elementsHtml);
 
+    // Comments always in English: apply combustion/cazimi/under-beams dignities based on Sun
+    $sun = null;
+    foreach ($positions as $p)
+    {
+        if ($p instanceof PlanetPosition && $p->Planet === 'Sun')
+        {
+            $sun = $p;
+            break;
+        }
+    }
+
+    if ($sun instanceof PlanetPosition)
+    {
+        foreach ($positions as $p)
+        {
+            if (!$p instanceof PlanetPosition)
+            {
+                continue;
+            }
+
+            $p->applyCombustionFromSun($sun);
+        }
+    }
+
     $calculator = new AspectCalculator();
     $aspects = $calculator->calculate($positions, $houses);
 
     $planetaryHours = $parser->parsePlanetaryHoursFromParams($params);
     $extra = $parser->parseDodecatemoriaAndAntisciaFromParams($params);
 
-    dd($planetaryHours, $extra);
+    $importantDegrees = new ImportantDegrees();
+    $importantDegreeInformation = $importantDegrees->computeAll($positions, $houses);
 
     echo json_encode([
         'positions' => $positions,
         'houses' => $houses,
         'elements' => $elements,
         'aspects' => $aspects,
+        'planetaryHours' => $planetaryHours,
+        'extra' => $extra,
+        'importantDegreeInformation' => $importantDegreeInformation,
     ], JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT);
 }
 catch (Throwable $e)

@@ -28,6 +28,11 @@ final class PlanetPosition
     public string $Motion;
     public string $Speed;
 
+    /**
+     * @var list<string>
+     */
+    public array $Dignities = [];
+
     private array $Signs = [
         'Aries' => 0,
         'Taurus' => 30,
@@ -61,7 +66,7 @@ final class PlanetPosition
         $this->Minute = $minute;
         $this->Second = $second;
 
-        //Degreeº Minute'Second''
+        // Degreeº Minute'Second''
         $this->Position = sprintf('%dº %d\' %d\'\'', $degree, $minute, $second);
 
         $this->House = $house;
@@ -71,6 +76,68 @@ final class PlanetPosition
 
         $this->calculateTotalPosition();
         $this->setSignZodiacPosition();
+    }
+
+    public function absoluteLongitudeDeg(): float
+    {
+        return $this->SignZodiacPosition
+            + $this->Degree
+            + ($this->Minute / 60)
+            + ($this->Second / 3600);
+    }
+
+    public function applyCombustionFromSun(self $sunPosition): void
+    {
+        // Comments always in English: planets excluded from combustion logic (same as the JS rules)
+        if (
+            $this->Planet === 'Sun'
+            || $this->Planet === 'Moon'
+            || $this->Planet === 'Node'
+            || $this->Planet === 'Lilith'
+            || $this->Planet === 'Chiron'
+            || $this->Planet === 'Pluto'
+            || $this->Planet === 'Neptune'
+            || $this->Planet === 'Uranus'
+        )
+        {
+            return;
+        }
+
+        // Comments always in English: ensure Sun position looks valid
+        if ($sunPosition->Sign === '')
+        {
+            return;
+        }
+
+        $planetLongitude = $this->absoluteLongitudeDeg();
+        $sunLongitude = $sunPosition->absoluteLongitudeDeg();
+
+        $distance = abs($planetLongitude - $sunLongitude);
+        if ($distance > 180)
+        {
+            $distance = 360 - $distance;
+        }
+
+        // Comments always in English: Orbs in degrees
+        $cazimiOrb = 0.2833333333; // 17'
+        $combustOrb = 8.5;         // 8°30'
+        $underBeamsOrb = 17.0;     // 17°
+
+        if (
+            $distance <= $cazimiOrb
+            && ($this->Planet === 'Mercury' || $this->Planet === 'Venus')
+        )
+        {
+            $this->Dignities[] = 'CAZIMI';
+        }
+        else if ($distance <= $combustOrb)
+        {
+            $this->Dignities[] = 'COMBUST';
+        }
+        else if ($distance <= $underBeamsOrb)
+        {
+            $this->Dignities[] = 'UNDER_BEAMS';
+        }
     }
 
     private function calculateTotalPosition(): void
