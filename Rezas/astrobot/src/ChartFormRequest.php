@@ -166,4 +166,29 @@ final class ChartFormRequest
 
         return ['hour' => $h, 'minute' => $min];
     }
+
+    public function getDay(): int
+    {
+        return $this->MapDateTime?->format('d') ? (int)$this->MapDateTime->format('d') : 0;
+    }
+
+    public function getMonth(): int
+    {
+        return $this->MapDateTime?->format('m') ? (int)$this->MapDateTime->format('m') : 0;
+    }
+
+    public function getYear(): int
+    {
+        return $this->MapDateTime?->format('Y') ? (int)$this->MapDateTime->format('Y') : 0;
+    }
+
+    public function getHour(): int
+    {
+        return $this->MapDateTime?->format('H') ? (int)$this->MapDateTime->format('H') : 0;
+    }
+
+    public function getMinute(): int
+    {
+        return $this->MapDateTime?->format('i') ? (int)$this->MapDateTime->format('i') : 0;
+    }
 }

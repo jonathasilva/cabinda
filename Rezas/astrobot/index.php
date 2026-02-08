@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>AstroInfo</title>
 
-    <link rel="stylesheet" href="index.css">
+    <link rel="stylesheet" href="main.css">
 </head>
 
 <body>
@@ -89,7 +89,7 @@
         </section>
     </main>
 
-    <script src="index.js"></script>
+    <script src="main.js"></script>
 </body>
 
 </html>

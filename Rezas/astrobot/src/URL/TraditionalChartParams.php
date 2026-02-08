@@ -2,6 +2,8 @@
 
 namespace Astroinfo\App\URL;
 
+use Astroinfo\App\ChartFormRequest;
+
 final class TraditionalChartParams
 {
     // chiron_asp=on
@@ -231,5 +233,17 @@ final class TraditionalChartParams
         );
 
         return $baseUrl . '?' . $query;
+    }
+
+
+    public function __construct(ChartFormRequest $form)
+    {
+        $this->DiaNascimento = ["narozeni_den" => (string)$form->getDay()];
+        $this->MesNascimento = ["narozeni_mesic" => (string)$form->getMonth()];
+        $this->AnoNascimento = ["narozeni_rok" => (string)$form->getYear()];
+
+        $this->HoraNascimento = ["narozeni_hodina" => (string)$form->getHour()];
+        $this->MinutoNascimento = ["narozeni_minuta" => (string)$form->getMinute()];
+        $this->SegundoNascimento = ["narozeni_sekunda" => "0"];
     }
 }

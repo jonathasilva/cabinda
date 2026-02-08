@@ -31,7 +31,7 @@ if (!$form->isValid())
 
     exit;
 }
-$params = new TraditionalChartParams();
+$params = new TraditionalChartParams($form);
 $parser = new TraditionalChartParser();
 
 try

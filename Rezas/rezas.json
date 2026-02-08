@@ -2846,12 +2846,2515 @@
                 ]
             }
         ],
-        "xapana": [],
-        "oba": [],
-        "ibeji": [],
-        "oxum": [],
-        "yemoja": [],
-        "oxala": []
+        "xapana": [
+            {
+                "id": "ijexa",
+                "titulo": "Ijexá",
+                "cantos": [
+                    {
+                        "sing": "none",
+                        "yoruba": "Ẹ jàrò, jàro, òní tàkókò ni jàrò",
+                        "transliteracao": "É Jjaro djaro oní takôko ni djaro",
+                        "traducao": "Combatemos a tristeza, combatemos a tristeza, hoje faz um tempo que lutamos contra a tristeza",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Ẹ jà un, jà un, ké bẹlujá o, jà un, jà un, ké bẹlujá o",
+                        "transliteracao": "É djaun djaun kê béludjá o djaun djaun kê béludjá o",
+                        "traducao": "Contestamos, contestamos chamando por aquele que toma a frente e os perfura, contestamos, contestamos e chamamos por Bélujá",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Jà un, jà un lókè, jà un, jà un ké bẹlujá",
+                        "transliteracao": "Djaun djaun lôke djaun djaun kê béludjá",
+                        "traducao": "Contestamos, nos perguntamos o que vem do alto, contestamos, contestamos e chamamos por Bélujá (Contestar no sentido de \"Quando a chuva virá? Quando que nossa situação irá melhorar?\").",
+                        "notetexts": []
+                    }
+                ]
+            },
+            {
+                "id": "obitunde-adalona",
+                "titulo": "Obitundê [Adalonã]",
+                "cantos": [
+                    {
+                        "sing": "none",
+                        "yoruba": "A sà jèrè yá fún wa, Àgbàwò Òrunmọlẹ̀",
+                        "transliteracao": "Assa djere iá fún ua Agbauo runmólé",
+                        "traducao": "Ele é quem se satisfaz por ter nos dado um bem estar, olhe por nós, nosso Ancião, nossa Divindade",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "none",
+                        "yoruba": "Àgbàwò Òrunmọlẹ̀",
+                        "transliteracao": "Agbauo runmólé",
+                        "traducao": "Olhe por nós, nosso Ancião, nossa Divindade",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "none",
+                        "yoruba": "Mo gbèljẹ̀ fún jàrò, mo gbèljẹ̀ fún jàrò (Mo gbèljẹ̀ fà jàrò)",
+                        "transliteracao": "Mo gbélé fún djaro mo gbélé fún djaro (Mo gbélé fa djaro)",
+                        "traducao": "Eu semeio a terra para combater a tristeza, eu semeio a terra para combater a tristeza (semeio enquanto lamento)",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Eléké ta ìta láná",
+                        "transliteracao": "Elêkê ta ita lânâ",
+                        "traducao": "O mentiroso espalhou suas mentiras aos ventos no dia de ontem",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "A sà jèrè ibà o ní, òní Ọba wò yá, a sà jèrè ibà o ní",
+                        "transliteracao": "Assa djere iba o ní oní Óba uoiá assa djere iba o ní",
+                        "traducao": "Ele se satisfaz com a febre que mandou para o mentiroso, é no dia de hoje que o nosso Rei irá lhe visitá-lo, ele se satisfaz com a febre que mandou para o mentiroso (Nessa ocasião, o Rei seria ỌBALÚAYÉ, um dos nomes de SỌ̀NPỌ̀NNÁ, Rei e Senhor da Terra).",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "none",
+                        "yoruba": "Àyè (eee) a délù ìyà lù kájú mọ́lẹ̀",
+                        "transliteracao": "Aie (eee) a dêlu iya lu kádjú mólé",
+                        "traducao": "Viva! Ele quebrou o nosso sofrimento, como um brilho de luz (Ele chegou como um brilho de luz e quebrou o nosso sofrimento).",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Délù ìyà lù kájú mọ́lẹ̀, a délù ìyà lù kájú mọ́lẹ̀",
+                        "transliteracao": "Dêlu iya lu kádjú mólé a dêlu iya lu kádjú mólé",
+                        "traducao": "Ele quebrou o nosso sofrimento como um brilho de luz, ele chegou como um brilho de luz e partiu o nosso sofrimento",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Àyè (eee) a délù ìyà lù kájú mọ́lẹ̀",
+                        "transliteracao": "Aie (eee) a dêlu iya lu kádjú mólé",
+                        "traducao": "Viva! Ele chegou como um brilho de luz e quebrou o nosso sofrimento",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "none",
+                        "yoruba": "(Ae, ae) àko rù ù ma, àko rù ù ma, ìnà bà ibà oro",
+                        "transliteracao": "(Ae ae) ako ru man ako ru man inâ ba iba oro",
+                        "traducao": "Aquele que veste as folhas de palmeira sobre a cabeça, aquele que veste as folhas de palmeira sobre a cabeça, a punição vem em forma de febre (A questão das palhas para SỌ̀NPỌ̀NNÁ é um pouco complexa, porque ele em si não as utiliza da forma que foi espalhada pelo Brasil, uma roupa toda feita de palha seca que o cobre dos pés a cabeça, mas existem cultos nas terras Yorubás em que o espírito/pessoa doente se veste com palhas dos pés a cabeça. Indo por essa linha de raciocínio, um dia pode ter havido um descendente dessa linhagem que usou palhas e isso foi o que chegou em nosso território).",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "none",
+                        "yoruba": "Bá, ìnà bá, ìnà bá, a bà ìṣòdàn",
+                        "transliteracao": "Ba inâ ba inâ ba a ba issódân",
+                        "traducao": "Perseguirá, a punição perseguirá, a punição perseguirá, irá atingir o que estiver pela frente (o que estiver no campo)",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "none",
+                        "yoruba": "A sú isà kẹ́lukẹ́lu",
+                        "transliteracao": "A sú issa kélukélu",
+                        "traducao": "Nós abrimos as covas melancolicamente (SỌ̀NPỌ̀NNÁ é um ser conhecido por ser muito severo, que pune sem arrependimentos, claro que um pai nunca vai querer o mal para o seu filho, mas quando esse filho irá aprender a ter responsabilidade? Uma punição é resposta de um mal hábito do pai ou do filho? Para ele, isso está bem claro).",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Òkú (e e e)",
+                        "transliteracao": "Okú (e e e)",
+                        "traducao": "\"Viva aos mortos\"",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "\"Aah\" àyè \"eae\"",
+                        "transliteracao": "Aah aye eae",
+                        "traducao": "\"Viva, viva a vida\" (Não tem uma tradução, são apenas palavras soltas como se estivéssemos chamando a atenção, louvando a vida de fato, relembrando também quem já se foi. ÒKÚ de fato é morto, em uma tradução \"aceitável\", pois na filosofia Yorubá o sentido de estar vivo ou morto é relativo e plural, muitos que já se foram são muito mais presentes para nós do que alguns que estão trilhando sua vida com desgosto dentro de um corpo suspenso por um esqueleto de ossos. Aliás, se a vida fosse uma só, ou se um corpo em pé fosse sinal de viver de fato, a gente não matava galinha e cabrito em cima de pedra, isso também serve para aqueles que tentam separar o culto de ÒRÌṢÀ do culto de ÉGÚN em suas filosofias a fim de colocar medo nos devotos e fazer dinheiro em cima dos desentendidos).",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "none",
+                        "yoruba": "Tàlà fún awo, èle fò tàlà fún mọ́lẹ̀ o",
+                        "transliteracao": "Tala fún awo ele fo tala fún mólé o",
+                        "traducao": "A pureza de seus mistérios, a força que brilha com purificação espalhando sua luz",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Tàlà fún awo",
+                        "transliteracao": "Tala fún awo",
+                        "traducao": "A pureza dos seus segredos",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Èle fò tàlà fún mọ́lẹ̀ o",
+                        "transliteracao": "Ele fo tala fún mólé o",
+                        "traducao": "A força que brilha com purificação espalhando sua luz",
+                        "notetexts": []
+                    }
+                ]
+            },
+            {
+                "id": "magueredje",
+                "titulo": "Magueredjé",
+                "cantos": [
+                    {
+                        "sing": "P",
+                        "yoruba": "Lepo, lepo, lepo",
+                        "transliteracao": "Lepo lepo lepo",
+                        "traducao": "Tem dendê, tem dendê, tem dendê (Lembrando que NDENDE é do tronco linguístico BANTU, do YORÙBÁ para o Português seria Óleo de Palma, vindo da palmeira).",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Kò lè jàn jan, kò lè jàn",
+                        "transliteracao": "Ko le djan djan ko le djan",
+                        "traducao": "Não precisa se sacudir, não precisa se agitar",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Níyà, níyà, níyà",
+                        "transliteracao": "Níya níya níya",
+                        "traducao": "Tem punição, tem punição, tem punição",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Kò lè jàn jan, kò lè jàn",
+                        "transliteracao": "Ko le djan djan ko le djan",
+                        "traducao": "Não precisa se sacudir, não precisa se agitar",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "none",
+                        "yoruba": "Mújà, mújà, mújà kò tán",
+                        "transliteracao": "Múdja múdja múdja ko tân",
+                        "traducao": "Lute, brigue, sua luta não terminou (Essa sequência representa uma invocação de ṢỌ̀NPỌ̀NNÁ, quando chamamos ele para punir nossos inimigos, pedimos para ele não se agitar por que quando ele se sacode, se agita, é quando libera suas pragas sem olhar a quem, dessa forma pode acabar nos confundindo e jogando seus males em nós. Em suas cantigas tradicionais podemos notar um pouco mais disso, por exemplo: \"Bàbá ní olóògùn tèmi o... Ọbalúayé ní olóògùn tèmi... Tani olóògùn tirẹ o O Pai é o meu feiticeiro... Obaluaye é o meu feiticeiro... Quem é o seu feiticeiro?\" Isso mostra que seus devotos sempre reforçam que estão ao lado dele, ainda podemos ver outrar frases em seus ORÍKÌ que falam que ele invade a casa para pegar todos que estão dentro dela, reforçando também sua característica de ser um punidor).",
+                        "notetexts": []
+                    }
+                ]
+            },
+            {
+                "id": "opanije",
+                "titulo": "Opanijé",
+                "cantos": [
+                    {
+                        "sing": "P",
+                        "yoruba": "Jáko pani, jáko pani, jẹ",
+                        "transliteracao": "Djáko pani djáko pani djé",
+                        "traducao": "Ataque as plantações e mate-os, ataque as plantações e mate-os, faça",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Ìjà kò tán",
+                        "transliteracao": "Idja ko tân",
+                        "traducao": "A luta não terminou",
+                        "notetexts": []
+                    }
+                ]
+            },
+            {
+                "id": "odan-efan-surumakuku",
+                "titulo": "Odan Efan [Surumakuku]",
+                "cantos": [
+                    {
+                        "sing": "P",
+                        "yoruba": "Ṣọ̀npọ̀nná, mo gbèlè o, Òrìṣà, mo gbèlè o",
+                        "transliteracao": "Xónpónnâ mo gbéle o Orixa mo gbéle o",
+                        "traducao": "Xapanã, eu semeei a terra para você, meu Orixa, eu semeei a terra para você",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "(Aaah) Yé, Òrunmọlẹ̀ o",
+                        "transliteracao": "(aaah) Yê Órunmólé o",
+                        "traducao": "Oh, por favor, minha Divindade",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Àkàrà lókè, lókè, lókè",
+                        "transliteracao": "Akara lôke lôke lôke",
+                        "traducao": "O akara está no alto, no alto, no alto",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Àkàrà lókè, lókè, lókè, àkàrà",
+                        "transliteracao": "Akara lôke lôke lôke akara",
+                        "traducao": "O akara está no alto, no alto, o akara está no alto",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Sakpata kù ta mi",
+                        "transliteracao": "Sakpata ku ta mi",
+                        "traducao": "Deixe-me sobreviver, Sakpata",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Olóníyà wò",
+                        "transliteracao": "Olôníya uo",
+                        "traducao": "Senhor que pune, cuide-me",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "none",
+                        "yoruba": "Ṣọ̀npọ̀nná, ó gbè ẹni ti ówo",
+                        "transliteracao": "Xónpónnâ ô gbeéni ti ôuo",
+                        "traducao": "Xapanã é quem apoia as pessoas com doenças na pele",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Olóníyà wò",
+                        "transliteracao": "Olôníya uo",
+                        "traducao": "Senhor que pune, cuide-me",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "none",
+                        "yoruba": "Ṣọ̀npọ̀nná, ó gbè ẹni ti ówo",
+                        "transliteracao": "Xónpónnâ ô gbeéni ti ôuo",
+                        "traducao": "Xapanã é quem apoia as pessoas com doenças na pele",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "none",
+                        "yoruba": "Mọ̀ṣẹ̀kẹba, Mọ̀ṣẹ̀kẹba, Móríso, yè àyè, Mọ̀ṣẹ̀kẹba, Mọ̀ṣẹ̀kẹba, Móríso, yè àyè, Mọ̀ṣẹ̀kẹba, Mọ̀ṣẹ̀kẹba, Móríso, yè àyè, a Mọ̀ṣẹ̀kẹba, Mọ̀ṣẹ̀kẹba, Móríso, èle ara",
+                        "transliteracao": "Mócékéba Mócékéba Môrísso ye aie Mócékéba Mócékéba Môrísso ye aie Mócékéba Mócékéba Môrísso ye aie a Mócékéba Mócékéba Môrísso ele ara",
+                        "traducao": "MỌ̀ṢẸ̀KẸBA - Aquele que guarda consigo o segredo de se ocultar MÓRÍSO - Aquele que concerta cabeças, que desfaz o mal ORÍ YÈ ÀYÈ - Viva! Viva! ÈLE ARA - Força presente em nosso corpo, que pode transformar a doença e curar",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "none",
+                        "yoruba": "Ara mókè lé ma jò, ara mókè lé ma jò, mókè lé ma, mókè lé ma, èle ara mókè lé ma jò",
+                        "transliteracao": "Ara môke lê ma djô ara môke lê ma djô môke lê ma môke lê ma ele ara môke lê ma djô",
+                        "traducao": "O corpo consegui expulsar o que estava lhe queimando (febre, doenças de pele em erupção), o corpo conseguiu expulsar o que estava lhe queimando, conseguiu expulsar, conseguiu expulsar, a força transformadora do corpo conseguiu expulsar o que estava lhe queimando",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "none",
+                        "yoruba": "Ara, ara ní ṣóró, ara, ara ní ṣóró, Sakpata mókè lé ma, ara ní ṣóró",
+                        "transliteracao": "Ara ara ní xôrô ara ara ní xôrô Sakpata môke lê ma ara ní xôrô",
+                        "traducao": "O corpo, o corpo tem que botar para fora, o corpo, o corpo tem que botar para fora, Sakpata conseguiu expulsar, o corpo tem que botar para fora",
+                        "notetexts": []
+                    }
+                ]
+            },
+            {
+                "id": "are",
+                "titulo": "Aré",
+                "cantos": [
+                    {
+                        "sing": "none",
+                        "yoruba": "Àyè, àyè, Ṣọ̀npọ̀nná, má dú ké rẹ̀, Ṣọ̀npọ̀nn, má dú ké rẹ̀, ó ké rẹ̀ má dú àyè",
+                        "transliteracao": "Aye aye Xónpónnâ má dú kê re Xónpónnâ má dú kê re o kê re má dú aye",
+                        "traducao": "Viva! Viva! Não mate o canto dele Xapanã, não mate o canto dele Xapanã, o canto dele não mata os vivos",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "none",
+                        "yoruba": "Kékéréké ké ma ìta",
+                        "transliteracao": "Kêkêrêkê kê ma ita",
+                        "traducao": "O Canto do Galo está lá fora (Não posso afirmar, mas provavelmente exista algun ÌTÀN de origem YORÙBÁ que conte algo sobre ṢỌ̀NPỌ̀NNÁ e o galo, talvez até um galo reconhecido e não algum comum, o que sei é que de fato, ele não gosta muito de assobios, de tumultos, isso sendo algo cultural entre seu povo na Áfrika, Basicamente a tradução da cantiga é essa mesmo, se fosse mudar algo seria o \"KERE\", que poderia ser o nome próprio desse galo, podendo ser \"OKERE ou somente KERE\").",
+                        "notetexts": []
+                    }
+                ]
+            },
+            {
+                "id": "glefe",
+                "titulo": "Glefê",
+                "cantos": [
+                    {
+                        "sing": "none",
+                        "yoruba": "Bẹlujá, bẹlujá, Olóníyà",
+                        "transliteracao": "Béludjá béludjá Olôníya",
+                        "traducao": "Tome a frente e os perfure, tome a frente e os perfure, Senhor que Pune",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "none",
+                        "yoruba": "Bàmù lu wá kájá, lu wá kájá fi òòlà àyè o",
+                        "transliteracao": "Bamu lu uá kádjá lu uá kádjá fi oolaye o",
+                        "traducao": "Perfure violentamente, parta-os em pedaços como o cachorro, parta-os em pedaços como o cachorro, para a salvação da nossa vida (Eu sei, é bem violento, ṢỌ̀NPỌ̀NNÁ é assim, também temos que mudar um pouco nossa ótica para entender mais suavemente. Sabemos que ṢỌ̀NPỌ̀NNÁ é ỌLÓDẸ, um Chefe de Caça, ÒRÌṢÀ Caçador, dentro disso, o cachorro faz parte do dia a dia dos caçadores na comunidade YORÙBÁ, vai muito além da domesticação que estamos acostumados por aqui, é um animal de serviço e portanto tem uma importância \"diferente\". Resumindo, talvez o cachorro possa ter feito (ou faz) parte do leque de sabores de ṢỌ̀NPỌ̀NNÁ ou não, talvez seja só uma referência a ÒGÚN, patrono da caça, que em Áfrika se alimenta de cachorro, esse é esticado pelas 4 patas e o Mão de Faca do culto de ÒGÚN dá um único golpe com o facão em seu pescoço, decepando o cachorro para que o altar/assentamento de ÒGÚN seja alimentado. Viu? Não é pra fazer Mesa de Ibeji pra cachorro mais, a Afro-Alguma Coisa não vai deixar ta gurizes?).",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "none",
+                        "yoruba": "O bàmù lèélá ti Bàbá Lépo",
+                        "transliteracao": "O bamu leêla ti Babá lêpo",
+                        "traducao": "Ele é violento, tem feridas na pele e é o Senhor do Dendê",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Lepo, lepo, lepo, lepo",
+                        "transliteracao": "Lepo lepo lepo lepo",
+                        "traducao": "Tem dendê, tem dendê, tem dendê, tem dendê",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Ẹ kàran bó, kàran bó",
+                        "transliteracao": "É karan bó karan bó",
+                        "traducao": "Colhemos o fruto da palmeira para te alimentar, colhemos o fruto da palmeira para te alimentar",
+                        "notetexts": []
+                    }
+                ]
+            },
+            {
+                "id": "oriodan-orinago-abede",
+                "titulo": "Oriodan/Orinagô/Abedé",
+                "cantos": [
+                    {
+                        "sing": "P",
+                        "yoruba": "Akọpá dé",
+                        "transliteracao": "akópá dé",
+                        "traducao": "Aquele que tem a cura chegou",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "A lórí gbá, a lórí ìṣé",
+                        "transliteracao": "A lôrí gbá a lórí ixé",
+                        "traducao": "Nós estamos com a cabeça quente, nós estamos com a cabeça aflita",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "none",
+                        "yoruba": "Ṣiré, ṣiré Sakpata Onílẹ̀, ṣiré, ṣiré Sakpata",
+                        "transliteracao": "Xirê xirê Sakpata onílé xirê xirê Sakpata",
+                        "traducao": "Dance, dance Sakpata, Senhor da Terra, dance, dance Sakpata",
+                        "notetexts": []
+                    }
+                ]
+            },
+            {
+                "id": "jeje",
+                "titulo": "Jeje",
+                "cantos": [
+                    {
+                        "sing": "none",
+                        "yoruba": "Àgbà nísẹ́, Sakpata nísẹ́ wá àyé",
+                        "transliteracao": "Agba nícé Sakpata nícé uáayê",
+                        "traducao": "O Ancião é intrépido, corajoso, Sakpata, o corajoso, veio a Terra",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "none",
+                        "yoruba": "A lùpa, lùpa, lùpa, lùpa, Ọya tu he, Ọya tu he, Sakpata tu he àyè",
+                        "transliteracao": "A lupa lupa lupa lupa Óya turre Óya turre Sakpata turre aye",
+                        "traducao": "Ele bate para matar, bate forte, bate forte, bate forte, Oya é quem junta e conduz (os corpos, as almas), Oya é quem junta e conduz, Sakpata é quem conduz a vida",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Sakpata ilá yè",
+                        "transliteracao": "Sakpata ilá ye",
+                        "traducao": "Para Sakpata o quiabo é vida",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Ilá, ilá o he, Sakpata ilá yè, ilá, ilá o he",
+                        "transliteracao": "Ilá ilá orre Sakpata ilá ye ilá ilá orre",
+                        "traducao": "Quiabo, ele colhe quiabo, para Sakpata o quiabo é vida, quiabo, ele colhe quiabo",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Kó, kó, kó, Sakpata kó, kó, kó, Sakpata",
+                        "transliteracao": "Kô kô kô Sakpata kô kô kô Sakpata",
+                        "traducao": "Ligeiro, ligeiro, ligeiro Sakpata, ligeiro, ligeiro, ligeiro Sakpata",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "A nara wé Àdó kún láíláí",
+                        "transliteracao": "A nara uê Adô kún láíláí",
+                        "traducao": "Envoltas em seu corpo, existem diversas Cabaças de Magia Infinita",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Gbèljẹ̀ ko mi yá jàrùn, gbèljẹ̀",
+                        "transliteracao": "Gbélé ko mi yá djarun gbélé",
+                        "traducao": "Semeie a terra comigo e será fácil combater as doenças, semeie a terra comigo",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Awo, awo, gbèljẹ̀ ko mi yá jàrùn, gbèljẹ̀, awo, awo",
+                        "transliteracao": "Auo auo gbélé ko mi yá djarun gbélé auo auo",
+                        "traducao": "Mistérios, mistérios, semeie a terra comigo e será fácil combater as doenças, semeie a terra comigo, mistérios, mistérios",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Gbèljẹ̀ kò yèyé",
+                        "transliteracao": "Gbélé ko yèyé",
+                        "traducao": "Semeie a terra junto com a Mãezinha (ÒRÌṢÀ ONÍLẸ̀)",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Gbèljẹ̀ ko, gbèljẹ̀, gbèljẹ̀, gbèljẹ̀ ko, gbèljẹ̀, gbèljẹ̀, gbèljẹ̀ ko",
+                        "transliteracao": "Gbélé ko gbélé gbélé gbélé ko gbélé gbélé gbélé ko",
+                        "traducao": "Semeie junto, semeie, semeie, semeie junto, semeie, semeie, semeie junto",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Àgbà, àwa pè o",
+                        "transliteracao": "Agba aua peo",
+                        "traducao": "Ancião, chamamos por ti",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Àpèkọ korí Àgbà o",
+                        "transliteracao": "Apekó korí agba o",
+                        "traducao": "O Ancião leva bons ditados (Bons ensinamentos, coisas com as quais podemos aprender).",
+                        "notetexts": []
+                    }
+                ]
+            }
+        ],
+        "oba": [
+            {
+                "id": "alaba-alabao",
+                "titulo": "Alaba/Alabao",
+                "cantos": [
+                    {
+                        "sing": "none",
+                        "yoruba": "Àlà gorò, Àlà gorò, Bàbánlá wò óò",
+                        "transliteracao": "Ala goro ala goro babánlá uooo",
+                        "traducao": "O Ala cobre o seu culto, o Ala cobre o seu culto, o Grande Pai é quem observa (fiscaliza, supervisiona) (O Ala cobrir o culto refere-se ao fato de ỌBÀ ser descendente do Culto de ỌBATÀLÀ, ou seja, segue desde os costumes de cobrar os seus devotos por bom comportamento quanto de se vestir de branco. Mas, podemos entender essa cantiga de outras formas, por exemplo, Alá+Agoro = Alágoro (Yorubá) diz que ela seria a Senhora das Lebres ou detentora de habilidades semelhantes a uma Lebre, já que sim, ỌBÀ é um ÒRÌṢÀ de caça, e diversos ÒRÌṢÀ são comparados a animais e a natureza, como ṢÀNGÓ, LÓGUN ẸDẸ, ỌYA, entre outros, com o leopardo, ÒṢÙN e a lua, ÒṢÀLÁ e outros com o Elefante, etc.. Confesso que as informações sobre o Culto de Orixá ỌBÀ são escassas no mundo todo e não se sabe ao certo se existe de fato uma ligação concreta entre esses dois personagens, mas seria esse o real motivo de cantarmos SAPADORO, já que a tradução desse verso (e também no ato de dança no Batuke) refere-se a algo como \"agite os braços rapidamente\". Já que ỌBÀ é considerada uma caçadora habilidosa e ágil segundo seus títulos e a Lebre também é de extrema agilidade, no meu entendimento, ambos fazem sentido).",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "none",
+                        "yoruba": "Àlà gorò, Àlà gorò, baabà ilà o",
+                        "transliteracao": "Ala goro Ala goro baaba ila o",
+                        "traducao": "O Ala cobre o seu culto, o Ala cobre o seu culto, aquela que tem pequenas marcas em seu corpo (O que define os devotos de ỌBÀ são as marcas (incisões) que são feitas no rosto. Não só no culto de ỌBÀ, mas de outros ÒRÌṢÀ e outros grupos \"étnicos\" da Áfrika, principalmente na Nigéria).",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "none",
+                        "yoruba": "Èrú nsélẹ̀, èrú nsélẹ̀, Bàbánlá wò óò",
+                        "transliteracao": "Erú nsêlé erú nsêlé babánlá uooo",
+                        "traducao": "Aonde a desonestidade cai por terra, aonde a desonestidade cai por terra, o Grande Pai observa (Mentira, falsidade, são tabús de ÒṢÀLÁ, logo, de ỌBÀ também, como dito anteriormente).",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Ọbà já pani ró ki eré omi, Ọbà já pani ró ki eré omi",
+                        "transliteracao": "Óba djá panirô kerê omi Óba djá panirô kerê omi",
+                        "traducao": "Obá matou uma pessoa que fazia barulho e brincou com a água, Obá matou uma pessoa que fazia barulho e brincou com a água",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Alàgbà wé, Ọbà já pani ró ki eré omi",
+                        "transliteracao": "Alagba uê Óba djá panirô kerê omi",
+                        "traducao": "A anciã o levou com a correnteza, Obá matou uma pessoa que fazia barulho e brincou com a água",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "none",
+                        "yoruba": "Yaya o dẹ, o kù filóná",
+                        "transliteracao": "Yaya o dé oku filónâ",
+                        "traducao": "Plenamente ela vai a caça, sobrevive com ela ao fogo (Lembrando que para ÒRÌṢÀ, a caça por diversão é errado, por isso o cuidado de \"para sobreviver\" se leva ao fogo).",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Mọ̀ ko fẹ́ sáá lẹ̀wù",
+                        "transliteracao": "Mókofé sáá léwu",
+                        "traducao": "Sabe que deve atiçar continuamente as folhas secas para manter o fogo",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Yaya o dẹ",
+                        "transliteracao": "Yaya o dé",
+                        "traducao": "Plenamente ela caça",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Ọbà, Ẹyìn o",
+                        "transliteracao": "Óba éin",
+                        "traducao": "Louvamos Obá",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Ẹyìn o",
+                        "transliteracao": "Éin o",
+                        "traducao": "Louvada seja por nós (Éyin, dependendo da escrita também pode ser \"Carvão em Brasa\", dado o contexto anterior é como se estivessem avisando ỌBÀ do carvão para que a floresta ou lugar que ela esteja não se incendeie, reforçando o cuidado de ÒRÌṢÀ com a natureza).",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "none",
+                        "yoruba": "Èmi èmi ẹjọ́ mo fẹ́le, èmi èmi ẹjọ́ mo fẹ́le, o bá koko èrọ̀ mi, èmi èmi ẹjọ́ mo fẹ́le",
+                        "transliteracao": "Emi emi éjó moféle emi emi éjó moféle obá koko érómi emi emi éjó moféle",
+                        "traducao": "Meu próprio problema é que eu gostaria de ser forte, meu próprio problema é que eu gostaria de ser capaz, ela me salvou amorosamente, me trouxe calma, meu próprio problema é que eu gostaria de ser forte (Essa cantiga é como um lamento para ỌBÀ, tendo um outro entendimento ela diz algo semelhante a \"eu gostaria de me livrar de mim mesmo\". ỌBÀ é reconhecida como O ÒRÌṢÀ Ciumento, por seus conflitos amorosos com ṢÀNGÓ, é cultuada muitas vezes para acabar com esse tipo de sentimento, de ciúmes, tristeza e sentimentos negativos).",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Alábàtà, làbàtà",
+                        "transliteracao": "Alábata labata",
+                        "traducao": "Proprietária do Barro, use o Barro",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Alábàtà kùn ṣe rere",
+                        "transliteracao": "Alábata kun xerere",
+                        "traducao": "Proprietária do Barro, que o esfrega no corpo para ter boa sorte",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Ṣẹ rẹ kùn, ṣẹ rẹ kùn",
+                        "transliteracao": "Xérécun xérécun",
+                        "traducao": "Esfregue-o por todo seu corpo, esfregue-o por todo seu corpo",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Ṣẹ rẹ kùn, ṣẹ rẹ kùn, ṣẹ",
+                        "transliteracao": "Xérécun Xérécun",
+                        "traducao": "Esfregue-o por todo seu corpo, esfregue-o por todo seu corpo, totalmente",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "A bájà nire, a bájà nire, a bájà nire, òfin odò",
+                        "transliteracao": "Abádja nire abádja nire abádja nire ofin odo",
+                        "traducao": "Nós lutamos e temos sorte, nós lutamos e temos sorte, nós lutamos e temos sorte, seguimos as leis do rio (ABADJA também pode ser entendido como \"ÀBÀJÀ\", que são as marcas faciais citadas anteriormente, ou seja, quem tem as marcas faciais e segue as leis, o mandato do rio, que é justamente ỌBÀ, recebe bençãos e a boa sorte em sua vida).",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "A bájà nire",
+                        "transliteracao": "Abádja nire",
+                        "traducao": "Nós lutamos e temos sorte (as marcas faciais são sinônimo da sorte)",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Òfin odò",
+                        "transliteracao": "Ofin odo",
+                        "traducao": "Seguimos as leis do rio",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "A bájà nire",
+                        "transliteracao": "Abádja nire",
+                        "traducao": "Nós lutamos e temos sorte (as marcas faciais são sinônimo da sorte)",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Odò fi ya, Odò fi ya",
+                        "transliteracao": "Odo fiya Odo fiya",
+                        "traducao": "O rio já transbordou, o rio já transbordou (Odo fi iya PODE ser USE O RIO MÃE, porém, deve-se ter uma vírgula como: O Rio, use-o mãe. Porém 2.0: Se tratando de um idioma estrangeiro e que não tem suas regras iguais ao do português, e que foi catalogado a poucas dezenas de anos atrás, faz sim sentido a \"Mãe usar o Rio\". A regra é excessão nesses casos e o Rio transbordar também).",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Ọbà ṣiré, Odò fi ya",
+                        "transliteracao": "Óba xirê Odo fiya",
+                        "traducao": "Obá dançou e o rio transbordou",
+                        "notetexts": []
+                    }
+                ]
+            },
+            {
+                "id": "aguere",
+                "titulo": "Aguéré",
+                "cantos": [
+                    {
+                        "sing": "P",
+                        "yoruba": "Sapá dorò",
+                        "transliteracao": "Sapá doro",
+                        "traducao": "Move os braços como um ritual de encanto (O movimento de dança nesse momento simboliza a Pororoca, ato de encontro das águas, onde o Rio Obá e o Rio Oxum se entrelaçam. Acredita-se até hoje que é a disputa entre ÒṢÙN e ỌBÀ).",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "O Yán-Yán",
+                        "transliteracao": "O Yânyân (nhãnhãn)",
+                        "traducao": "(Move os braços) os sacudindo (entrelaçando)",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Ibájà omi",
+                        "transliteracao": "Ibádja omi",
+                        "traducao": "Essa é a rivalidade da água",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Ọbà sunlé ni",
+                        "transliteracao": "Óba sunlêni",
+                        "traducao": "Obá flui e luta com força na água (Dá o sentido de \"Obá não aceita perder, se entrelaça com força).",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Oko, oko ndé",
+                        "transliteracao": "Oko oko ndé",
+                        "traducao": "Da plantação, da plantação está vindo",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Bàbà nire",
+                        "transliteracao": "Baba nire",
+                        "traducao": "O milho-da-guiné tem a benção (Sim, essa é uma cantiga de Caçador, cantada para ỌBÀ. Um \"Orin Sàsányìn\" ou uma Cantiga do ritual de folhas, que de certa forma se perdeu a prática no Batuke).",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Ọbà kàlàdé",
+                        "transliteracao": "Óba kaladê",
+                        "traducao": "Obá é quem nos torna ricos (prósperos)",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Bàbà nire",
+                        "transliteracao": "Baba nire",
+                        "traducao": "O milho-da-guiné tem a benção",
+                        "notetexts": []
+                    }
+                ]
+            },
+            {
+                "id": "jeje",
+                "titulo": "Jeje",
+                "cantos": [
+                    {
+                        "sing": "none",
+                        "yoruba": "Ọbà oníṣàngó, Ṣàngó jọbà, Ọbà dè yin",
+                        "transliteracao": "Óba oníxangô Xangô djóba Óba dein",
+                        "traducao": "Obá pertence a Xangô, Xangô é seu superior, Obá por ele, fez incisões em sua pele (Oníṣàngó é o Devoto de Xangô, ỌBÀ por ser amante incontrolável de ṢÀNGÓ acaba \"pertencendo a ele\", também tem o fato dos costumes da sociedade YORÙBÁ em que a mulher é submissa ao seu marido [mesmo ỌBÀ sendo meio revoltada, com ṢÀNGÓ ela baixa a guarda], Jù+Ọbà é ṢÀNGÓ é seu superior ou ṢÀNGÓ se tornou rei).",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "none",
+                        "yoruba": "Gbogbo gànjù pirà párá ràn ma gànjù pirà",
+                        "transliteracao": "Gbogbo gandju pira párá rãnma gandju pira",
+                        "traducao": "Todos desdenharam excessivamente até sentirem a força da lama que inesperadamente se alastrou, justamente por terem desdenhado da lama",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "none",
+                        "yoruba": "A kọ jire, a kọ jire ma, a kọ jire ma Ọbà, a kọ jire ma",
+                        "transliteracao": "Akó djire akó djire ma akó djire ma Ọbà, akó jire ma",
+                        "traducao": "Nós te saudamos por nos dar a benção, nós te saudamos por ter nos dado as bençãos, nós saudamos Obá por ela ter nos dado a benção, nós te saudamos por ter nos dado a benção",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Ọbà kélé o",
+                        "transliteracao": "Óba kélé o",
+                        "traducao": "Obá usa Kelê (KÉLÉ é o nome do fio de contas que os devotos de ṢÀNGÓ usam, não necessariamente ela usa, pois tem seu próprio culto, mas voltamos naquele sentido de ỌBÀ ser capaz de fazer de tudo por ṢÀNGÓ).",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Gbogbo ilà ìso",
+                        "transliteracao": "Gbogbo ila isso",
+                        "traducao": "Ela usa todas as suas marcas (ỌBÀ usa todas as marcas/itens/utensílios que ṢÀNGÓ usa para querer sempre ser notada por seu marido).",
+                        "notetexts": []
+                    }
+                ]
+            }
+        ],
+        "ibeji": [
+            {
+                "id": "adarrum",
+                "titulo": "Adarrum",
+                "cantos": [
+                    {
+                        "sing": "P",
+                        "yoruba": "O ní Ìbéjì Ọ̀ṣùn o",
+                        "transliteracao": "O ní Ibêdji Óxum o",
+                        "traducao": "São os Gêmeos (Ibeji) de Oxum",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Tàlà là à ìsò nkùn, o ní Ìbéjì njó",
+                        "transliteracao": "Tala laa issónkun o ní Ibêdji ndjô",
+                        "traducao": "Estão dividindo a pureza entre as barraquinhas da feira e cantarolando, são os Gêmeos que estão dançando",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "none",
+                        "yoruba": "Jí òwò, jí owó, tàlà ní Ìbéjì ẹ jí òwò, tàlà ní Ìbéjì ẹ jí owó, a bá lórun ndé o",
+                        "transliteracao": "Djí ouo djí ouô tala ní Ibêdji é djí ouo tala ní Ibêdji é djí ouô a bá lórundê o",
+                        "traducao": "Façam o comercio funcionar, façam o dinheiro vir, é com a pureza que Ibeji tem que o comércio acorda, é com a pureza que Ibeji tem que o dinheiro também acorda, eles estão chegando do Céu",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "none",
+                        "yoruba": "O lò béjì awo, o lò béjì awo, o lò béjì awo, àlà ká, jàre o",
+                        "transliteracao": "O lo bêdji auo o lo bêdji auo o lo bêdji auo ala ká djare o",
+                        "traducao": "Ela se inclinou e pariu dois, é um mistério, ela se inclinou e pariu dois, é um mistério, ela se inclinou e pariu dois, envolva-os no pano branco, por favor",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Tàlà ní Ìbéjì Ọ̀ṣùn, tàlà ní Ìbéjì Ọ̀ṣùn, anàrewa",
+                        "transliteracao": "Tala ní Ibêdji Óxum tala ní Ibêdji Óxum anarewa",
+                        "traducao": "Com a pureza dos Gêmeos de Oxum, com a pureza dos Gêmeos de Oxum que a boa sorte nos encontrará",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "O ní Ìbéjì Ọ̀ṣùn",
+                        "transliteracao": "O ní Ibêdji Óxum",
+                        "traducao": "São os Gêmeos de Oxum",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Ti Ọ̀ṣùn, yèyé Pọ́ndà",
+                        "transliteracao": "Ti Óxum yeyê Pónda",
+                        "traducao": "De Oxum, da nossa Mãezinha Iponda",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "O ní Ìbéjì Ọ̀ṣùn",
+                        "transliteracao": "O ní Ibêdji Óxum",
+                        "traducao": "São os Gêmeos de Oxum",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Owó, owó wá lò fipò, ẹ lẹ́wà fẹ́ wàjà",
+                        "transliteracao": "Ouô ouô uá lo fipo é léua fé uadja",
+                        "traducao": "O dinheiro, o dinheiro divide a posição que tem (mas) tem que ter feijão se deseja ter uma boa morte",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Wàjà, wàjà lò fipò",
+                        "transliteracao": "Uadja uadja lo fipo",
+                        "traducao": "Para ter uma boa morte, para ter uma boa morte com a posição que tem (WÀJÀ - Entrar no teto, forma de dizer que uma pessoa importante morreu. O dinheiro é algo importante, algo que todo mundo quer, muitos quando o tem, pegam junto os seus \"valores íntimos\" também, porque quanto mais dinheiro se tem, mais há a possibilidade da pessoa se corromper e se achar tão importante quanto ele, no sentido de que todos precisam da pessoa mas ela não precisa de ninguém).",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Ẹ mu, jàre",
+                        "transliteracao": "É mu djare",
+                        "traducao": "Bebam, por favor",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "(Eee) mu, jàre, ogún lọ́",
+                        "transliteracao": "(Eee) mu djare ogún ló",
+                        "traducao": "Bebam, por favor, muita coisa foi doada (Ao menos antigamente, para se fazer um Batuke ou Mesa, os amigos, filhos, netos da casa se ajudavam para cumprir com a obrigação, não ficava somente na mão da pessoa que estava de obrigação por exemplo, um irmão ajudava o outro, conquistando assim a abundância de doces e refrigerantes).",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "none",
+                        "yoruba": "Bàbà rùmọ́lẹ̀, o rù ma",
+                        "transliteracao": "Baba rumólé o ru ma",
+                        "traducao": "O bronze carrega um brilho em si, ele carrega",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Bàbà rùmọ́lẹ̀, ẹ yìn o",
+                        "transliteracao": "Baba rumólé é yin o",
+                        "traducao": "O bronze carrega um brilho em si que é louvável",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "none",
+                        "yoruba": "Bàbà rùmọ́lẹ̀, o rù ma",
+                        "transliteracao": "Baba rumólé o ru ma",
+                        "traducao": "O bronze carrega um brilho em si, ele carrega",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "O nipa Kélé ma",
+                        "transliteracao": "O nipa kêlê man",
+                        "traducao": "Tem que ter conduta para usar o Kelê (KÉLÉ - Colar de contas usado pelos devotos de ṢÀNGÓ, usado como uma gargantilha).",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "O nipa Kélé",
+                        "transliteracao": "O nipa kêlê",
+                        "traducao": "Tem que ter conduta para o Kelê",
+                        "notetexts": []
+                    }
+                ]
+            },
+            {
+                "id": "obamora",
+                "titulo": "Obamorá",
+                "cantos": [
+                    {
+                        "sing": "none",
+                        "yoruba": "Sàmí wé, Aganjú, sàmí wé, Aganjú, tàlà, tàlà ní Ìbéjì, sàmí wé, Aganjú",
+                        "transliteracao": "Samí uê Agandjú samí uê Agandjú tala tala ní Ibêdji samí uê Agandjú",
+                        "traducao": "Aganjú é quem tem a simpatia das crianças, Aganjú é quem tem a simpatia das crianças, eles tem pureza, os Gêmeos são puros, Aganjú é quem tem a simpatia das crianças",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Tàlà, tàlà ní Ìbéjì",
+                        "transliteracao": "Tala tala ní Ibêdji",
+                        "traducao": "Eles tem pureza, os Gêmeos são puros",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Sàmí wé, Aganjú",
+                        "transliteracao": "Samí uê Agandjú",
+                        "traducao": "Aganjú é quem tem a simpatia das crianças",
+                        "notetexts": []
+                    }
+                ]
+            },
+            {
+                "id": "alamba",
+                "titulo": "Alambá",
+                "cantos": [
+                    {
+                        "sing": "P",
+                        "yoruba": "N npàdé, n pàdé, n pàdé lawo orò",
+                        "transliteracao": "Npadê npadê npadê lauo oro",
+                        "traducao": "Reúnam-se, reúnam-se, reúnam-se para o culto sagrado",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Dàdá nṣẹ̀lẹ̀, n pàdé lawo orò",
+                        "transliteracao": "Dadá ncélé n padê lauo oro",
+                        "traducao": "Dadá está abaixo da terra, reúnam-se para o culto sagrado",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Èésú nlà bá wé, èésú nlà bá wé",
+                        "transliteracao": "Êssú nla bá uê êssú nla bá uê",
+                        "traducao": "O compartilhamento traz a riqueza na companhia da simpatia das crianças",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Àsè sú sápata, èésú nlà bá wé",
+                        "transliteracao": "Acessú sápata êssú nla bá uê",
+                        "traducao": "A festividade compartilha conosco o direcionamento do bom caminho, o compartilhamento traz a riqueza na companhia das crianças",
+                        "notetexts": []
+                    }
+                ]
+            },
+            {
+                "id": "axe-das-flores-presentes-olokori",
+                "titulo": "Axé das flores/presentes [Olokori]",
+                "cantos": [
+                    {
+                        "sing": "none",
+                        "yoruba": "O féè lésè wa, o féè lésè lóore, o féè lésè, o níre o, o féè lésè ìṣù-bòkè",
+                        "transliteracao": "O fê lêsse ua o fê lêsse loore o fê lêsse o níre o o fê lêsse ixuboke",
+                        "traducao": "Ele deu o que tinha para nós, ele deu o que tinha, sua bondade, ele deu o que tinha, sua benção, ele nos deu um Bolo",
+                        "notetexts": [
+                            "(Foi difícil achar uma lógica para essa cantiga porque a maioria das pessoas canta \"OXUM BOKE\". Depois de analisar bastante, percebi que não havia uma palavra que de fato definisse a palavra Bolo em YORÙBÁ da forma que é feito por aqui, consegui então montar uma \"nova palavra\" que provavelmente foi a exata intenção que os nossos antepassados tiveram: ÌṢÙ - Ser Redondo BÍ - Como, da mesma forma ÒKÈ - Montanha O que resultou em Redondo Como uma Montanha, ou seja, nosso bolo tradicional. Compartilho isso para que possam ver como o YORÙBÁ é complexo e ao mesmo tempo muito vivo, ao contrário do que falam, que é um dialeto, que é arcaico, YORÙBÁ é um idioma e é muito rico em detalhes, basta estudar o idioma e a filosofia que o envolve)."
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "axe-de-aniversario-de-orixa-adarrum",
+                "titulo": "Axé de Aniversário de Orixa (Adarrum)",
+                "cantos": [
+                    {
+                        "sing": "none",
+                        "yoruba": "Onímoní adùn, adúpẹ́ orò",
+                        "transliteracao": "Onímoní adun adúpé oro",
+                        "traducao": "O dia de hoje é um dia prazeroso, é uma tradição de agradecimento",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Onímoní adùn",
+                        "transliteracao": "Onímoní adun",
+                        "traducao": "O dia de hoje é um dia prazeroso",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Adúpẹ́ orò",
+                        "transliteracao": "Adúpé oro",
+                        "traducao": "É uma tradição de agradecimento",
+                        "notetexts": [
+                            "(Agradecemos pela tradição ou Aquele que agradece pela tradição/cerimônia)."
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "axe-do-dinheiro-para-o-tamboreiro-odan",
+                "titulo": "Axé do dinheiro para o Tamboreiro (Odan)",
+                "cantos": [
+                    {
+                        "sing": "P",
+                        "yoruba": "Jì o ní, jì o ní, jì o ní, jì o ní, owó pàdé o",
+                        "transliteracao": "Dji o ní dji o ní dji o ní dji o ní ouô padê o",
+                        "traducao": "Presenteiem ele, presenteiem ele, dêem de presente, dêem de presente, o dinheiro foi recolhido para ele",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Jì o ní, jì o ní",
+                        "transliteracao": "Dji o ní dji o ní",
+                        "traducao": "Presenteiem ele, presenteiem ele",
+                        "notetexts": []
+                    }
+                ]
+            }
+        ],
+        "oxum": [
+            {
+                "id": "ijexa",
+                "titulo": "Ijexá",
+                "cantos": [
+                    {
+                        "sing": "P",
+                        "yoruba": "Ọ̀ṣùn tàlà dé, omi o tàlà yèyé mọ̀rù àjò",
+                        "transliteracao": "Oxum taladê omio tala ieiê móruadjo",
+                        "traducao": "Oxum chegou com a pureza, suas águas são puras e devem ser carregadas sobre a cabeça durante a jornada",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Ọ̀ṣùn tàlàdé",
+                        "transliteracao": "Oxum taladê",
+                        "traducao": "Oxum chegou com a pureza",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Adóṣù yèyé bàbà ṣorò ki lọ̀nà",
+                        "transliteracao": "Adôxu ieiê baba xoro ki lónâ",
+                        "traducao": "O iniciado da Mãezinha é quem se enfeita com Cobre como de costume",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Ọ̀ṣùn tàlàdé",
+                        "transliteracao": "Oxum taladê",
+                        "traducao": "Oxum chegou, ela tem a pureza",
+                        "notetexts": []
+                    }
+                ]
+            },
+            {
+                "id": "odan",
+                "titulo": "Odan",
+                "cantos": [
+                    {
+                        "sing": "P",
+                        "yoruba": "Ẹ lẹ́wà tì Ọ̀ṣùn o",
+                        "transliteracao": "É léwa ti Oxum o",
+                        "traducao": "Se precisarem de Oxum, que tenham feijão",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Ọ̀ṣùn Alàrẹ̀wà",
+                        "transliteracao": "Oxum Alaréwa",
+                        "traducao": "Oxum, aquela que tem o poder de enriquecer com seus feijões",
+                        "notetexts": [
+                            "(O Feijão [algumas espécies] é um alimento que está sempre presente nas comidas tradicionais de ÒṢÙN, quando falamos que ela tem o poder de enriquecer alguém com eles, é como uma metáfora que resumidamente diz que, quem planta o que ÒṢÙN gosta, colherá em abundância, de uma semente de feijão nascem vários outros)."
+                        ]
+                    },
+                    {
+                        "sing": "none",
+                        "yoruba": "O yèyé o, ẹ lẹ́wà tì Ọ̀ṣùn, ẹ lẹ́wà tì Ọ̀ṣùn ma yá",
+                        "transliteracao": "O ieiê o é léwa ti Oxum é léwa ti Oxum ma yá",
+                        "traducao": "Oh Mãezinha, temos o feijão que gosta, temos o feijão que gosta e já está pronto",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "none",
+                        "yoruba": "Yé gbà mi Ọ̀ṣùn bí olómi, yé gbà mi Ọ̀ṣùn bí olómi, yèyé Pọ́ndà ilú tagarẹlà, yé gbà mi Ọ̀ṣùn bí olómi",
+                        "transliteracao": "Yê gba mi Oxum bí olômi yê gba mi Oxum bí olômi ieiê Pânda ilú tagaréla yê gba mi Oxum bí olômi",
+                        "traducao": "Por favor, envolva-me Oxum, como suas águas, por favor, envolva-me Oxum, como suas águas, Mãezinha de Ipanda, que espalha e promove suas riquezas, por favor, envolva-me Oxum, como suas águas",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "none",
+                        "yoruba": "O yèyé Ọ̀ṣùn pè rere ma",
+                        "transliteracao": "O ieiê Oxum pe rere ma",
+                        "traducao": "Oh Mãezinha, Oxum, que chama a boa sorte para nós",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Ọ̀ṣùn ado kún o",
+                        "transliteracao": "Oxum ado cún o",
+                        "traducao": "Oxum, que se satisfaz ao comer Ado",
+                        "notetexts": [
+                            "(Comida típica e tradicional de ÒṢÙN)."
+                        ]
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Ẹ lẹ́wà tì lọba",
+                        "transliteracao": "É léwa ti lóba",
+                        "traducao": "Temos feijão e temos o apoio de nossa Rainha (das águas)",
+                        "notetexts": [
+                            "(\"Mas ỌBÀ é somente Rei, no masculino, PIPIPI-PÓPÓPÓ\"... A Palavra ỌBA é encontrada em Cantigas e ORÍKÌ de ÒṢÙN, nas traduções de grandes autores e principalmente daqueles que vivem essa cultura na Nigéria [Nativos, Pesquisadores locais, etc.] transcrevem e traduzem ỌBA como Rainha das Águas, fim)."
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "oriodan-orinago-abede",
+                "titulo": "Oriodan/Orinagô/Abedé",
+                "cantos": [
+                    {
+                        "sing": "P",
+                        "yoruba": "Ọ̀ṣùn pé ni lẹwà",
+                        "transliteracao": "Oxum pêni léwa",
+                        "traducao": "Oxum é a mais exuberante, a mais bela",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Omi ni ẹ wọra, wọra, wọra, omi ni ẹ wọra",
+                        "transliteracao": "Omi nié uóra uóra uóra omi nié uóra",
+                        "traducao": "Suas águas são nosso hábito, são nosso habito, suas águas são nossa tradição antiga",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "none",
+                        "yoruba": "Ọ̀ṣùn Ipọ́ndà pààrà wẹ̀lé o",
+                        "transliteracao": "Oxum ipânda para uéle o",
+                        "traducao": "Panda, que visita a casa dos outros para lava-la",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Olómi Lọ̀ṣùn",
+                        "transliteracao": "Olômi loxum",
+                        "traducao": "Oxum, Dona das águas",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Ato nire Olómi Lọ̀ṣùn, Ato nire",
+                        "transliteracao": "Ato nire Olômi loxum Ato nire",
+                        "traducao": "Sacerdotisa do Culto Ancestral, Oxum, Dona das águas e de bençãos, Sacerdotisa do Culto Ancestral e dona de bençãos",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Àwa dúpẹ́lẹ̀ Ọ̀ṣùn fomi o",
+                        "transliteracao": "Aua dúpélé Oxum fomi o",
+                        "traducao": "Temos gratidão pela terra por Oxum ser/usar a água",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Adúpẹ́ rere, adúpẹ́ rere",
+                        "transliteracao": "Adúpé rere adúpé rere",
+                        "traducao": "Agradecemos as bençãos, agradecemos as bençãos",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Ipọ́ndà, ẹyìn o",
+                        "transliteracao": "Ipânda éyin o",
+                        "traducao": "Nós louvamos Ipânda",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Wẹ́lẹ́wẹ́lẹ́ wẹ̀lẹ́ Ọ̀ṣùn, wẹ̀lẹ́ wẹ̀",
+                        "transliteracao": "Adúpé rere adúpé rere",
+                        "traducao": "Como o movimento das águas, lave a casa Oxum, entre na casa e lave",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Èdì bámulẹ̀ adúpẹ́ omi o",
+                        "transliteracao": "Edi bâmulé adúpé omio",
+                        "traducao": "A magia é um pacto conjunto, agradecemos a água",
+                        "notetexts": [
+                            "(Quem guarda os segredos e magias da água são os iniciados, mesmo que uma pessoa \"comum\" também possa ser abençoada por ÒṢÙN, são seus devotos que detém o conhecimento de suas magias)."
+                        ]
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Adúpẹ́ Ọ̀ṣùn, adúpẹ́ wà o",
+                        "transliteracao": "Adúpé Oxum adúpé ua o",
+                        "traducao": "Nós te agradecemos Oxum, nós agradecemos a sua existência",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "none",
+                        "yoruba": "Agbébí abẹ ki sawẹ́ Lọ̀ṣùn",
+                        "transliteracao": "Agbébí abé ki saué Loxum",
+                        "traducao": "Um pedaço da faca da parteira pertence a Oxum",
+                        "notetexts": [
+                            "(Quando uma parteira está fazendo processo de nascimento de uma criança, ela está envolvida com o ÀṢẸ de ÒṢÙN, em termos de espiritualidade, ela está ajudando esse novo ser a passar pelo portal invisível que existe entre o Ọ̀RUN e o ÀYÉ)."
+                        ]
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Sawẹ́ yin o",
+                        "transliteracao": "Saué yin o",
+                        "traducao": "Este pedaço é o que faz o corte",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Agbébí abẹ",
+                        "transliteracao": "Agbébí abé",
+                        "traducao": "A faca da parteira",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Ọ̀ṣùn pè mi o",
+                        "transliteracao": "Oxum pe mi o",
+                        "traducao": "Oxum me chamou",
+                        "notetexts": [
+                            "(Me \"escolheu\")."
+                        ]
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Ìwọ yá Doko, Ọ̀runmọlẹ̀ o",
+                        "transliteracao": "Iuó yá Doko Órunmólé o",
+                        "traducao": "Venha cedo para a plantação, nossa Divindade",
+                        "notetexts": [
+                            "(Doko seria um dos caminhos de ÒṢÙN, quando olhamos para a Cultura YORÙBÁ encontraremos ÒṢÙN ADÉ-OKO, a cabeça ou coroa da plantação [cabeça como alguém que está acima]. Também não significa que essa cantiga seja de Doko, apenas usa um de seus nomes para destacar uma habilidade do ÒRÌṢÀ)."
+                        ]
+                    },
+                    {
+                        "sing": "none",
+                        "yoruba": "Pọ́ndà, kí níní lawo, yèyé, kí níní ẹ̀rọ̀",
+                        "transliteracao": "Panda ki níní lauo yeyê ki níní éró",
+                        "traducao": "Ipânda é muito aclamada por seus Segredos, nossa Mãezinha é muito aclamada por seus mistérios",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Ọ̀ṣùn káre re o",
+                        "transliteracao": "Oxum káre re o",
+                        "traducao": "Oxum, Graciosa mãe que faz o bem",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Káre, káre re ma, káre re wa",
+                        "transliteracao": "Káre káre re ma káre re ua",
+                        "traducao": "Graciosa mãe, Graciosa mãe que faz o bem, Graciosa mãe que faz o bem a nós",
+                        "notetexts": [
+                            "(KÁRE é uma das formas de saudar ÒṢÙN, para os nativos Yorubás, tem o sentido de Graciosa Mãe, pois é uma forma de agradecimento)."
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "congo",
+                "titulo": "Congo",
+                "cantos": [
+                    {
+                        "sing": "P",
+                        "yoruba": "Ọ̀ṣùn máa gẹ̀tẹ̀ omi ma nilù",
+                        "transliteracao": "Oxum má guétê omi ma nilu",
+                        "traducao": "Oxum costuma nos dar carinho respingando água sobre nós (Ato de molhar a mão e fazer respingar sobre alguém).",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Tàlàdé, yèyé owó, Ọ̀ṣùn máa gẹ̀tẹ̀",
+                        "transliteracao": "Taladê ieiê ouô Oxum má guétê",
+                        "traducao": "Que com a pureza chega, a Mãe da Moeda (dinheiro), Oxum costuma nos dar carinho",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "none",
+                        "yoruba": "Àkàrà lẹ́nu Ọ̀lẹ̀lẹ̀, Àkàrà lẹ́nu n Ado kó",
+                        "transliteracao": "Akara lénu Ólélé Akara lénu Ado kó",
+                        "traducao": "O Akara vai em direção da boca, como o Ólélé, o Akara está na boca junto com o Ado",
+                        "notetexts": [
+                            "(Aqui são citadas 3 comidas típicas que ÒṢÙN aprecia: Akara: Bolinho de feijão fradinho, frito no azeite de dendê Ólélé: Espécie de bolo, feito de broto de feijão cozido no vapor (existem mais de uma versão, também chamado de \"Mâin-Mâin\" Ado: Espécie de paçoca, feito de milho vermelho triturado, com mel. Essa cantiga além de falar sobre os gostos de ÒṢÙN, quer nos mostrar, em linhas \"metafóricas\" que ela também é ÒRÌṢÀ que se \"esquenta\", já que o ÀKÀRÀ É servido quente, tendo um significado de ser algo gradual, contínuo, algo que chegará ao seu processo final sem interrupções)."
+                        ]
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Àkàrà lẹ́nu",
+                        "transliteracao": "Akara lénu",
+                        "traducao": "O Akara está na boca",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Ọ̀lẹ̀lẹ̀",
+                        "transliteracao": "Ólélé",
+                        "traducao": "Como o Ólélé",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Àkàrà lẹ́nu",
+                        "transliteracao": "Akara lénu",
+                        "traducao": "O Akara está na boca",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Adó kó",
+                        "transliteracao": "Ado cô",
+                        "traducao": "O Ado também",
+                        "notetexts": []
+                    }
+                ]
+            },
+            {
+                "id": "yabadan",
+                "titulo": "Yabadan",
+                "cantos": [
+                    {
+                        "sing": "P",
+                        "yoruba": "Àwa ṣẹ́ṣẹ́ kùn lodò",
+                        "transliteracao": "Aua xéxé cun lodo",
+                        "traducao": "Em passos curtos, vamos cantarolando até o rio",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Olómi Lọ̀ṣùn",
+                        "transliteracao": "Olômi Loxum",
+                        "traducao": "Dona das águas é Oxum",
+                        "notetexts": []
+                    }
+                ]
+            },
+            {
+                "id": "aguere",
+                "titulo": "Aguere",
+                "cantos": [
+                    {
+                        "sing": "P",
+                        "yoruba": "Yèyé káre o, yèyé káre o",
+                        "transliteracao": "leiê káre o ieiê káre o",
+                        "traducao": "Graciosa Mãe, Graciosa Mãe",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Fáárà bọdún, káre o káre o",
+                        "transliteracao": "Fára bódun káre o káre o",
+                        "traducao": "Estamos aqui como se fosse sua festividade anual, obrigado, obrigado",
+                        "notetexts": [
+                            "(Hoje em dia respondemos só \"yeye kare, kare o, kare o\", mas essa descrita acima é a forma que aprendi com meus Mestres mais antigos, nunca me passaram tradução mas lendo faz total sentido, remete ao fato de se agradecer a ÒṢÙN e aos ÒRÌṢÀ todos os dias, em qualquer momento, não é necessário uma data especial para isso, para louvar a vida que temos e as bençãos que recebemos)."
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "olokori-olokoridji",
+                "titulo": "Olokori/Olokoridji",
+                "cantos": [
+                    {
+                        "sing": "P",
+                        "yoruba": "A mú wá Ọ̀ṣùn yé káre, ìbẹ̀rẹ̀ ma lọ̀run",
+                        "transliteracao": "A mú uá Oxum iê káre ibéré ma lórun",
+                        "traducao": "Aquela que vem fazendo barulho é Oxum, Graciosa Mãe, que estava na origem de tudo (do céu, na criação do universo)",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "A mú wá Ọ̀ṣùn yèyé, ìbẹ̀rẹ̀ ma lọ̀run",
+                        "transliteracao": "A mú uá Oxum ieiê ibéré ma lórun",
+                        "traducao": "Aquela que vem fazendo barulho é Oxum, Mamãe, que estava na origem de tudo",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Ọlọ́run, Adémún",
+                        "transliteracao": "Ólórun Adêmún",
+                        "traducao": "Ser Supremo, aquela que vem fazendo barulho",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "A mú wá Ọ̀ṣùn yèyé, ìbẹ̀rẹ̀ ma lọ̀run",
+                        "transliteracao": "A mú uá Oxum ieiê ibéré ma lórun",
+                        "traducao": "Aquela que vem fazendo barulho é Oxum, Mamãe, que estava na origem de tudo",
+                        "notetexts": [
+                            "(O \"fazer barulho\" de ÒṢÙN é pelo fato de ela estar sempre adornada com bronze por todo seu corpo. AFIDẸRẸMỌ é uma frase que é sempre dita pelos nativos Yorubás que significa: Aquela que enfeita seus filhos com bronze)."
+                        ]
+                    },
+                    {
+                        "sing": "none",
+                        "yoruba": "Ire o, adé owó ire adé wa, ominilàbá, adé owó ire adé wa",
+                        "transliteracao": "Ire o adê owô ire adê wa ominilabá adê owô ire adê wa",
+                        "traducao": "Sorte, coroa da prosperidade, que a sorte esteja conosco, água onde se encontra a riqueza, coroa da prosperidade, que a sorte esteja conosco",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "none",
+                        "yoruba": "Ọ̀ṣùn nlà mi o yèyé, Ọ̀ṣùn nlà ma dùn kékẹ́, Ọ̀ṣùn nlà ma dùn kékẹ́ o, Ọ̀ṣùn nlà mi o, Yèyé o",
+                        "transliteracao": "Oxum nla mi o ieiê Oxum nla ma dunkéké Oxum nla ma dunkéké o Oxum nla mi o ieiê o",
+                        "traducao": "Oxum, a minha mãe, surgiu para mim, Oxum surgiu fazendo um agradável som, Oxum surgiu fazendo um agradável som, Oxum, a minha mãe, surgiu para mim",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Ọ̀ṣùn nlà mi o",
+                        "transliteracao": "Oxum nla mi o",
+                        "traducao": "Oxum surgiu para mim",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "O yèyé, Ọ̀ṣùn nlà ma dùn kékẹ́",
+                        "transliteracao": "O ieiê Oxum nla ma dun kéké",
+                        "traducao": "Mãezinha, Oxum surgiu fazendo um agradável som",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Èdé mù kàn, Èdé mù kàn",
+                        "transliteracao": "Edê mu cân edê mu cân",
+                        "traducao": "O búfalo desaparece e depois golpeita com a cabeça, o búfalo desaparece e depois golpeia com a cabeça",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Èdé mù kàn \"ê ê ê\"",
+                        "transliteracao": "Edê mu cân ê ê ê",
+                        "traducao": "O búfalo desaparece e depois golpeia com a cabeça",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Afúúlẹ́lẹ́ mọ̀ jídé káre lẹwà",
+                        "transliteracao": "Afúlélé mó djídê káre léwa",
+                        "traducao": "O vendaval que sabe como despertar a vinda da Graciosa e Bela Mãe",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Ọya",
+                        "transliteracao": "Óya",
+                        "traducao": "É Oya (quem sabe despertar a vinda de Oxum)",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Afúúlẹ́lẹ́ mọ̀ jìdé káre lẹwà",
+                        "transliteracao": "Afúlélé mó djidê káre léwa",
+                        "traducao": "O vendaval que sabe como despertar a vinda da Graciosa e Bela Mãe",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Ọya o",
+                        "transliteracao": "Óya o",
+                        "traducao": "\"Só pode ser Oya\"",
+                        "notetexts": [
+                            "(Apesar de que em alguns mitos ÒṢÙN e ỌYA tinham um certo ciúmes uma da outra por causa de ṢÀNGÓ, na maioria das histórias elas eram muito amigas, ÒṢÙN muitas vezes cuidou de ỌYA, assim como, ỌYA muitas vezes ensinou ÒṢÙN a sobreviver, a caçar e artes de guerra)."
+                        ]
+                    },
+                    {
+                        "sing": "none",
+                        "yoruba": "Pọ́ndà mi rere, Pọ́ndá mi re a bá yi ṣoro",
+                        "transliteracao": "Panda mi rere Panda mire a bá yi xoro",
+                        "traducao": "Minha mãe Panda me traz a sorte, Panda me traz sorte, ela é quem me fornece estímulo e resistência",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "none",
+                        "yoruba": "Pọ́ndà ire mo júbà o, Pọ́ndà ire mo dìde, Pọ́ndà ire mo júbà o, Òrìṣà Doko",
+                        "transliteracao": "Panda ire mo djúba o Panda ire mo dídê Panda ire mo djúba o Orixa Doko",
+                        "traducao": "Eu agradeço as bençãos de Panda, as bençãos de Panda me levantaram, eu agradeço as bençãos de Panda, Orixa, que vem da plantação",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "none",
+                        "yoruba": "Adé wọra, adé wọra, adé wọra ẹ̀mí sélẹ̀, bàbà ikọ̀ fi odára, bàbà ikọ̀ féè rere",
+                        "transliteracao": "Adê uóra adê uóra adê uóra émí sélé baba ikófi odára baba ikófê rere",
+                        "traducao": "A coroa torna-se nossos costumes, a coroa torna-se nossos costumes, a coroa torna-se nossos costumes que a nossa alma havia perdido, o Bronze é a representação de que tudo ficará bem, o Bronze é o mensageiro que traz a boa sorte",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "none",
+                        "yoruba": "Bàbà ikọ̀, bàbà ikọ̀ yé-yé, Òrìṣà ni tàlà bò n, bàbà ikọ̀ yé-yé",
+                        "transliteracao": "Baba ikó baba iló yé-yé Orixa ni talabo un baba ikó yéyé",
+                        "traducao": "O bronze é a representação, o bronze é a representação de valor e honra, Orixá que se cobre com a pureza, o bronze é a representação de valor e honra",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "none",
+                        "yoruba": "Àwòrò nró, o kú orò ẹ j'Ọ̀ṣùn Lọba",
+                        "transliteracao": "Auoro nrô ocú oro é djóxum lóba",
+                        "traducao": "O Sacerdote está fazendo barulho, cumprindo o ritual para despertar Oxum, a Rainha (das águas) ao povo",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Pọ́ndà ní ṣorò",
+                        "transliteracao": "Panda ní xoro",
+                        "traducao": "Panda está no culto (Estamos cultuando Panda)",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Là orò, lá orò",
+                        "transliteracao": "La oro la oro",
+                        "traducao": "Apareça ao culto, apareça ao culto",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "none",
+                        "yoruba": "Àrà un àrà o kẹ́, èmi ré mi Doko",
+                        "transliteracao": "Ara un ara o ké emirêmi Doko",
+                        "traducao": "Esse costume é um costume que me alivia, esteja aqui comigo, venha da plantação (ou Doko)",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Èlò ìlò mire Pọ́ndà o",
+                        "transliteracao": "Elo ire mire Panda o",
+                        "traducao": "O instrumento que me abençoa é Panda (instrumento=água)",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Yé, yé o má ilọ",
+                        "transliteracao": "iê iê o má iló",
+                        "traducao": "Por favor, por favor não vá embora",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Èlò ìlò",
+                        "transliteracao": "Elo ilo",
+                        "traducao": "O instrumento que ela usa",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Kẹ́, kẹ́, kẹ́, kẹ́",
+                        "transliteracao": "Ké ké ké ké",
+                        "traducao": "Alivie, alivie, alivie, alivie",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "none",
+                        "yoruba": "Èlò ire olódò, èlò ire kà wélé",
+                        "transliteracao": "Elo ire olôdo elo ire ca uêlê",
+                        "traducao": "O instrumento de benção que ela usa é o Rio, utiliza da benção (da água) para envolver a casa",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "none",
+                        "yoruba": "Èmi Doko, Ọlólá Ọ̀ṣùn ki ìbẹ̀rẹ̀",
+                        "transliteracao": "Emi Doko ólólá Oxum kiibéré",
+                        "traducao": "Comigo está aquela que vem da plantação, Oxum, Senhora Respeitável da origem de tudo",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Ọlólá Ọ̀ṣùn, kíkí tolómi wá",
+                        "transliteracao": "Ólólá Oxum kíkí tolômi uá",
+                        "traducao": "Oxum, Nobre Mãe, a quem se saúda antes adentrar as águas",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "O yèyé, Ẹbọra, Ẹbọra",
+                        "transliteracao": "O ieiê Ébóra Ébóra",
+                        "traducao": "A Mãe, Espírito Divino, Espírito Divino",
+                        "notetexts": [
+                            "(ẸBỌRA é o conceito de encarnação que tal ÒRÌṢÀ teve, ou seja, sua vida terrena, ou até mesmo sua representação na natureza. Seguindo a lógica dos mitos, ÒṢÙN (e outros Orixás também) não morreu, e sim se transformou em rio, portanto os nativos acreditam que quando levam oferendas ao rio e os peixes vem para se alimentar, ali está ÒṢÙN, a fauna completa daquele complexo ambiente. ÒṢÙN é chamada de ẸBỌRA ODÒ: O Espírito do Rio)."
+                        ]
+                    },
+                    {
+                        "sing": "none",
+                        "yoruba": "Yemọjá, Yemọjá mú kú orò, a bá yi ṣoro",
+                        "transliteracao": "Yemódjá Yemódjá ma kú oro a bá yi xoro",
+                        "traducao": "Yemanjá, Yemanjá se une a tradição (culto), dê a nós estímulo e resistência",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Òkè rè mọ délè",
+                        "transliteracao": "Oke re mó dêlé",
+                        "traducao": "Alimente o que está no alto para construir ligação com a terra",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Ará, òkè rè mọ délè",
+                        "transliteracao": "Ará oke re mó dêlé",
+                        "traducao": "A família, alimente o que está no alto para construir ligação com a terra",
+                        "notetexts": [
+                            "(Alimentar o alto é alimentar nossos antepassados, a ancestralidade, não há culto de ÒRÌṢÀ sem ancestral, para que eu exista, antes veio minha mãe, vó, bisavó.... Essa cantiga representa o nosso dever de sempre cumprimentar o que veio antes de nós, também pode fazer alusão a ẸGBÉ Ọ̀RUN, já que é nossa família legítima, nossa comunidade no céu)."
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "glefe",
+                "titulo": "Glefe",
+                "cantos": [
+                    {
+                        "sing": "P",
+                        "yoruba": "Yèyé bá ki ire ma, Yèyé Doko lodò, Yeye bá ki ire ma, Yèyé Doko lodò",
+                        "transliteracao": "leiê báki ire ma ieiê Doko lodo ieiê báki ire ma ieiê Doko lodo",
+                        "traducao": "Mamãe, ajude com a benção, Mamãe que vem da plantação ao rio, Mamãe, ajude com a benção, Mamãe que vem da plantação ao rio",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Yèyé, yèyé, yèyé Doko lodò, Yèyé, yèyé, yèyé Doko lodò",
+                        "transliteracao": "leiê ieiê ieiê doco lodo ieiê ieiê ieiê doco lodo",
+                        "traducao": "Mamãe, mamãe, mamãe que vem da plantação ao rio, mamãe, mamãe, mamãe que vem da plantação ao rio",
+                        "notetexts": []
+                    }
+                ]
+            },
+            {
+                "id": "jeje",
+                "titulo": "Jeje",
+                "cantos": [
+                    {
+                        "sing": "P",
+                        "yoruba": "Pọ́ndà sí ìyá mi",
+                        "transliteracao": "Panda sí iyá mi",
+                        "traducao": "Panda é a minha mãe",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Àlà dé wa, ìyá ndé",
+                        "transliteracao": "Ala dê ua iyá ndê",
+                        "traducao": "Que a pureza venha a nós, a mãe está chegando",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Ké túnlé, ké tunlé, sáyá sẹ̀sẹ̀ ìyá mi",
+                        "transliteracao": "Kê túnlê kê túnlê sáiá sésé iyá mi",
+                        "traducao": "Grite mais alto novamente, grite mais alto novamente, venha festejar comigo e com minha mãe",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Àyè, ké túnlé, sáyá sẹ̀sẹ̀ ẹbọ",
+                        "transliteracao": "Aie kê túnlê sáiá sésé ébó",
+                        "traducao": "Viva, grite mais alto novamente, venha logo para festejar as oferendas",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Dá lé, dá lé, dá lé owó",
+                        "transliteracao": "Dálê dálê dálê owó",
+                        "traducao": "Aumente, expanda, aumente o nosso dinheiro (nossas riquezas)",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Dá lé, dá lé",
+                        "transliteracao": "Dálê dálê",
+                        "traducao": "Aumente, aumente",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Yá Ìyá súlà",
+                        "transliteracao": "Yá iyá súla",
+                        "traducao": "Venha logo Mãe, semear a riqueza",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Fara bá ìṣe, fara bá ìṣe",
+                        "transliteracao": "Fara bá ixe fara bá ixe",
+                        "traducao": "Em quem encontrar caráter",
+                        "notetexts": []
+                    }
+                ]
+            },
+            {
+                "id": "ijexa-2",
+                "titulo": "Ijexa 2",
+                "cantos": [
+                    {
+                        "sing": "P",
+                        "yoruba": "Yèyé gbè sàlẹ̀, bọmọrẹ, yèyé gbè sàlẹ̀, o lọ̀nà",
+                        "transliteracao": "leiê gbe salé bómóré ieiê gbe salé o lónâ",
+                        "traducao": "Mamãe que dá apoio com a cura vinda da terra, faz isso aos seus filhos, Mamãe que dá apoio com a cura vinda da terra, você é o caminho",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Ọ̀ṣùn dé, o lọ̀nà, yèyé gbè sàlẹ̀, bọmọrẹ",
+                        "transliteracao": "Oxum dê o lónâ ieiê gbe salé bómóré",
+                        "traducao": "Oxum chegou, ela é o caminho, Mãezinha que dá apoio com a cura vinda da terra, faz isso aos seus filhos",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Ọ̀ṣùn Doko",
+                        "transliteracao": "Oxum Doko",
+                        "traducao": "Oxum, que chega da plantação",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Ẹ wá ṣiré lọya",
+                        "transliteracao": "É uá xirê lóya",
+                        "traducao": "Venha dançar com Oya",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "none",
+                        "yoruba": "Kí bẹ̀ Lọ̀ṣùn, Yemọjá, kí bẹ̀ Lọ̀ṣùn, ẹ̀rọ̀, ẹ̀kẹ bọmọrẹ o",
+                        "transliteracao": "Kíbé Lóxum Yemódjá kíbé Lóxum éró eké bómóré o",
+                        "traducao": "Para suplicar a Oxum, há Yemanjá, para suplicar a Oxum e aos seus mistérios, somente seus filhos sabem",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Orò kú ma ìlọ̀",
+                        "transliteracao": "Oro kú ma iló",
+                        "traducao": "A tradição, de fato, é um preceito (algo que não pode faltar)",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Wá, w'aṣọ Ọ̀ṣùn",
+                        "transliteracao": "Uá uáxóxum",
+                        "traducao": "Procure, procure pelas vestes de Oxum",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Ọ̀fẹ́ nisè",
+                        "transliteracao": "Ofê nisse",
+                        "traducao": "Aquela que tem inteligência para cozinhar",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Ọ̀fẹ́ ni s'ẹbọ",
+                        "transliteracao": "Ofê ni sébó",
+                        "traducao": "Aquela que tem inteligência para preparar a oferenda",
+                        "notetexts": []
+                    }
+                ]
+            }
+        ],
+        "yemoja": [
+            {
+                "id": "ijexa",
+                "titulo": "Ijexá",
+                "cantos": [
+                    {
+                        "sing": "none",
+                        "yoruba": "Yemọjá sé lè olódò, Bàbà orò omi o, Yemọjá Ẹlẹ́mí ìsàlẹ̀ o, Bàbà orò omi o",
+                        "transliteracao": "Yemódjá cêle olôdo Baba oromio Yemódjá élém isalé o Baba oromio",
+                        "traducao": "Yemanjá não é mais a Senhora do Rio, o Bronze agora é o culto da água, Yemanjá, a Senhora que é o Alicerce e Criadora da Vida, o Bronze agora é o culto da água",
+                        "notetexts": [
+                            "(Nessa primeira sequência, vemos cantigas relacionadas ao nascimento de ÒṢÙN, essa, sendo filha dela segundo o ÌTÀN. Em um breve resumo, YEMỌJÁ estava frustada pois era infértil e se consultou com um Babalawo... Ifá disse para ela levar uma Cabaça com água e preparos durante 5 dias de sua casa até o rio, que também o fizesse cercada de crianças. YEMỌJÁ durante os dias assim fez, no quinto dia sentiu dores enquanto fazia seu percurso pra casa, foi ali que ela parou na beira da estrada e em meio a alguns arbustos se lamentou de dores... ÒṢÙN havia nascido do ventre de YEMỌJÁ que até então não gerava filhos, ÒGÚN foi quem cortou o cordão umbilical e por recomendação do Babalawo o enterrou no fundo do rio, ÒṢÙN recebeu o nome de \"Oṣẹ nibù omi (ou Oṣẹ omi nibù)\" que significa Oxé na profundeza das águas, pois ÒṢÙN, ao nascer, já era ÒRÌṢÀ. Quando falamos que YEMỌJÁ não é mais a Senhora do Rio é no sentido de que o rio agora tem um novo mandato de certa forma, ela ainda sim controla as águas mas ÒṢÙN é o novo Ser, o IRÚNMỌLẸ̀ ÒṢÙN havia nascido no ÀYÉ e fez a união do rio e a terra, por isso sua placenta está no fundo do rio, por isso é OMI NIBÙ e por isso o Bronze agora é o culto das águas, pois lá se encontra o elemento dela. BÀBÀ é o bronze)."
+                        ]
+                    },
+                    {
+                        "sing": "none",
+                        "yoruba": "Yemọjá pasẹ̀ kí pa á sẹ́ sùn, Yemọjá á sẹ́ sùn, oorun awo, Ẹ rere wà sánpa á, wá Ọ̀ṣùn didẹ o, Bàbà orò omi o",
+                        "transliteracao": "Yemódjá pacé kípaa céssun Yemódjáá céssun oorun auo Yemódjá sanpa a ua Oxum didéo Baba oromio",
+                        "traducao": "Yemanjá, aquela que carrega a criança nas costas até faze-la dormir, Yemanjá a faz dormir, no sono há mistérios, a sorte de todos existe quando ela as envolve em seus braços, busquem por Oxum para cultivar o \"Bronze\", o Bronze é o culto da (na) água",
+                        "notetexts": [
+                            "(Em Yorubá, IDẸ é pulseira, bracelete, quando se refere a ÒṢÙN normalmente já da a entender que é o Bronze das pulseiras, como diz a frase AFIDẸRẸMỌ, Aquela que enfeita seus filhos com Bronze. Esse metal é usado por poucas ÒRÌṢÀ, LOGUN ẸDẸ é um deles, que o usa em sua homenagem)."
+                        ]
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Ìyá odò sí ọmọ gbè, ẹ kí àwa orò, Ìyá odò sí ọmọ gbè, ẹ kí àwa orò",
+                        "transliteracao": "Iyá odo cí ómó(n) gbe é kíaua oro Iyá odo cí ómó(n) gbe é kíaua oro",
+                        "traducao": "Mãe do Rio, que sustenta os filhos, cumprimentamos a senhora que para nós, é sagrada, Mãe do Rio, que sustenta os filhos, cumprimentamos a senhora que para nós, é sagrada",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Yemọjá kun ará, kun àwa orò, Ìyá odò sí ọmọ gbè, ẹ kí àwa orò",
+                        "transliteracao": "Yemódjá kun ará kun aua oro iyá odo cí ómó(n) gbe é kíaua oro",
+                        "traducao": "Yemanjá reúne a família, nos reúne para o seu culto, Mãe do Rio, que sustenta os filhos, cumprimentamos a senhora que para nós, é sagrada",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "none",
+                        "yoruba": "Tó tò tó tò ará gbè mi kẹ̀, ará gbè ará gbè ará gbè mi kẹ̀",
+                        "transliteracao": "Tôto tôto ará gbemi ké ará gbe ará gbe ará gbe mi ké",
+                        "traducao": "Minhas saudações, minhas saudações (Yemanjá), a Senhora é a família que me acolhe, que protege, que proteje, és a família que me acolhe",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "none",
+                        "yoruba": "Ké tún nànà ké tún nànà, Yemọjá wí rán wò bẹ̀ nfara Ọdẹ",
+                        "transliteracao": "Kêtún nânâ kêtún nânâ Yemódjá wírân uo bénfara Ódé",
+                        "traducao": "Grite de novo no caminho, grite de novo no caminho, Yemanjá falou para ir ver de novo onde está o Caçador",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Orò kú ma ilé, orò kú ma ìlọ̀",
+                        "transliteracao": "Oro kú ma ilê oro kú ma iló",
+                        "traducao": "Este culto é como a nossa casa, o culto é o nosso preceito",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Yemọjá sé lè olódò",
+                        "transliteracao": "Yemódjá cêle olôdo",
+                        "traducao": "Yemanjá não é mais a Senhora do Rio",
+                        "notetexts": []
+                    }
+                ]
+            },
+            {
+                "id": "odan",
+                "titulo": "Odan",
+                "cantos": [
+                    {
+                        "sing": "P",
+                        "yoruba": "A fúúlẹ́lẹ́, amáa rá ilé o",
+                        "transliteracao": "A fúlélé amárá ilê o",
+                        "traducao": "Ela agita tudo quando ele decide desaparecer de casa",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Ẹ wá o, àbẹ̀ o, ẹkùn amáa rá í sò, ẹ wá o, àbẹ̀ lẹ̀ o",
+                        "transliteracao": "É uá o abé o ékun amáa rá isso é uá o abé lé o",
+                        "traducao": "Procurem por ele, ela pediu, o leopardo quando está solto se arrasta, procurem por ele, ela pediu para encontra-lo",
+                        "notetexts": [
+                            "(ẸKÙN é leopardo, já ẸKÚN é choro, de lágrimas, é uma metáfora onde as duas palavras se conversam, o Leopardo é o Caçador, filho de YEMỌJÁ que sempre quer desbravar o mundo, quando ele rasteja é que está olhando a todos mas ninguém o encontra. O choro é de YEMỌJÁ já que fica sentimental quando seu filho foge, quando o choro está solto também escorre, ou seja, quem quer chorar apenas chora, está livre. Orixás caçadores em sua maioria são comparados com o leopardo, o leopardo é um animal sagrado para os Yorubás e sempre está presente em cantigas e louvores, inclusive tem o seu próprio culto, festas e comemorações em algumas regiões)."
+                        ]
+                    },
+                    {
+                        "sing": "none",
+                        "yoruba": "A ká worò, o ki jẹ, o ki jẹ ẹ̀rọ̀, a ga jù Òṣàlá, o ki jẹ, o ki jẹ ẹ̀rọ̀, ìwọ yá wéléwélé",
+                        "transliteracao": "Aká oro oki djé oki djé éró a ga jù Oxalá oki djé oki djé éró iuó yá uêlêuêlê",
+                        "traducao": "Aquela que observa o culto, que se alimenta da tranquilidade, da paciência, que entende que Oxalá é um Ser Superior, aquela que se alimenta da tranquilidade, venha rapidamente",
+                        "notetexts": [
+                            "(Não desfazendo da Tradução da última revisão, que tinha olhares mais para o nosso culto em diáspora, mas essa versão tem uma visão um pouco mais baseada na cultura e tradição originária que envolve essas divindades)."
+                        ]
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Mo kéré o",
+                        "transliteracao": "Mo kêrê o",
+                        "traducao": "Eu sou pequeno",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Mo kéré Òrìṣà",
+                        "transliteracao": "Mo kêrê Orixá",
+                        "traducao": "Eu sou pequeno, perante Orixá",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Wá bá nkò lomi",
+                        "transliteracao": "Uábá nco lomi",
+                        "traducao": "Vamos juntos ao encontro das águas",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Wá mi sajú lè ma wá bá nkò lomi, wá mi sajú lè ma",
+                        "transliteracao": "Uámi sadjú lema uábá nco lomi uámi sadjú lema",
+                        "traducao": "Venha comigo, me direcione, eu preciso, vamos juntos ao encontro das águas, venha comigo, me direcione, eu preciso",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Ìyá doko, Ẹbọra, ki bẹ̀ L'Ọ̀ṣùn, Yemọjá",
+                        "transliteracao": "Iyá doko, Ébóra, kí bé loxum, Yemódjá",
+                        "traducao": "Mãe que vem da plantação, \"Espírito divino\", que suplicou para ter Oxum, Yemanjá (suplicou para poder gerar um filho)",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Yemọjá bomi",
+                        "transliteracao": "Yemódjá bomi",
+                        "traducao": "Yemanjá Bomi, ou então, de forma literal seria: Yemanjá, retire a água da vasilha, pegue água",
+                        "notetexts": [
+                            "(Aqui, aquele que tem conhecimento pode declarar os Epítetos de YEMỌJÁ, como BOMI do Exemplo, pois cada nome tem seu significado)."
+                        ]
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Àwòrò",
+                        "transliteracao": "Auoro",
+                        "traducao": "Mantenha os olhos em nosso Culto (Aquela que Observa o Culto, a quem pedimos para nos favorecer).",
+                        "notetexts": []
+                    }
+                ]
+            },
+            {
+                "id": "abede-orinago",
+                "titulo": "Abedé/Orinagô",
+                "cantos": [
+                    {
+                        "sing": "none",
+                        "yoruba": "A bá wà dìlà, Bàbà èlè, Odò Òògùn là, Bàbà èlè",
+                        "transliteracao": "A bá wa dila Baba ele Odoo gunla Baba ele",
+                        "traducao": "Encontramos o que nos traz a prosperidade, o Bronze é força transformadora, o Rio Oogun nos traz riquezas, o Bronze é força transformadora",
+                        "notetexts": [
+                            "(ODÒ ÒÒGÙN é o nome do Rio de YEMỌJÁ, que significa Rio da medicina ou Rio da magia, já que ÒÒGÙN significa isso, lá é lugar que se encontra a cura para doenças e também a prosperidade. E pra quem bem sabe, onde está YEMỌJÁ, está ÒṢÙN)."
+                        ]
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Òògùn rere o",
+                        "transliteracao": "Oogun rere o",
+                        "traducao": "A medicina é boa para nós",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Yemọjá kí pasẹ̀, pasẹ̀ bá ilé",
+                        "transliteracao": "Yemódjá kípacé pacé bailê",
+                        "traducao": "Yemanjá, aquela que carrega a criança nas costas até chegar em casa",
+                        "notetexts": [
+                            "(Aqui, de uma forma carinhosa, as crianças que YEMỌJÁ carrega somos nós, seus devotos, já que somos filhos dela, como se soubessemos que nossa Mãe irá nos deixar em segurança em sua casa)."
+                        ]
+                    },
+                    {
+                        "sing": "none",
+                        "yoruba": "A múlà wá jẹ́kí wa múlà jẹ́ẹ́, a múlà wá jẹ́kí wa múlà jẹ́ẹ́, odò káralọ wá múlà jẹ́ẹ́",
+                        "transliteracao": "A múla uá djékí ua múla djéé a múla uá djékí ua múla djéé odo káraló uá múla djéé",
+                        "traducao": "Venha e nos deixe sentir a prosperidade suavemente, venha e nos deixe sentir a prosperidade suavemente, quando o rio vai embora, nós sentimos muito, venha e nos deize sentir a prosperidade suavemente",
+                        "notetexts": []
+                    }
+                ]
+            },
+            {
+                "id": "alamba",
+                "titulo": "Alambá",
+                "cantos": [
+                    {
+                        "sing": "P",
+                        "yoruba": "O mò fi elépè wà, o mò fi elépè wà, Nàná kùnà yè è",
+                        "transliteracao": "O mó fi elêpe ua o mó fi elêpe ua Nanâ kuna ye e",
+                        "traducao": "Ela reconheceu aquele que estava \"amaldiçoado\" ela reconheceu aquele que estava amaldiçoado, quem Nanã não quis cuidar",
+                        "notetexts": [
+                            "(Referência ao ÌTÀN onde NÀNÁ teria abandonado seu filho ỌBALÚAYÉ pois no corpo dele haviam doenças, machucados, e ela o rejeitou, YEMỌJÁ teria o encontrado depois e o cuidou. NÀNÁ por ser a Senhora da Vida não deveria ter o abandonado segundo a nossa concepção, e também mostra que cantiga de ÒRÌṢÀ nem sempre vai falar só de benção, paz e amor.)"
+                        ]
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "O mò fi elépè wà",
+                        "transliteracao": "Ó mó fi elêpe ua",
+                        "traducao": "Ela reconheceu aquele que estava amaldiçoado",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Nàná kùnà yè",
+                        "transliteracao": "Nanã kuna iye",
+                        "traducao": "Quem Nanã não quis cuidar",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "O mò fi elépè wà",
+                        "transliteracao": "Ó mó fi elêpe ua",
+                        "traducao": "Ela reconheceu aquele que estava amaldiçoado",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "none",
+                        "yoruba": "Nàná Bukuku, Nàná kúnlẹ̀bọ",
+                        "transliteracao": "Nanã Buruku Nanã kúnlébó",
+                        "traducao": "Nanã Buruku, Nanã, aquela que enche a terra de oferendas",
+                        "notetexts": [
+                            "(NÀNÁ é tida por muitos como a mais velha de todas as Anciãs, é a Senhora da Vida, do solo, da Mãe Terra, do seu barro fomos criados e nós somos a própria oferenda da terra, que nos empresta um corpo para pisar sobre ela e no fim, todos somos abraçados por ela mesmo. Por isso, quando agradecemos a vida, no nosso aniversário por exemplo, devemos agradecer também as Anciãs Divinas, a ONÍLẸ̀, que é a Mãe Terra, por isso também que levamos nossa cabeça ao solo. Não traduzi o nome de Nanã porque BURÚKÚ, em yorubá, é algo ruim, negativo, alguns acreditam que seja outra escrita, outros mais acreditam que seja essa mesmo, já que o mal é relativo na visão Yorubá. [e outros mais acreditam que NÀNÁ é um VODUN, de Jeje, podendo ter um outro significado esse nome. São crenças, crenças e crenças]. Em partes da Áfrika ainda lhe chamar por ỌMỌLÚ, na verdade é uma nomenclatura bem mais comum, no território Yorubá principalmente)."
+                        ]
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Kárí re ma lepo kùn jàre ma, Kárí re ma lepo kùn jàre ma",
+                        "transliteracao": "Kárí rema lepo kundja rema Kárí rema lepo kundja rema",
+                        "traducao": "Esfregar o \"Dendê\" em seu corpo, para cuida-lo, foi o suficiente para combater as feridas, esfregar seu corpo com Dendê foi o suficiente para que ele tivesse melhoras",
+                        "notetexts": [
+                            "(Existem mais de uma versão do mesmo ÌTÀN, em uma delas é que ỌBALÚAYÉ teria sido atacado pro caranguejos, ficando mais debilitado, quando YEMỌJÁ cuidou dele não o deu nenhum alimento com óleo)."
+                        ]
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "(aaa) a ráyè, kárí re ma lepo kùn jàre ma, kárí re ma lepo kùn jàre ma",
+                        "transliteracao": "Ahhhh a ráie kárí re ma lepo kundja rema kárí rema lepo kundja rema",
+                        "traducao": "Oh, ele teve uma nova chance de viver, esfregar o Dendê em seu corpo foi o suficiente para cuida-lo, esfregar o Dendê em seu corpo foi o suficiente para que ele tivesse melhoras",
+                        "notetexts": []
+                    }
+                ]
+            },
+            {
+                "id": "jeje",
+                "titulo": "Jeje",
+                "cantos": [
+                    {
+                        "sing": "P",
+                        "yoruba": "Nàná re wa, odò nire wa",
+                        "transliteracao": "Nanã reua odo nire ua",
+                        "traducao": "Nanã é boa para nós, o rio tem bençãos para nós",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Nàná re wa, Nàná re wa ìyè",
+                        "transliteracao": "Nanã reua Nanã reua iye",
+                        "traducao": "Nanã é boa para nós, Nanã é boa para nós, para a vida",
+                        "notetexts": [
+                            "(\"ah mas eu canto pra Yemanjá nova, que eu sempre aprendi assim e tal e coisa e coisa e tal\", vou colocar uma versão para YEMỌJÁ porém TEJE DITO que a probabilidade dessa cantiga e das próximas serem de NÀNÁ é muito maior, por tudo aquilo que já estudamos nos outros documentos, de que o ritmo JEJE normalmente é focado mais nos VODUN)."
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "jeje-segunda-versao",
+                "titulo": "Jeje(Segunda Versão)",
+                "cantos": [
+                    {
+                        "sing": "none",
+                        "yoruba": "Anàrewa, odò nire wa",
+                        "transliteracao": "Anarewa odo nire ua",
+                        "traducao": "(Yemojá) Aquela que nos faz o bem, o rio tem bençãos para nós",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "A ma kélè-kélè wèse",
+                        "transliteracao": "Ama kêle-kêle uece",
+                        "traducao": "Nós chamamos, confiamos que pode nos trazer a jovialidade (juventude)",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Nàná re wa",
+                        "transliteracao": "Nanã re ua",
+                        "traducao": "Nanã é boa para nós",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "A ma kélè-kélè wèse",
+                        "transliteracao": "Ama kêle-kêle uece",
+                        "traducao": "Nós chamamos, confiamos que pode nos trazer a jovialidade",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "A wé lèsì",
+                        "transliteracao": "auê lessi",
+                        "traducao": "Nos envolva de respostas (resultados)",
+                        "notetexts": [
+                            "(No sentido de ser atendido)"
+                        ]
+                    },
+                    {
+                        "sing": "none",
+                        "yoruba": "Ìwọ yá bá dílé, ìwọ yá bá dílé, Nàná Buruku àko nsú láyè, ìwọ yá bá dílé",
+                        "transliteracao": "Iuó yá bá dílê iuó yá bá dílê Nanâ Buruku ako nsú laye iuó yá bá dílê",
+                        "traducao": "Venha logo para nossa casa, venha logo ao encontro de casa, venha Nanã, a folha da palmeira é como a troca da vida, venha logo ao encontro de casa",
+                        "notetexts": [
+                            "(A Folha da Palmeira ainda tem um excelente uso depois de ser colhida)."
+                        ]
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Nàná Buruku aje lù wa kààwò, Nàná buruku aje lù wa kààwò",
+                        "transliteracao": "Nanã buruku adjelu ua kaawó Nana buruku adjelu ua kaawó",
+                        "traducao": "Nanã Buruku é quem nos bate e nos castiga, quem dita as proibições, Nanã Buruku é quem nos bate e nos castiga, quem dita as proibições",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Aje lawo, aje lawo kààwò, aje lù wa kààwò",
+                        "transliteracao": "Adje lauo adje lauo kaawó adje lu ua kààwò",
+                        "traducao": "É quem castiga o iniciado, é quem castiga o iniciado, quem dita as proibições, é quem nos bate e nos castiga, quem dita as proibições",
+                        "notetexts": [
+                            "(No culto de NÀNÁ existem diversas proibições, NÀNÁ também é ÌYÁMI, uma Mãe Ancestral, portanto, corrige seus filhos e iniciados)."
+                        ]
+                    },
+                    {
+                        "sing": "none",
+                        "yoruba": "Odò félè, félèfélè ni odò",
+                        "transliteracao": "Odo félé féléfélé ni odo",
+                        "traducao": "O rio é largo e flexível, grande e flexível é o rio",
+                        "notetexts": [
+                            "(Dá o sentido de que o Rio é YEMỌJÁ, já que na Cultura Yorubá, não se vê ÒṢÙN e YEMỌJÁ como seres magras e sim gordas, que é sinal de abundância, de Mãe que gera muitos filhos, filhos são a prosperidade)."
+                        ]
+                    }
+                ]
+            }
+        ],
+        "oxala": [
+            {
+                "id": "igbin",
+                "titulo": "Igbin",
+                "cantos": [
+                    {
+                        "sing": "P",
+                        "yoruba": "Onímò, Onímòkún",
+                        "transliteracao": "Onímó Onímókún",
+                        "traducao": "Senhor do Conhecimento, Senhor de Grande Conhecimento",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Bàbánlà ìkó, Onímòkún, Bàbánlà ìyì",
+                        "transliteracao": "Babánla ìkô Onímókún Babánla iyi",
+                        "traducao": "O Pai do Pano Branco é rígido, Senhor de Grande Conhecimento, Pai Respeitável",
+                        "notetexts": [
+                            "(ÒṢÀLÁ é um ÒRÌṢÀ que cobra muito o caráter de seus filhos, sempre se faz a analogia de que seus devotos devem sempre manter o seus \"Panos Brancos\", sem manchar, sem enganar ninguém e nem a si mesmo)."
+                        ]
+                    },
+                    {
+                        "sing": "none",
+                        "yoruba": "Bàbáàṣẹ kí tù ẹlérù-àlà",
+                        "transliteracao": "Babáaxé kí tu éléru ala",
+                        "traducao": "O Pai portador de ÀṢẸ, que usa seu pano branco para pacificar",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Lékeléke domi o",
+                        "transliteracao": "Lêkelêke domi o",
+                        "traducao": "O Lekeleke vem nas águas (foi para as águas)",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Bàbálòrìṣà domi o",
+                        "transliteracao": "Babálorixa domi o",
+                        "traducao": "O Pai dos Orixás vem das águas",
+                        "notetexts": [
+                            "(Falamos que ÒṢÀLÁ é BÀBÁLÒRÌṢÀ pois ele é entendido como um Ancião, um ser de grande conhecimento, não necessariamente que ele seja pai de todos eles como na visão de um Deus Supremo, pois o Deus Supremo na verdade é OLÓDÙMARÈ. Destaco também que LÉKELÉKE é um pássaro que representa ÒṢÀLÁ)."
+                        ]
+                    },
+                    {
+                        "sing": "none",
+                        "yoruba": "A bá lọ̀rẹ́ júpé, àwa bá lọ̀rẹ́ júpé, àwa má ṣé lò Onímòkún, àwòrò, àwa bá lọ̀rẹ́ júpé, àwa má ṣé lò Onímòkún, àwòrò",
+                        "transliteracao": "A bá lóré djúpé aua bá lóré djúpé aua macé loonímókún auoro aua bá lóré djúpé aua macé loonímókún auoro",
+                        "traducao": "Nós encontramos um grande amigo para agradecer, nós encontramos um grande amigo para agradecer, nós não negamos nos inclinar para o Senhor de Grande Conhecimento, quem observa as práticas, nós encontramos um grande amigo para agradecer, nós não negamos nos curvar para o Senhor do Conhecimento, quem observa as práticas",
+                        "notetexts": [
+                            "(ÀWÒRÒ significa Sacerdote, porém, em sua composição há as palavras \"A+WÒ+ORÒ = AQUELE+OLHAR/OBSERVAR+CULTO, TRADIÇÃO, COSTUME\", referindo-se justamente ao personagem que observa e fiscaliza as práticas do culto, dos seus próprios costumes)."
+                        ]
+                    },
+                    {
+                        "sing": "none",
+                        "yoruba": "O yé ìyè pa mi ìyà, o yé ìyè pa mi ìyà, àwa má ṣé lò Onímòkún, àwòrò, o yé ìyè pa mi ìyà, àwa má ṣé lò Onímòkún, àwòrò",
+                        "transliteracao": "O yê iye pami iya o yê iye pami iya aua mácé loonímókún auoro o yê iye pami iya aua mácé loonímókún auoro",
+                        "traducao": "Ele compreende a vida e acabou com o meu sofrimento, ele compreende a vida e acabou com o meu sofrimento, nós não negamos nos curvar para o Senhor de Grande Sabedoria, quem observa nossas práticas, ele compreende a vida e acabou com o meu sofrimento, nós não negamos nos curvar para o Senhor da Sabedoria, quem observa as práticas",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "none",
+                        "yoruba": "Bàbálòrìṣà tàlà aṣọ nilé, o tọ̀ olómi rájò, o tọ̀ olómi nàwé, Bàbá tàlà aṣọ nilé o",
+                        "transliteracao": "Babálorixa talaxó nilê o tólomi rádjo o tólomi nawê Babá talaxó nilê o",
+                        "traducao": "O Pai dentre os Orixás, que tem vestes brancas e puras, o Senhor da Casa, quem recorre ao senhor das águas ali deixa sua aflição, quem recorre ao senhor das águas ali encontra amizade, o Pai que tem vestes brancas e puras, o Senhor da casa",
+                        "notetexts": [
+                            "(Também pode ter um outro entendimento da frase \"O TỌ̀ LOMI NÀ WÉ\", que pode ser entendida como se ÒṢÀLÁ recorresse a água, ao rio, para esfregar e limpar suas vestes brancas, deixando também seus problemas, pois ÒRÌṢÀ também tinha seus problemas. Coisa que seus devotos também devem fazer, recorrer a água)."
+                        ]
+                    },
+                    {
+                        "sing": "none",
+                        "yoruba": "Òrìṣà tàlà aṣọ nilé, àwa ṣẹ̀ ki amọ̀ dìde",
+                        "transliteracao": "Orixa talaxó nilê aua xéki amó dide",
+                        "traducao": "Orixá que tem vestes brancas e puras, o Senhor da Casa, que do barro nos deu origem",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "A bá jùkàn á fèè rere",
+                        "transliteracao": "A bá djukan a fê rere",
+                        "traducao": "Juntos nós recorremos a aquele que nos dará bençãos, sorte",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Bàbálàṣẹ ki adúpé oro",
+                        "transliteracao": "Babálaxé ki adúpé oro",
+                        "traducao": "Ao Pai portador do ÀṢẸ, nós agradecemos pelo estímulo",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "none",
+                        "yoruba": "Oníké gbé o, fáárà iyán, Bàbá ṣà nilé, o kú fáárà iyán",
+                        "transliteracao": "Oníkê gbê o fára iyân Babá xa nilê o kú fára iyân",
+                        "traducao": "O Senhor que anda curvado se levantou, está pilando o inhame, o Pai colhe um por um para pilar o inhame em casa",
+                        "notetexts": [
+                            "(Há duas escritas para \"ONIKE\": ONÍKÉ = Pessoa corcunda, que anda curvada e ONÍKE = Senhor do Marfim. O Marfim representa a realeza)."
+                        ]
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Oníké gbé o",
+                        "transliteracao": "Oníkê gbê o",
+                        "traducao": "O Senhor que anda curvado se levantou",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Fáárà iyán",
+                        "transliteracao": "Fára iyân",
+                        "traducao": "Está pilando inhame",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "none",
+                        "yoruba": "Ẹ nbò un, o lò fi olórìṣàlá",
+                        "transliteracao": "É nbo un o lo fi olôrixalá",
+                        "traducao": "Eles estão esmagando sim! O Senhor usa o seu devoto para isso",
+                        "notetexts": [
+                            "(Continuando a se referir sobre o inhame, essa frase tem um significado interessante, em entrelinhas diz que ÒṢÀLÁ usa o seu devoto para fazer o inhame da forma que ele gosta, quando seu devoto está fazendo, na verdade é ÒṢÀLÁ quem está induzindo ele a fazer de tal forma)."
+                        ]
+                    },
+                    {
+                        "sing": "none",
+                        "yoruba": "Òréré n Bàbá óò, òréré n Bàbá óò, o mọ̀ fi lò Òrìṣà-nlá, o mọ̀ fi lò Bàbá",
+                        "transliteracao": "O rêrê n Babá o o rêrê n Babá o o mó fi lorixalá o mó fi lo Babá",
+                        "traducao": "Você ainda tem um longo caminho Pai, você ainda tem um longo caminho Pai, você sabe o que fazer Oxalá, você sabe o que fazer Pai",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "none",
+                        "yoruba": "Òṣàlá lẹrù, Òṣàlá lẹrù, o mọ̀ fi lò Òrìṣà-nlá, o mọ̀ fi lò Bàbá",
+                        "transliteracao": "Oxalá léru Oxalá léru o mó fi lorixalá o mó fi lo Babá",
+                        "traducao": "Oxalá tem uma bagagem, Oxalá tem uma bagagem, você sabe o que fazer Oxalá, você sabe o que fazer Pai",
+                        "notetexts": [
+                            "(Nos mitos da criação, ÒṢÀLÁ foi um dos encarregados de trazer os humanos do Ọ̀RUN para a terra, de fazer a humanidade evoluir, por isso a \"Bagagem\". Mesmo que a crença tenha diversas versões de quem teria cumprido de fato a missão de fazer a humanidade crescer).",
+                            "O toque ODAN pode entrar como um complemento dessa sequência, mas não existe regra para mudar o toque!"
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "ijexa",
+                "titulo": "Ijexá",
+                "cantos": [
+                    {
+                        "sing": "P",
+                        "yoruba": "Òṣàlá ki gbè lẹrù",
+                        "transliteracao": "Oxalá ki gbéléru",
+                        "traducao": "Oxalá, que semeia com sua bagagem",
+                        "notetexts": [
+                            "(Novamente se referindo ao fato de ÒṢÀLÁ carregar, trazer algo para cumprir sua missão. Normalmente tento não entrar em contexto de Qualidade ou Epítetos, por isso algumas rezas/cantigas podem não estar presentes nesse documento)."
+                        ]
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Ké rere ma fà",
+                        "transliteracao": "Kê rere ma fa",
+                        "traducao": "Chame a benção e a espalhe",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "none",
+                        "yoruba": "Àwa fi òòlà ìyè, o rù yèyé re wa",
+                        "transliteracao": "Aua fi oola iye oru ieiê reua",
+                        "traducao": "Nós entregamos nossa vida ao Salvador, aquele que tem um lado gentil e maternal para nós",
+                        "notetexts": [
+                            "(Se notarmos em questão de Vida, a água, a terra, entre outros fatores necessários para nossa existência, todos são entendidos como feminino, pois são quem realmente geram a vida)."
+                        ]
+                    },
+                    {
+                        "sing": "none",
+                        "yoruba": "Yé o, yé o, yé Oròmiláìyà",
+                        "transliteracao": "Ié o ié o ié Oromiláia",
+                        "traducao": "Respeitem, respeitem, respeitem Oromiláia",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "none",
+                        "yoruba": "Òṣàlá kò mi àjò, Bàbá òkè ké, Òṣàlá kò mi àjò, Bàbá òkè ké",
+                        "transliteracao": "Oxalá komi adjo Babá oke ké Oxalá komi adjo Babá oke ké",
+                        "traducao": "Oxalá, junte-se a mim na jornada, o Pai das alturas me alivia , Oxalá, junte-se a mim na jornada, o Pai das alturas me alivia",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "none",
+                        "yoruba": "Owó kiri wa pé ṣò ròrò, owó kiri wa pé ṣò ròrò, Bàbá on òṣì má, Bàbá on òṣì má, owó kiri wa pé ṣò ròrò",
+                        "transliteracao": "Ouô kiri ua pê xororo ouô kiri ua pê xororo Babá on oxi mâ Babá on oxi mâ ouô kiri ua pê xororo",
+                        "traducao": "O valor que anda conosco é para aumentar nosso brilho, o valor que anda conosco é para aumentar nosso brilho, o Pai e a miséria não existem juntos, o Pai e a miséria não existem juntos, o valor que anda conosco é para aumentar nosso brilho",
+                        "notetexts": [
+                            "(Por ÒṢÀLÁ ser rei, um ÒRÌṢÀ que conquistou seu trono, seus devotos adoram usar tecidos de boa qualidade, são prósperos e a miséria não ocupa espaço em suas vidas, somente se despertarem a ira de seu Pai)."
+                        ]
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Onímọ̀kún ṣé ràn, Bàbá Onímọ̀kún ṣé ràn",
+                        "transliteracao": "Onímókún céran Babá Onímókún céran",
+                        "traducao": "Senhor de Grande conhecimento que contagia, Pai e Senhor de Grande conhecimento que contagia (se estende a nós)",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Bàbá Onímọ̀kún, Onímọ̀kún ṣé ràn",
+                        "transliteracao": "Babá Onímókún Onímókún céran",
+                        "traducao": "Pai e Senhor de Grande Conhecimento, Senhor de Grande Conhecimento que contagia",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "none",
+                        "yoruba": "Bàbá Onímò mọ̀kọ́ṣẹ, Òṣàlá mọ̀kọ́ṣẹ, Bàbá Onímò mọ̀kọ́ṣẹ",
+                        "transliteracao": "Babá Onímó mócóxé Oxalá mócóxé Babá Onímó mócóxé",
+                        "traducao": "Pai do Conhecimento, \"Mọ̀kọ́ṣẹ\" (Aquele que tem sabedoria para ensinar sobre a Origem de tudo), Oxalá Mọ̀kọ́ṣẹ, Pai do conhecimento, Aquele que tem sabedoria para ensinar sobre a Origem de tudo",
+                        "notetexts": []
+                    }
+                ]
+            },
+            {
+                "id": "lomina-are",
+                "titulo": "Lomina/Aré",
+                "cantos": [
+                    {
+                        "sing": "P",
+                        "yoruba": "Lókè, lomi na?",
+                        "transliteracao": "Lôke lomi na",
+                        "traducao": "No alto ou nas águas, \"quem é?\"",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Bàbá ìyìn",
+                        "transliteracao": "Babá yin",
+                        "traducao": "O Pai respeitável (louvável)",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Ẹ jí yá wáwá, àwa bá ìṣòro",
+                        "transliteracao": "É dji yá uáuá awa bá ixoro",
+                        "traducao": "Senhor, levante-se e venha, de forma ereta, nós estamos com dificuldades",
+                        "notetexts": [
+                            "(Essa cantiga se refere a forma \"Jovial\" de Ọ̀BÀTÀLÀ, se tratando de encarnações a mais próxima seria ÒGÌYÁN, que é um ancestral da mesma família e era um guerreiro em vida)."
+                        ]
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Ẹ jí yá \"eee\", Bàbá Ọ̀runmọlẹ̀, ẹ jí yá",
+                        "transliteracao": "É djí yá eee Babá Órunmólé é djí yá",
+                        "traducao": "Levante-se senhor, Pai entre as Divindades, Levante-se logo e venha",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Àpèkọ rù Bàbá",
+                        "transliteracao": "Apekó ru Babá",
+                        "traducao": "Os ditados carregam Mentoria (Ditados são Mestres)",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Àpèkọ Ọ̀runmọlẹ̀",
+                        "transliteracao": "Apekó Órunmólé",
+                        "traducao": "Ditados são Divindades",
+                        "notetexts": [
+                            "(Como bem sabemos, ÒṢÀLÁ é um ser de Palavras Justas, uma palavra para nossa boca pode ser simples, para ÒṢÀLÁ, ela pode se tornar um Ditado, algo verdadeiro, uma regra, pois ele não teme a mentira)."
+                        ]
+                    },
+                    {
+                        "sing": "none",
+                        "yoruba": "Ẹ̀lẹ̀ o, ẹ̀lẹ̀ o, ẹ̀lẹ̀ o, oyin adùn Bàbá ṣoro",
+                        "transliteracao": "Éléo éléo éléo oyin ya dú Babá xoro",
+                        "traducao": "Cuidado, cuidado, cuidado, o Mel é a doçura que pode fazer o Pai se tornar cruel",
+                        "notetexts": [
+                            "(O mel é um elemento que \"acelera\" ÒRÌṢÀ, ao culturar ÒṢÀLÁ deve-se ter cuidado com o excesso de mel, não que ele não goste, porém houveram encarnações terrenas desse ÒRÌṢÀ que iam para a guerra, que derramavam o sangue do inimigo, por isso o excesso e a falta de saber acalmar esse ÒRÌṢÀ pode trazer sua revolta)."
+                        ]
+                    },
+                    {
+                        "sing": "none",
+                        "yoruba": "Ẹ̀lẹ̀ o, awo, ẹ̀lẹ̀ o, jí Bàbá o",
+                        "transliteracao": "Éléo auo éléo djí Babá o",
+                        "traducao": "Tenha cuidado, com o segredo, tenha cuidado ao despertar o Pai",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "none",
+                        "yoruba": "Là fi òòlà, là fi òòlà, yèyé Bàbá Ọ̀runmọlẹ̀",
+                        "transliteracao": "La fi oola la fi oola iê iê Babá Órunmólé",
+                        "traducao": "Estenda-nos a salvação, estenda-nos a salvação, \"Pai Maternal\", Pai entre as Divindades",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Ominilà ma Bokun",
+                        "transliteracao": "Ominila ma Bocun",
+                        "traducao": "A água próspera é Bokun",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Ominilà ba ẹ jí yá o",
+                        "transliteracao": "Ominila \"baé\" djí iá o",
+                        "traducao": "Das águas prósperas onde ele se esconde, ele veio rápido",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Ẹ ma wá ayé pé Ọ̀runmọlẹ̀ odò",
+                        "transliteracao": "É ma uá aiê p'runmólé odo",
+                        "traducao": "Senhor, que quando veio para a terra estava reunido com as Divindades dos Rios",
+                        "notetexts": [
+                            "(Ou, escrito de outra forma pode ser: O Senhor existe na Terra como uma Divindade dos Rios)."
+                        ]
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Ẹ̀rọ̀, ẹ ma wá ayé pé Ọ̀runmọlẹ̀ odò, ẹ̀rọ̀",
+                        "transliteracao": "Éró é ma uá aiê p'runmólé odo éró",
+                        "traducao": "Para pacificar, Senhor que quando veio para a terra estava reunido com as Divindades dos Rios, para pacificar",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "none",
+                        "yoruba": "Olómi ná aládé, korí forígbalẹ̀",
+                        "transliteracao": "Olômi ná aládê corí forígbalé",
+                        "traducao": "O primeiro Senhor das águas, o Dono da Coroa, a ele se bate cabeça para prestar reverência",
+                        "notetexts": [
+                            "(Essa cantiga tem sua origem no culto de Ọ̀RÚNMÌLÀ, porém um pouco diferente)."
+                        ]
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Bàbá mokèmokè ṣe",
+                        "transliteracao": "Babá mokemoke xe",
+                        "traducao": "O Pai, que construiu as alturas",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "B",
+                        "yoruba": "Bàbá Olókè, Bàbá",
+                        "transliteracao": "Babá Olôke Babá",
+                        "traducao": "O Pai, senhor das alturas, o Pai",
+                        "notetexts": [
+                            "(Digamos que é aquele que dá sentido ao \"status\" de Ser das Alturas)."
+                        ]
+                    },
+                    {
+                        "sing": "none",
+                        "yoruba": "Gbẹ̀lẹrù, Gbẹ̀lẹrù, Gbẹ̀lẹrù, Òrìṣànlá mọlẹ̀ odò",
+                        "transliteracao": "Gbéléru Gbéléru Gbéléru Orixanlá mólé odo",
+                        "traducao": "\"Oxalá, Oxalá, Oxalá, o Grande Orixá, Divindade do Rio",
+                        "notetexts": [
+                            "(Explicando fica melhor. Não temos registro para a maioria dos ORÚKỌ [Nome/Dijina] que usamos no Batuke, para saber a verdadeira escrita e intenção do seus significados, pois o Nome é muito importante para os Yorubás.",
+                            "GBẸ̀LẸRÙ ou BẸLẸRÙ, respectivamente, podem significar \"Aquele que semea com o que carrega\", ou seja, que semea e traz coisas boas quando cobre o seu devoto com o ÀLÀ ou até mesmo sua sabedoria, ou então \"Aquele que carrega algo brilhante, radiante\", o que também faz sentido já que é o ÒRÌṢÀ da Pureza e da luz branca)."
+                        ]
+                    },
+                    {
+                        "sing": "none",
+                        "yoruba": "Olú yèyé, Bàbálòrìṣà gbè mi o",
+                        "transliteracao": "Olú ieiê Babálorixa gbe mi o",
+                        "traducao": "O \"Senhor Mãe\", o Pai dentre os Orixás, apoie-me",
+                        "notetexts": []
+                    }
+                ]
+            },
+            {
+                "id": "glefe-jeje",
+                "titulo": "Glefe/Jeje",
+                "cantos": [
+                    {
+                        "sing": "P",
+                        "yoruba": "Sá wé rì lòkun",
+                        "transliteracao": "Sáuê rí locun",
+                        "traducao": "Ele correu para se envolver e se esconder no mar",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Bàbá mi sáwé rì, Bokun lọ",
+                        "transliteracao": "Babá mi sáuê rí Bocun ló",
+                        "traducao": "Meu pai correu para se envolver e se esconder no mar, \"Bokun foi\"",
+                        "notetexts": [
+                            "(BOKUN também é um nome composto que pode significar \"aquele que se esconde no mar\")."
+                        ]
+                    },
+                    {
+                        "sing": "none",
+                        "yoruba": "Sá wé, sá wé, sá wé rì, Bàbá sá wé",
+                        "transliteracao": "Sáuê sáuê sáuê ri Babá sáuê",
+                        "traducao": "Correu para se envolver, correu, correu para se envolver e se esconder, o Pai correu",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Talù ndé tàlà lù fà yìn, talù ndé tàlà lù fà o",
+                        "transliteracao": "Talundê tala lu fayin talundê tala lu fa o",
+                        "traducao": "Com a pureza, está caindo do alto, caindo e espalhando louvor, com a pureza, estas caindo do alto, caindo e se espalhando",
+                        "notetexts": []
+                    }
+                ]
+            },
+            {
+                "id": "olokori-olokoriji",
+                "titulo": "Olokori/Olokoriji",
+                "cantos": [
+                    {
+                        "sing": "P",
+                        "yoruba": "A mọ̀ Bokun ìbẹ̀rẹ̀, àwa mọ̀ Bokun ìbẹ̀rẹ̀",
+                        "transliteracao": "A mó Bokun ibere aua mó Bokun ibere",
+                        "traducao": "Nós sabemos que Bokun é a origem, nós sabemos que Oxalá é a origem",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Aṣojú àyé, àwa mọ̀ Bokun ìbẹ̀rẹ̀",
+                        "transliteracao": "A xodjú aiê aua mó Bokun ibere",
+                        "traducao": "O Representante do Ọ̀RUN na terra, nós sabemos que Bokun é a origem",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "P",
+                        "yoruba": "Yẹ́ o, yẹ́ o",
+                        "transliteracao": "Yé o yé o",
+                        "traducao": "Respeitem-no, respeitem-no",
+                        "notetexts": []
+                    },
+                    {
+                        "sing": "R",
+                        "yoruba": "Yẹ́ Oròmiláìyà",
+                        "transliteracao": "Yé Oromilaia",
+                        "traducao": "Respeitem Oromilaia",
+                        "notetexts": []
+                    }
+                ]
+            }
+        ]
     },
     "settings": {
         "colors": {
