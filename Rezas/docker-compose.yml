@@ -1,0 +1,23 @@
+services:
+  cabinda_app:
+    build: .
+    container_name: cabinda_app
+    volumes:
+      - .:/var/www/html
+    networks:
+      - cabinda_net
+      - proxy
+    labels:
+      - "traefik.enable=true"
+      - "traefik.http.routers.cabinda.rule=Host(`cabinda.local`)"
+      - "traefik.http.routers.cabinda.entrypoints=web"
+      - "traefik.http.routers.cabinda-secure.rule=Host(`cabinda.local`)"
+      - "traefik.http.routers.cabinda-secure.entrypoints=websecure"
+      - "traefik.http.routers.cabinda-secure.tls=true"
+      - "traefik.http.services.cabinda.loadbalancer.server.port=80"
+
+networks:
+  cabinda_net:
+    driver: bridge
+  proxy:
+    external: true

@@ -1,0 +1,112 @@
+# ----------------------------------------------------------------------
+# Version Control & Git
+# ----------------------------------------------------------------------
+.git
+.gitignore
+.gitattributes
+.gitmodules
+
+# ----------------------------------------------------------------------
+# Secrets & Environment Variables (CRITICAL)
+# ----------------------------------------------------------------------
+# Never include .env files in the build context to prevent leaking secrets
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.pem
+*.key
+
+# ----------------------------------------------------------------------
+# Docker Files
+# ----------------------------------------------------------------------
+# Exclude Docker configuration files to keep the image clean
+docker-compose.yml
+docker-compose.*.yml
+Dockerfile
+.dockerignore
+
+# ----------------------------------------------------------------------
+# Node.js / NPM / Yarn
+# ----------------------------------------------------------------------
+# Dependencies should be installed inside the container, not copied
+node_modules/
+npm-debug.log
+yarn-error.log
+lerna-debug.log
+.npm
+.yarn
+
+# ----------------------------------------------------------------------
+# Python
+# ----------------------------------------------------------------------
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environments (Local venvs should not be copied)
+venv/
+env/
+ENV/
+.venv/
+
+# ----------------------------------------------------------------------
+# IDE & Editors
+# ----------------------------------------------------------------------
+# VS Code
+.vscode/
+*.code-workspace
+
+# Visual Studio 2022 / Visual Studio (General)
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+out/
+# 'bin' and 'obj' are usually build artifacts in .NET/VS, usually safe to ignore
+# unless you are specifically copying pre-compiled binaries.
+bin/
+obj/
+
+# JetBrains (IntelliJ, PyCharm, PHPStorm, etc.)
+.idea/
+*.iml
+
+# ----------------------------------------------------------------------
+# Logs & Databases
+# ----------------------------------------------------------------------
+*.log
+logs/
+*.sqlite
+*.sqlite3
+
+# ----------------------------------------------------------------------
+# Operating System Files
+# ----------------------------------------------------------------------
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db

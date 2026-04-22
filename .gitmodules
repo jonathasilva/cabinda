@@ -1,0 +1,3 @@
+[submodule "Rezas/sub_traefik"]
+	path = Rezas/sub_traefik
+	url = https://github.com/jonathasilva/sub_traefik.git

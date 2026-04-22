@@ -76,6 +76,18 @@
                     </div>
                 </fieldset>
 
+                <fieldset class="fieldset">
+                    <legend>Formato de saída</legend>
+
+                    <div class="field">
+                        <label for="output_format">Formato</label>
+                        <select id="output_format" name="output_format">
+                            <option value="md" selected>Markdown</option>
+                            <option value="json">JSON (compacto)</option>
+                        </select>
+                    </div>
+                </fieldset>
+
                 <div class="actions">
                     <button class="btn" type="submit">Calcular</button>
 
